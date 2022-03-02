@@ -1,9 +1,11 @@
 import pickle
 import json
 import argparse
+import os
+import json
 
 def load_products_pkl(filename):
-    with open(filename, 'rb') as f:
+    with open('./pickle/'+filename, 'rb') as f:
         products_str = pickle.load(f) # product data is stored in str format
     products = []
     for s in products_str:
@@ -12,10 +14,10 @@ def load_products_pkl(filename):
 
 
 class Product():
-    def __init__(self, product_dict):
+    def __init__(self, product_info):
         # ten attributes
-        self.title = product_dict['product_title'] # 1
-        self.id = product_dict['product_id'] # 2
+        self.title = product_info['product_title'] # 1
+        self.id = product_info['product_id'] # 2
         self.price = None # 3
         self.overview = None # 4
         self.discount = None # 5
@@ -25,45 +27,57 @@ class Product():
         # "ratings_count": 9
         # "rating": 10
         self.quantity = None # 11
-        load_keys = {'price_information', 'product_overview', 'discount', 'country', 'available_quantity'}
-        self.load(product_dict, load_keys)
 
-    def load(self, product_dict, load_keys):
-        product_keys = product_dict.keys()
+        self.missOverview = False
+        self.missDiscount = False
+        self.missCountry = False
+        self.missQuantity = False
+        self.missPrice = False
+        
+        load_keys = {'price_information', 'product_overview', 'discount', 'country', 'available_quantity'}
+        self.load(product_info, load_keys)
+
+    def load(self, product_info, load_keys):
+        product_keys = product_info.keys()
         load_keys = load_keys & product_keys
         if 'price_information' not in load_keys:
             self.missPrice = True
+            self.price = -1
         else:
-            if 'app_sale_price' not in product_dict['price_information']\
-                    or product_dict['price_information']['app_sale_price'] == None:
+            if 'app_sale_price' not in product_info['price_information']\
+                    or product_info['price_information']['app_sale_price'] == None:
                 self.missPrice = True
+                self.price = -1
             else:
-                self.price = float(product_dict['price_information']['app_sale_price'])
+                self.price = float(product_info['price_information']['app_sale_price'])
 
         if 'product_overview' not in load_keys:
             self.missOverview = True
+            self.overview = "MISS"
         else:
-            self.overview = product_dict['product_overview']
+            self.overview = product_info['product_overview']
             
         if 'discount' not in load_keys:
             self.missDiscount = True
+            self.discount = -1.0
         else:
-            self.discount = float(product_dict['discount'])
+            self.discount = float(product_info['discount'])
             if self.discount < 0:
                 # print('Error! price:{} discount:{}'.format(self.price, self.discount))
-                self.discount = None
+                self.discount = -1.0
                 self.missDiscount = True
     
         if 'country' not in load_keys:
             self.missCountry = True
+            self.country = 'UNK'
         else:
-            self.country = product_dict['country']
+            self.country = product_info['country']
 
         if 'available_quantity' not in load_keys:
             self.missQuantity = True
+            self.quantity = -1
         else:
-            self.quantity = product_dict['available_quantity']
-
+            self.quantity = product_info['available_quantity']
 
     def __str__(self):
         string = '### Product title\n{}\n'.format(self.title)
@@ -80,18 +94,36 @@ class Product():
         # TODO
         pass
 
+def to_json(product):
+    json_str = json.dumps(product.__dict__)
+    with open(f'./json/{product.id}.json', 'w') as f:
+        f.write(json_str)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--filename', type=str, default='./office_1_detail.pkl')
     parser.add_argument('--demo', action='store_true')
     parser.add_argument('--stat', action='store_true')
+    parser.add_argument('--json', action='store_true')
     args = parser.parse_args()
 
+    if args.json:
+        # iterate through all the .pkl file and load into Product(), then put them into json file
+        for filename in os.listdir('./pickle'):
+            if filename[-3:] == 'pkl':
+                product_list = load_products_pkl(filename)
+                for product_info in product_list:
+                    product = Product(product_info)
+                    print(product)
+                    to_json(product)
+                
+            
+        # to_json()
+
     # get list of product data, each one is a dict obj
-    product_list = load_products_pkl(args.filename)
 
     if args.demo:
+        product_list = load_products_pkl(args.filename)
         for i in range(50):
             print(f'=== Demo Product {i} ===')
             print(product_list[i]['available_quantity']) 
