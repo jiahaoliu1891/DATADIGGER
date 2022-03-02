@@ -1,1 +1,20 @@
-{"title": "HALO 100% Cotton Sleepsack Swaddle, 3-Way Adjustable Wearable Blanket, TOG 1.5, Jungle Cotton, Preemie", "id": "B08HFY267D", "price": 24.99, "overview": {"_Blanket_Form_": "Swaddle", "_Product_Dimensions_": "90\"L x 108\"W", "_Brand_": "HALO", "_Color_": "Jungle", "_Fabric_Type_": "Cotton"}, "discount": -1.0, "country": "US", "quantity": 2, "missOverview": false, "missDiscount": true, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "HALO 100% Cotton Sleepsack Swaddle, 3-Way Adjustable Wearable Blanket, TOG 1.5, Jungle Cotton, Preemie",
+    "id": "B08HFY267D",
+    "price": 24.99,
+    "overview": {
+        "_Blanket_Form_": "Swaddle",
+        "_Product_Dimensions_": "90\"L x 108\"W",
+        "_Brand_": "HALO",
+        "_Color_": "Jungle",
+        "_Fabric_Type_": "Cotton"
+    },
+    "discount": -1.0,
+    "country": "US",
+    "quantity": 2,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

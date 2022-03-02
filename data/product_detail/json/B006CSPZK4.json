@@ -1,1 +1,20 @@
-{"title": "TICONDEROGA Pencils, Wood-Cased, Pre-Sharpened, Graphite #2 HB Soft, Yellow, 30-Pack (X13830))", "id": "B006CSPZK4", "price": 6.59, "overview": {"_Brand_": "Dixon Ticonderoga", "_Color_": "Yellow", "_Material_": "Wood, Graphite", "_Ink_Color_": "Black", "_Point_Type_": "Fine"}, "discount": 2.1, "country": "US", "quantity": 90, "missOverview": false, "missDiscount": false, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "TICONDEROGA Pencils, Wood-Cased, Pre-Sharpened, Graphite #2 HB Soft, Yellow, 30-Pack (X13830))",
+    "id": "B006CSPZK4",
+    "price": 6.59,
+    "overview": {
+        "_Brand_": "Dixon Ticonderoga",
+        "_Color_": "Yellow",
+        "_Material_": "Wood, Graphite",
+        "_Ink_Color_": "Black",
+        "_Point_Type_": "Fine"
+    },
+    "discount": 2.1,
+    "country": "US",
+    "quantity": 90,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

@@ -1,1 +1,25 @@
-{"title": "Munchkin Sturdy Potty Seat, Grey", "id": "B01AMWUO1U", "price": 9.89, "overview": {"Color": "Gray", "Brand": "Munchkin", "Shape": "Round", "Item_Dimensions_LxWxH": "15 x 13.5 x 3.4 inches", "Item_Weight": "0.07 Kilograms", "_Color_": "Gray", "_Brand_": "Munchkin", "_Shape_": "Round", "_Item_Dimensions_LxWxH_": "16 x 3.75 x 18.5 inches", "_Item_Weight_": "0.59 Pounds"}, "discount": -1.0, "country": "US", "quantity": 4, "missOverview": false, "missDiscount": true, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "Munchkin Sturdy Potty Seat, Grey",
+    "id": "B01AMWUO1U",
+    "price": 9.89,
+    "overview": {
+        "Color": "Gray",
+        "Brand": "Munchkin",
+        "Shape": "Round",
+        "Item_Dimensions_LxWxH": "15 x 13.5 x 3.4 inches",
+        "Item_Weight": "0.07 Kilograms",
+        "_Color_": "Gray",
+        "_Brand_": "Munchkin",
+        "_Shape_": "Round",
+        "_Item_Dimensions_LxWxH_": "16 x 3.75 x 18.5 inches",
+        "_Item_Weight_": "0.59 Pounds"
+    },
+    "discount": -1.0,
+    "country": "US",
+    "quantity": 4,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

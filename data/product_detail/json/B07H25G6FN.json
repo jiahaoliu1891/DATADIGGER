@@ -1,1 +1,20 @@
-{"title": "eufy Security Floodlight Camera, 1080p, No Monthly Fees, 2500 Lumens, Weatherproof, Built-in AI, 2021, Non-Stop Power (Existing Outdoor Wiring and Weatherproof Junction Box Required)", "id": "B07H25G6FN", "price": 164.97, "overview": {"_Indoor/Outdoor_Usage_": "Outdoor", "_Brand_": "Eufy security", "_Connectivity_Technology_": "Wired", "_Recommended_Uses_For_Product_": "Surveillance", "_Room_Type_": "Garage"}, "discount": 15.02, "country": "US", "quantity": 5, "missOverview": false, "missDiscount": false, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "eufy Security Floodlight Camera, 1080p, No Monthly Fees, 2500 Lumens, Weatherproof, Built-in AI, 2021, Non-Stop Power (Existing Outdoor Wiring and Weatherproof Junction Box Required)",
+    "id": "B07H25G6FN",
+    "price": 164.97,
+    "overview": {
+        "_Indoor/Outdoor_Usage_": "Outdoor",
+        "_Brand_": "Eufy security",
+        "_Connectivity_Technology_": "Wired",
+        "_Recommended_Uses_For_Product_": "Surveillance",
+        "_Room_Type_": "Garage"
+    },
+    "discount": 15.02,
+    "country": "US",
+    "quantity": 5,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

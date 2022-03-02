@@ -1,1 +1,20 @@
-{"title": "BISSELL SpotClean Pet Pro Portable Carpet Cleaner, 2458", "id": "B07D46SQ63", "price": 145.09, "overview": {"_Brand_": "Bissell", "_Form_Factor_": "Cannister", "_Model_Name_": "Spot Clean", "_Surface_Recommendation_": "Upholstery, Carpet", "_Special_Feature_": "Portable, Compact"}, "discount": 30.0, "country": "US", "quantity": 2, "missOverview": false, "missDiscount": false, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "BISSELL SpotClean Pet Pro Portable Carpet Cleaner, 2458",
+    "id": "B07D46SQ63",
+    "price": 145.09,
+    "overview": {
+        "_Brand_": "Bissell",
+        "_Form_Factor_": "Cannister",
+        "_Model_Name_": "Spot Clean",
+        "_Surface_Recommendation_": "Upholstery, Carpet",
+        "_Special_Feature_": "Portable, Compact"
+    },
+    "discount": 30.0,
+    "country": "US",
+    "quantity": 2,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

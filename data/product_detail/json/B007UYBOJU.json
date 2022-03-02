@@ -1,1 +1,20 @@
-{"title": "Graco TurboBooster Backless Booster Car Seat, Galaxy", "id": "B007UYBOJU", "price": 20.79, "overview": {"_Brand_": "GRACO", "_Installation_Type_": "Seat Belt", "_Color_": "Galaxy", "_Item_Dimensions_LxWxH_": "15 x 16 x 8.5 inches", "_Item_Weight_": "5.1 Pounds"}, "discount": -1.0, "country": "US", "quantity": 3, "missOverview": false, "missDiscount": true, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "Graco TurboBooster Backless Booster Car Seat, Galaxy",
+    "id": "B007UYBOJU",
+    "price": 20.79,
+    "overview": {
+        "_Brand_": "GRACO",
+        "_Installation_Type_": "Seat Belt",
+        "_Color_": "Galaxy",
+        "_Item_Dimensions_LxWxH_": "15 x 16 x 8.5 inches",
+        "_Item_Weight_": "5.1 Pounds"
+    },
+    "discount": -1.0,
+    "country": "US",
+    "quantity": 3,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

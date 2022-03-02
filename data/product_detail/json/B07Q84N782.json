@@ -1,1 +1,18 @@
-{"title": "Mintra Office Legal Pads - ((BASIC CANARY 6pk, 5in x 8in, NARROW RULED)) - 50 Sheets per Notepad, Micro perforated Writing Pad, Notebook Paper for School, College, Office, Business", "id": "B07Q84N782", "price": 10.99, "overview": {"_Color_": "Basic 6pk (Canary)", "_Brand_": "Mintra Office", "_Ruling_Type_": "Ruled"}, "discount": -1.0, "country": "US", "quantity": 30, "missOverview": false, "missDiscount": true, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "Mintra Office Legal Pads - ((BASIC CANARY 6pk, 5in x 8in, NARROW RULED)) - 50 Sheets per Notepad, Micro perforated Writing Pad, Notebook Paper for School, College, Office, Business",
+    "id": "B07Q84N782",
+    "price": 10.99,
+    "overview": {
+        "_Color_": "Basic 6pk (Canary)",
+        "_Brand_": "Mintra Office",
+        "_Ruling_Type_": "Ruled"
+    },
+    "discount": -1.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

@@ -1,1 +1,20 @@
-{"title": "Huggies Baby Diapers, Little Movers, Multi-Color, Size 3, 156 Count", "id": "B08QRYHC38", "price": 48.89, "overview": {"_Size_": "Size 3 (156 Count)", "_Recommended_Uses_For_Product_": "Baby Diapers", "_Age_Range_(Description)_": "Baby", "_Brand_": "HUGGIES", "_Color_": "Multi-color"}, "discount": 4.1, "country": "US", "quantity": 4, "missOverview": false, "missDiscount": false, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "Huggies Baby Diapers, Little Movers, Multi-Color, Size 3, 156 Count",
+    "id": "B08QRYHC38",
+    "price": 48.89,
+    "overview": {
+        "_Size_": "Size 3 (156 Count)",
+        "_Recommended_Uses_For_Product_": "Baby Diapers",
+        "_Age_Range_(Description)_": "Baby",
+        "_Brand_": "HUGGIES",
+        "_Color_": "Multi-color"
+    },
+    "discount": 4.1,
+    "country": "US",
+    "quantity": 4,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

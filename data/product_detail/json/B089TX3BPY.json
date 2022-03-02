@@ -1,1 +1,21 @@
-{"title": "Hygenix 3ply Disposable Face Masks PFE 99% Filter Quality Tested in a US lab (Pack of 50 Pcs)", "id": "B089TX3BPY", "price": 10.99, "overview": {"_Size_": "3.54 x 6.88 inches (\u00b1 0.19 inches)", "_Brand_": "Hygenix", "_Color_": "Light Blue", "_Closure_Type_": "Elastic Earloop", "_Reusability_": "Disposable", "_Item_Weight_": "100 Grams"}, "discount": 9.0, "country": "US", "quantity": 30, "missOverview": false, "missDiscount": false, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "Hygenix 3ply Disposable Face Masks PFE 99% Filter Quality Tested in a US lab (Pack of 50 Pcs)",
+    "id": "B089TX3BPY",
+    "price": 10.99,
+    "overview": {
+        "_Size_": "3.54 x 6.88 inches (\u00b1 0.19 inches)",
+        "_Brand_": "Hygenix",
+        "_Color_": "Light Blue",
+        "_Closure_Type_": "Elastic Earloop",
+        "_Reusability_": "Disposable",
+        "_Item_Weight_": "100 Grams"
+    },
+    "discount": 9.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

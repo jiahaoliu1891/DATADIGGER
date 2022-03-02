@@ -1,1 +1,20 @@
-{"title": "MedPride Powder-Free Nitrile Exam Gloves, Large, Box/100", "id": "B00GS8VGP6", "price": 14.79, "overview": {"_Material_": "Nitrile", "_Reusability_": "Disposable", "_Size_": "Large (Pack of 100)", "_Brand_": "MED PRIDE", "_Color_": "Blue"}, "discount": -1.0, "country": "US", "quantity": 30, "missOverview": false, "missDiscount": true, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "MedPride Powder-Free Nitrile Exam Gloves, Large, Box/100",
+    "id": "B00GS8VGP6",
+    "price": 14.79,
+    "overview": {
+        "_Material_": "Nitrile",
+        "_Reusability_": "Disposable",
+        "_Size_": "Large (Pack of 100)",
+        "_Brand_": "MED PRIDE",
+        "_Color_": "Blue"
+    },
+    "discount": -1.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

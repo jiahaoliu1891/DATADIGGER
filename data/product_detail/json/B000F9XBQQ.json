@@ -1,1 +1,20 @@
-{"title": "Sharpie Fine Point Permanent Marker, Assorted Colors,12-Count", "id": "B000F9XBQQ", "price": 9.27, "overview": {"_Style_": "Fine", "_Brand_": "SHARPIE", "_Ink_Color_": "Aqua, berry, Black, blue, brown, green, lime, orange, purple, red, turquoise, yellow", "_Pattern_": "Markers 12 Count", "_Point_Type_": "Fine"}, "discount": -1.0, "country": "US", "quantity": 92, "missOverview": false, "missDiscount": true, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "Sharpie Fine Point Permanent Marker, Assorted Colors,12-Count",
+    "id": "B000F9XBQQ",
+    "price": 9.27,
+    "overview": {
+        "_Style_": "Fine",
+        "_Brand_": "SHARPIE",
+        "_Ink_Color_": "Aqua, berry, Black, blue, brown, green, lime, orange, purple, red, turquoise, yellow",
+        "_Pattern_": "Markers 12 Count",
+        "_Point_Type_": "Fine"
+    },
+    "discount": -1.0,
+    "country": "US",
+    "quantity": 92,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

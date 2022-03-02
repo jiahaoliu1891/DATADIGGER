@@ -1,1 +1,20 @@
-{"title": "Finish All In 1, Dishwasher Detergent - Powerball - Dishwashing Tablets - Dish Tabs, Fresh Scent, 94 Count Each", "id": "B06XX33G82", "price": 14.92, "overview": {"_Brand_": "Finish", "_Scent_": "Fresh", "_Item_Form_": "Tablet", "_Item_Weight_": "2.22 Pounds", "_Item_Dimensions_LxWxH_": "3 x 8 x 8.38 inches"}, "discount": -1.0, "country": "US", "quantity": 27, "missOverview": false, "missDiscount": true, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "Finish All In 1, Dishwasher Detergent - Powerball - Dishwashing Tablets - Dish Tabs, Fresh Scent, 94 Count Each",
+    "id": "B06XX33G82",
+    "price": 14.92,
+    "overview": {
+        "_Brand_": "Finish",
+        "_Scent_": "Fresh",
+        "_Item_Form_": "Tablet",
+        "_Item_Weight_": "2.22 Pounds",
+        "_Item_Dimensions_LxWxH_": "3 x 8 x 8.38 inches"
+    },
+    "discount": -1.0,
+    "country": "US",
+    "quantity": 27,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

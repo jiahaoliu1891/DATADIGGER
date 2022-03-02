@@ -1,1 +1,20 @@
-{"title": "Bissell Professional Spot and Stain + Oxy Portable Machine Formula, 32 oz, 1-Pack, 32 Fl Oz", "id": "B074FRJR9M", "price": 11.99, "overview": {"_Specific_Uses_For_Product_": "Biodegradable", "_Item_Form_": "Liquid", "_Brand_": "Bissell", "_Surface_Recommendation_": "Surface Type: Spot & Stain; Upholstery & Fabric", "_Scent_": "Fresh"}, "discount": -1.0, "country": "US", "quantity": 2, "missOverview": false, "missDiscount": true, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "Bissell Professional Spot and Stain + Oxy Portable Machine Formula, 32 oz, 1-Pack, 32 Fl Oz",
+    "id": "B074FRJR9M",
+    "price": 11.99,
+    "overview": {
+        "_Specific_Uses_For_Product_": "Biodegradable",
+        "_Item_Form_": "Liquid",
+        "_Brand_": "Bissell",
+        "_Surface_Recommendation_": "Surface Type: Spot & Stain; Upholstery & Fabric",
+        "_Scent_": "Fresh"
+    },
+    "discount": -1.0,
+    "country": "US",
+    "quantity": 2,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

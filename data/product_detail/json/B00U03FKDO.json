@@ -1,1 +1,20 @@
-{"title": "Hammermill Printer Paper, 20 lb Copy Paper, 8.5 x 11 - 1 Small Pack (400 Sheets) - 92 Bright, Made in the USA", "id": "B00U03FKDO", "price": 11.88, "overview": {"_Brand_": "Hammermill", "_Color_": "White", "_Paper_Finish_": "Smooth", "_Sheet_Size_": "8.5 x 11", "_Sheet_Count_": "400"}, "discount": -1.0, "country": "US", "quantity": 7, "missOverview": false, "missDiscount": true, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "Hammermill Printer Paper, 20 lb Copy Paper, 8.5 x 11 - 1 Small Pack (400 Sheets) - 92 Bright, Made in the USA",
+    "id": "B00U03FKDO",
+    "price": 11.88,
+    "overview": {
+        "_Brand_": "Hammermill",
+        "_Color_": "White",
+        "_Paper_Finish_": "Smooth",
+        "_Sheet_Size_": "8.5 x 11",
+        "_Sheet_Count_": "400"
+    },
+    "discount": -1.0,
+    "country": "US",
+    "quantity": 7,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

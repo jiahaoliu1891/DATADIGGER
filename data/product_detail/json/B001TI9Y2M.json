@@ -1,1 +1,20 @@
-{"title": "Celestron - 70mm Travel Scope - Portable Refractor Telescope - Fully-Coated Glass Optics - Ideal Telescope for Beginners - BONUS Astronomy Software Package", "id": "B001TI9Y2M", "price": 89.95, "overview": {"_Brand_": "Celestron", "_Model_Name_": "21035", "_Objective_Lens_Diameter_": "70 Millimeters", "_Item_Weight_": "3.3 Pounds", "_Lens_Coating_Description_": "Fully Coated"}, "discount": 20.0, "country": "US", "quantity": 32, "missOverview": false, "missDiscount": false, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "Celestron - 70mm Travel Scope - Portable Refractor Telescope - Fully-Coated Glass Optics - Ideal Telescope for Beginners - BONUS Astronomy Software Package",
+    "id": "B001TI9Y2M",
+    "price": 89.95,
+    "overview": {
+        "_Brand_": "Celestron",
+        "_Model_Name_": "21035",
+        "_Objective_Lens_Diameter_": "70 Millimeters",
+        "_Item_Weight_": "3.3 Pounds",
+        "_Lens_Coating_Description_": "Fully Coated"
+    },
+    "discount": 20.0,
+    "country": "US",
+    "quantity": 32,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

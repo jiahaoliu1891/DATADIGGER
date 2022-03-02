@@ -33,7 +33,7 @@ class Product():
         self.missCountry = False
         self.missQuantity = False
         self.missPrice = False
-        
+
         load_keys = {'price_information', 'product_overview', 'discount', 'country', 'available_quantity'}
         self.load(product_info, load_keys)
 
@@ -95,7 +95,7 @@ class Product():
         pass
 
 def to_json(product):
-    json_str = json.dumps(product.__dict__)
+    json_str = json.dumps(product.__dict__, indent=4)
     with open(f'./json/{product.id}.json', 'w') as f:
         f.write(json_str)
 

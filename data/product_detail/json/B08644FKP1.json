@@ -1,1 +1,20 @@
-{"title": "Amcrest 1080P WiFi Camera Indoor, Nanny Cam, Dog Camera, Sound & Baby Monitor, Human & Pet Detection, Motion-Tracking, w/ 2-Way Audio, Phone App, Pan/Tilt Wireless IP Camera, Night Vision, Smart Home", "id": "B08644FKP1", "price": 33.99, "overview": {"_Indoor/Outdoor_Usage_": "Indoor", "_Brand_": "Amcrest", "_Connectivity_Technology_": "Wireless", "_Recommended_Uses_For_Product_": "Surveillance, Monitor Babies", "_Room_Type_": "Office, Kitchen, Bathroom, Living Room, Bedroom, Classroom, Study Room, Hallway"}, "discount": -1.0, "country": "US", "quantity": 30, "missOverview": false, "missDiscount": true, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "Amcrest 1080P WiFi Camera Indoor, Nanny Cam, Dog Camera, Sound & Baby Monitor, Human & Pet Detection, Motion-Tracking, w/ 2-Way Audio, Phone App, Pan/Tilt Wireless IP Camera, Night Vision, Smart Home",
+    "id": "B08644FKP1",
+    "price": 33.99,
+    "overview": {
+        "_Indoor/Outdoor_Usage_": "Indoor",
+        "_Brand_": "Amcrest",
+        "_Connectivity_Technology_": "Wireless",
+        "_Recommended_Uses_For_Product_": "Surveillance, Monitor Babies",
+        "_Room_Type_": "Office, Kitchen, Bathroom, Living Room, Bedroom, Classroom, Study Room, Hallway"
+    },
+    "discount": -1.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

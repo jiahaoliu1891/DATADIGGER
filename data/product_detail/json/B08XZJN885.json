@@ -1,1 +1,20 @@
-{"title": "Laview Wireless Security Camera, 360\u00b0 Auto Patrol Indoor Home Wi-Fi 1080P Pan-Tilt-Zoom WiFi Camera with Night Vision, Two-Way Audio and Motion Detection, Baby Home Monitor", "id": "B08XZJN885", "price": 29.99, "overview": {"_Indoor/Outdoor_Usage_": "Indoor", "_Brand_": "LaView", "_Connectivity_Technology_": "Wireless", "_Connectivity_Protocol_": "Wi-Fi", "_Model_Name_": "R3"}, "discount": -1.0, "country": "US", "quantity": 30, "missOverview": false, "missDiscount": true, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "Laview Wireless Security Camera, 360\u00b0 Auto Patrol Indoor Home Wi-Fi 1080P Pan-Tilt-Zoom WiFi Camera with Night Vision, Two-Way Audio and Motion Detection, Baby Home Monitor",
+    "id": "B08XZJN885",
+    "price": 29.99,
+    "overview": {
+        "_Indoor/Outdoor_Usage_": "Indoor",
+        "_Brand_": "LaView",
+        "_Connectivity_Technology_": "Wireless",
+        "_Connectivity_Protocol_": "Wi-Fi",
+        "_Model_Name_": "R3"
+    },
+    "discount": -1.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

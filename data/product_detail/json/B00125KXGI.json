@@ -1,1 +1,19 @@
-{"title": "Bostitch Personal Electric Pencil Sharpener, Blue (EPS4-BLUE)", "id": "B00125KXGI", "price": 14.88, "overview": {"_Color_": "Blue", "_Material_": "Plastic", "_Brand_": "Bostitch", "_Item_Dimensions_LxWxH_": "8.38 x 4 x 4.25 inches"}, "discount": 2.96, "country": "US", "quantity": 92, "missOverview": false, "missDiscount": false, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "Bostitch Personal Electric Pencil Sharpener, Blue (EPS4-BLUE)",
+    "id": "B00125KXGI",
+    "price": 14.88,
+    "overview": {
+        "_Color_": "Blue",
+        "_Material_": "Plastic",
+        "_Brand_": "Bostitch",
+        "_Item_Dimensions_LxWxH_": "8.38 x 4 x 4.25 inches"
+    },
+    "discount": 2.96,
+    "country": "US",
+    "quantity": 92,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

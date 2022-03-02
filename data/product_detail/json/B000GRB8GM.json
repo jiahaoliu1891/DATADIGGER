@@ -1,1 +1,20 @@
-{"title": "Hammermill Printer Paper, Great White 30% Recycled Paper, 3 Hole - 1 Ream (500 Sheets) - 92 Bright, Made in the USA, 086702", "id": "B000GRB8GM", "price": 15.66, "overview": {"_Brand_": "Hammermill", "_Color_": "White", "_Item_Weight_": "5 Pounds", "_Paper_Finish_": "Smooth", "_Sheet_Size_": "8.5-x-11-inch"}, "discount": -1.0, "country": "US", "quantity": 30, "missOverview": false, "missDiscount": true, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "Hammermill Printer Paper, Great White 30% Recycled Paper, 3 Hole - 1 Ream (500 Sheets) - 92 Bright, Made in the USA, 086702",
+    "id": "B000GRB8GM",
+    "price": 15.66,
+    "overview": {
+        "_Brand_": "Hammermill",
+        "_Color_": "White",
+        "_Item_Weight_": "5 Pounds",
+        "_Paper_Finish_": "Smooth",
+        "_Sheet_Size_": "8.5-x-11-inch"
+    },
+    "discount": -1.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

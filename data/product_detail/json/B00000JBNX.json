@@ -1,1 +1,20 @@
-{"title": "Texas Instruments TI-30XIIS Scientific Calculator, Black with Blue Accents", "id": "B00000JBNX", "price": 12.5, "overview": {"_Power_Source_": "Solar", "_Brand_": "Texas Instruments", "_Color_": "Black", "_Number_of_Batteries_": "1 CR123A batteries required. (included)", "_Model_Name_": "TI-30XIIS\u2122, Black"}, "discount": -1.0, "country": "US", "quantity": 4, "missOverview": false, "missDiscount": true, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "Texas Instruments TI-30XIIS Scientific Calculator, Black with Blue Accents",
+    "id": "B00000JBNX",
+    "price": 12.5,
+    "overview": {
+        "_Power_Source_": "Solar",
+        "_Brand_": "Texas Instruments",
+        "_Color_": "Black",
+        "_Number_of_Batteries_": "1 CR123A batteries required. (included)",
+        "_Model_Name_": "TI-30XIIS\u2122, Black"
+    },
+    "discount": -1.0,
+    "country": "US",
+    "quantity": 4,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

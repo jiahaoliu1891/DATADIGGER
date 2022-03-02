@@ -1,1 +1,20 @@
-{"title": "Pendaflex Two-Tone Color File Folders, Letter Size, Assorted Colors (Bright Green, Yellow, Red, Blue), 1/3-Cut Tabs, Assorted, 36 Pack (03086), 4-color", "id": "B075332F51", "price": 8.36, "overview": {"_Color_": "4-color", "_Material_": "Paper", "_Style_": "36 Pack", "_Brand_": "Pendaflex", "_Sheet_Size_": "Letter"}, "discount": -1.0, "country": "US", "quantity": 90, "missOverview": false, "missDiscount": true, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "Pendaflex Two-Tone Color File Folders, Letter Size, Assorted Colors (Bright Green, Yellow, Red, Blue), 1/3-Cut Tabs, Assorted, 36 Pack (03086), 4-color",
+    "id": "B075332F51",
+    "price": 8.36,
+    "overview": {
+        "_Color_": "4-color",
+        "_Material_": "Paper",
+        "_Style_": "36 Pack",
+        "_Brand_": "Pendaflex",
+        "_Sheet_Size_": "Letter"
+    },
+    "discount": -1.0,
+    "country": "US",
+    "quantity": 90,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

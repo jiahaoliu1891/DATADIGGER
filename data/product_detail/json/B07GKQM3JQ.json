@@ -1,1 +1,20 @@
-{"title": "GLOVEWORKS HD Orange Nitrile Disposable Gloves, 8 Mil, Latex and Powder Free, Industrial, Food Safe, Raised Diamond Texture", "id": "B07GKQM3JQ", "price": -1, "overview": {"_Fabric_Type_": "Nitrile", "_Origin_": "Imported", "_Material_": "Nitrile", "_Special_Feature_": "Chlorinated, Disposable Gloves, Powder Free, Latex Free, Raised Diamond Textured", "_Reusability_": "Disposable"}, "discount": 0.0, "country": "US", "quantity": 0, "missOverview": false, "missDiscount": false, "missCountry": false, "missQuantity": false, "missPrice": true}
+{
+    "title": "GLOVEWORKS HD Orange Nitrile Disposable Gloves, 8 Mil, Latex and Powder Free, Industrial, Food Safe, Raised Diamond Texture",
+    "id": "B07GKQM3JQ",
+    "price": -1,
+    "overview": {
+        "_Fabric_Type_": "Nitrile",
+        "_Origin_": "Imported",
+        "_Material_": "Nitrile",
+        "_Special_Feature_": "Chlorinated, Disposable Gloves, Powder Free, Latex Free, Raised Diamond Textured",
+        "_Reusability_": "Disposable"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 0,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": true
+}

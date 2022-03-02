@@ -1,1 +1,20 @@
-{"title": "Gorilla Micro Precise Super Glue, 5.5 Gram, Clear, (Pack of 1)", "id": "B083ZJNRXH", "price": 4.84, "overview": {"_Compatible_Material_": "Wood, Paper, Leather, Ceramic, Plastic, Metal", "_Color_": "Clear", "_Brand_": "Gorilla", "_Package_Information_": "Bottle", "_Full_Cure_Time_": "24 Hours"}, "discount": 2.15, "country": "US", "quantity": 72, "missOverview": false, "missDiscount": false, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "Gorilla Micro Precise Super Glue, 5.5 Gram, Clear, (Pack of 1)",
+    "id": "B083ZJNRXH",
+    "price": 4.84,
+    "overview": {
+        "_Compatible_Material_": "Wood, Paper, Leather, Ceramic, Plastic, Metal",
+        "_Color_": "Clear",
+        "_Brand_": "Gorilla",
+        "_Package_Information_": "Bottle",
+        "_Full_Cure_Time_": "24 Hours"
+    },
+    "discount": 2.15,
+    "country": "US",
+    "quantity": 72,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

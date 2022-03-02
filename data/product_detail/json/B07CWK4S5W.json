@@ -1,1 +1,20 @@
-{"title": "Haakaa Manual Breast Pump 4oz/100ml, New Style", "id": "B07CWK4S5W", "price": 12.94, "overview": {"_Brand_": "Haakaa", "_Size_": "1 Count (Pack of 1)", "_Color_": "Clear", "_Style_": "New Style", "_Material_": "Silicone"}, "discount": -1.0, "country": "US", "quantity": 100, "missOverview": false, "missDiscount": true, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "Haakaa Manual Breast Pump 4oz/100ml, New Style",
+    "id": "B07CWK4S5W",
+    "price": 12.94,
+    "overview": {
+        "_Brand_": "Haakaa",
+        "_Size_": "1 Count (Pack of 1)",
+        "_Color_": "Clear",
+        "_Style_": "New Style",
+        "_Material_": "Silicone"
+    },
+    "discount": -1.0,
+    "country": "US",
+    "quantity": 100,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

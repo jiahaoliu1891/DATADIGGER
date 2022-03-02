@@ -1,1 +1,20 @@
-{"title": "Band-Aid Brand Adhesive Bandage Family Variety Pack, Sheer and Clear Bandages, Assorted Sizes, 280 ct", "id": "B001AJS1AQ", "price": 13.29, "overview": {"_Brand_": "Band-Aid", "_Size_": "280 Count (Pack of 1)", "_Item_Dimensions_LxWxH_": "1.77 x 2.36 x 1.57 inches", "_Style_": "Assorted", "_Item_Weight_": "0.3 Pounds"}, "discount": 0.7, "country": "US", "quantity": 30, "missOverview": false, "missDiscount": false, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "Band-Aid Brand Adhesive Bandage Family Variety Pack, Sheer and Clear Bandages, Assorted Sizes, 280 ct",
+    "id": "B001AJS1AQ",
+    "price": 13.29,
+    "overview": {
+        "_Brand_": "Band-Aid",
+        "_Size_": "280 Count (Pack of 1)",
+        "_Item_Dimensions_LxWxH_": "1.77 x 2.36 x 1.57 inches",
+        "_Style_": "Assorted",
+        "_Item_Weight_": "0.3 Pounds"
+    },
+    "discount": 0.7,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

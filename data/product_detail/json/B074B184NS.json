@@ -1,1 +1,18 @@
-{"title": "Amazon Basics Rubber Bands, Size 19 (3-1/2 x 1/16 Inch), 1250 Bands/1 lb. Pack, 25-Pack", "id": "B074B184NS", "price": 92.24, "overview": {"_Brand_": "Amazon Basics", "_Color_": "Tan", "_Unit_Count_": "25.0 Count"}, "discount": -1.0, "country": "US", "quantity": 30, "missOverview": false, "missDiscount": true, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "Amazon Basics Rubber Bands, Size 19 (3-1/2 x 1/16 Inch), 1250 Bands/1 lb. Pack, 25-Pack",
+    "id": "B074B184NS",
+    "price": 92.24,
+    "overview": {
+        "_Brand_": "Amazon Basics",
+        "_Color_": "Tan",
+        "_Unit_Count_": "25.0 Count"
+    },
+    "discount": -1.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

@@ -1,1 +1,14 @@
-{"title": "Baby Registry Welcome Box", "id": "B00N1NBOV2", "price": 35.0, "overview": "MISS", "discount": -1.0, "country": "US", "quantity": 35, "missOverview": true, "missDiscount": true, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "Baby Registry Welcome Box",
+    "id": "B00N1NBOV2",
+    "price": 35.0,
+    "overview": "MISS",
+    "discount": -1.0,
+    "country": "US",
+    "quantity": 35,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

@@ -1,1 +1,20 @@
-{"title": "Sharpie S-Gel, Gel Pens, Medium Point (0.7mm), Black Ink Gel Pen, 4 Count", "id": "B082PMRSBK", "price": 4.47, "overview": {"_Brand_": "SHARPIE", "_Color_": "Black", "_Material_": "Rubber", "_Model_Name_": "S-Gel, Gel Pens,", "_Ink_Color_": "Black"}, "discount": 8.1, "country": "US", "quantity": 90, "missOverview": false, "missDiscount": false, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "Sharpie S-Gel, Gel Pens, Medium Point (0.7mm), Black Ink Gel Pen, 4 Count",
+    "id": "B082PMRSBK",
+    "price": 4.47,
+    "overview": {
+        "_Brand_": "SHARPIE",
+        "_Color_": "Black",
+        "_Material_": "Rubber",
+        "_Model_Name_": "S-Gel, Gel Pens,",
+        "_Ink_Color_": "Black"
+    },
+    "discount": 8.1,
+    "country": "US",
+    "quantity": 90,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

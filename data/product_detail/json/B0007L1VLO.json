@@ -1,1 +1,25 @@
-{"title": "BIC Xtra-Sparkle Mechanical Pencil, Medium Point (0.7 mm), 24-Count, Refillable Design for Long-Lasting Use", "id": "B0007L1VLO", "price": 4.97, "overview": {"Color": "Blue, Green, Orange, Purple, Red", "Ink_Color": "Black", "Brand": "BIC", "Material": "Plastic", "Item_Dimensions_LxWxH": "1.3 x 4.09 x 7.5 inches", "_Brand_": "BIC", "_Color_": "Blue, Green, Orange, Purple, Red", "_Material_": "Plastic", "_Model_Name_": "Xtra Sparkle", "_Ink_Color_": "Black"}, "discount": 7.83, "country": "US", "quantity": 90, "missOverview": false, "missDiscount": false, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "BIC Xtra-Sparkle Mechanical Pencil, Medium Point (0.7 mm), 24-Count, Refillable Design for Long-Lasting Use",
+    "id": "B0007L1VLO",
+    "price": 4.97,
+    "overview": {
+        "Color": "Blue, Green, Orange, Purple, Red",
+        "Ink_Color": "Black",
+        "Brand": "BIC",
+        "Material": "Plastic",
+        "Item_Dimensions_LxWxH": "1.3 x 4.09 x 7.5 inches",
+        "_Brand_": "BIC",
+        "_Color_": "Blue, Green, Orange, Purple, Red",
+        "_Material_": "Plastic",
+        "_Model_Name_": "Xtra Sparkle",
+        "_Ink_Color_": "Black"
+    },
+    "discount": 7.83,
+    "country": "US",
+    "quantity": 90,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

@@ -1,1 +1,20 @@
-{"title": "360 AC1C Indoor Security Camera, 2K Home Camera with [Advanced AI Algorithms], Human and Motion Detection, Light Color Night Vision, Activity Zones, Cloud and Local Storage,5G Not Compatible", "id": "B089W4PKRW", "price": 24.99, "overview": {"_Indoor/Outdoor_Usage_": "Indoor", "_Brand_": "+ 360", "_Connectivity_Technology_": "Wireless", "_Recommended_Uses_For_Product_": "Surveillance", "_Room_Type_": "Office, Kitchen, Living Room, Bedroom, Classroom, Study Room, Hallway"}, "discount": -1.0, "country": "US", "quantity": 10, "missOverview": false, "missDiscount": true, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "360 AC1C Indoor Security Camera, 2K Home Camera with [Advanced AI Algorithms], Human and Motion Detection, Light Color Night Vision, Activity Zones, Cloud and Local Storage,5G Not Compatible",
+    "id": "B089W4PKRW",
+    "price": 24.99,
+    "overview": {
+        "_Indoor/Outdoor_Usage_": "Indoor",
+        "_Brand_": "+ 360",
+        "_Connectivity_Technology_": "Wireless",
+        "_Recommended_Uses_For_Product_": "Surveillance",
+        "_Room_Type_": "Office, Kitchen, Living Room, Bedroom, Classroom, Study Room, Hallway"
+    },
+    "discount": -1.0,
+    "country": "US",
+    "quantity": 10,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

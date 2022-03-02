@@ -1,1 +1,20 @@
-{"title": "Powder Free Disposable Gloves Small -100 Pack -Clear Vinyl Medical Exam Gloves", "id": "B08SRC9965", "price": 9.98, "overview": {"_Material_": "Polyvinyl Chloride", "_Reusability_": "Disposable", "_Size_": "Small (Pack of 100)", "_Age_Range_(Description)_": "Adult", "_Brand_": "Dre Health"}, "discount": -1.0, "country": "US", "quantity": 56, "missOverview": false, "missDiscount": true, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "Powder Free Disposable Gloves Small -100 Pack -Clear Vinyl Medical Exam Gloves",
+    "id": "B08SRC9965",
+    "price": 9.98,
+    "overview": {
+        "_Material_": "Polyvinyl Chloride",
+        "_Reusability_": "Disposable",
+        "_Size_": "Small (Pack of 100)",
+        "_Age_Range_(Description)_": "Adult",
+        "_Brand_": "Dre Health"
+    },
+    "discount": -1.0,
+    "country": "US",
+    "quantity": 56,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

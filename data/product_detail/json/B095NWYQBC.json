@@ -1,1 +1,18 @@
-{"title": "Wyze Cam Spotlight, Wyze Cam v3 Security Camera with Spotlight Kit, 1080p HD Security Camera with Two-Way Audio and Siren, IP65 Weatherproof, Compatible with Alexa and Google Assistant", "id": "B095NWYQBC", "price": 49.96, "overview": {"_Video_Capture_Resolution_": "1080p", "_Brand_": "WYZE", "_Model_Name_": "Wyze Cam"}, "discount": 3.0, "country": "US", "quantity": 30, "missOverview": false, "missDiscount": false, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "Wyze Cam Spotlight, Wyze Cam v3 Security Camera with Spotlight Kit, 1080p HD Security Camera with Two-Way Audio and Siren, IP65 Weatherproof, Compatible with Alexa and Google Assistant",
+    "id": "B095NWYQBC",
+    "price": 49.96,
+    "overview": {
+        "_Video_Capture_Resolution_": "1080p",
+        "_Brand_": "WYZE",
+        "_Model_Name_": "Wyze Cam"
+    },
+    "discount": 3.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

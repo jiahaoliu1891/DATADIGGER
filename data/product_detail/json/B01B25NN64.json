@@ -1,1 +1,20 @@
-{"title": "Amazon Basics Expanding Organizer File Folder, Letter Size - Black", "id": "B01B25NN64", "price": 7.3, "overview": {"_Color_": "Black", "_Material_": "Poly", "_Style_": "1 Pack - Black", "_Brand_": "Amazon Basics", "_Sheet_Size_": "Letter"}, "discount": -1.0, "country": "US", "quantity": 90, "missOverview": false, "missDiscount": true, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "Amazon Basics Expanding Organizer File Folder, Letter Size - Black",
+    "id": "B01B25NN64",
+    "price": 7.3,
+    "overview": {
+        "_Color_": "Black",
+        "_Material_": "Poly",
+        "_Style_": "1 Pack - Black",
+        "_Brand_": "Amazon Basics",
+        "_Sheet_Size_": "Letter"
+    },
+    "discount": -1.0,
+    "country": "US",
+    "quantity": 90,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

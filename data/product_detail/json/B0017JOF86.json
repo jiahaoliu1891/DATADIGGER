@@ -1,1 +1,20 @@
-{"title": "New-Skin Liquid Bandage, Waterproof for Scrapes and Minor Cuts, 1 Fl Oz", "id": "B0017JOF86", "price": 5.99, "overview": {"_Brand_": "NEW-SKIN", "_Size_": "1 Fl Oz (Pack of 1)", "_Item_Dimensions_LxWxH_": "12 x 8 x 5 inches", "_Style_": "Liquid", "_Item_Weight_": "2.4 Ounces"}, "discount": 1.0, "country": "US", "quantity": 35, "missOverview": false, "missDiscount": false, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "New-Skin Liquid Bandage, Waterproof for Scrapes and Minor Cuts, 1 Fl Oz",
+    "id": "B0017JOF86",
+    "price": 5.99,
+    "overview": {
+        "_Brand_": "NEW-SKIN",
+        "_Size_": "1 Fl Oz (Pack of 1)",
+        "_Item_Dimensions_LxWxH_": "12 x 8 x 5 inches",
+        "_Style_": "Liquid",
+        "_Item_Weight_": "2.4 Ounces"
+    },
+    "discount": 1.0,
+    "country": "US",
+    "quantity": 35,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

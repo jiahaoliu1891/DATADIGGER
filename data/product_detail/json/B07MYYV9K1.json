@@ -1,1 +1,20 @@
-{"title": "LET'S GO! Binocular for Kids, Compact High Resolution Shockproof Binoculars", "id": "B07MYYV9K1", "price": 12.99, "overview": {"_Model_Name_": "DIMY", "_Brand_": "LET'S GO!", "_Color_": "Yellow", "_Material_": "Plastic", "_Water_Resistance_Level_": "Waterproof"}, "discount": 5.0, "country": "US", "quantity": 50, "missOverview": false, "missDiscount": false, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "LET'S GO! Binocular for Kids, Compact High Resolution Shockproof Binoculars",
+    "id": "B07MYYV9K1",
+    "price": 12.99,
+    "overview": {
+        "_Model_Name_": "DIMY",
+        "_Brand_": "LET'S GO!",
+        "_Color_": "Yellow",
+        "_Material_": "Plastic",
+        "_Water_Resistance_Level_": "Waterproof"
+    },
+    "discount": 5.0,
+    "country": "US",
+    "quantity": 50,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

@@ -1,1 +1,20 @@
-{"title": "Burt's Bees Baby Unisex-Baby Beekeeper Wearable Blanket, 100% Organic Cotton, Swaddle Transition Sleeping Bag", "id": "B072PZ3X47", "price": -1, "overview": {"_Fabric_Type_": "100% Cotton", "_Care_Instructions_": "Machine Wash", "_Origin_": "Imported", "_Product_Dimensions_": "5\"L x 5\"W", "_Brand_": "Burt's Bees Baby"}, "discount": 0.0, "country": "US", "quantity": 0, "missOverview": false, "missDiscount": false, "missCountry": false, "missQuantity": false, "missPrice": true}
+{
+    "title": "Burt's Bees Baby Unisex-Baby Beekeeper Wearable Blanket, 100% Organic Cotton, Swaddle Transition Sleeping Bag",
+    "id": "B072PZ3X47",
+    "price": -1,
+    "overview": {
+        "_Fabric_Type_": "100% Cotton",
+        "_Care_Instructions_": "Machine Wash",
+        "_Origin_": "Imported",
+        "_Product_Dimensions_": "5\"L x 5\"W",
+        "_Brand_": "Burt's Bees Baby"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 0,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": true
+}

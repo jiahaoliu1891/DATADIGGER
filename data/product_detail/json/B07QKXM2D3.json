@@ -1,1 +1,20 @@
-{"title": "wansview Wireless Security Camera, IP Camera 1080P HD, WiFi Home Indoor Camera for Baby/Pet/Nanny, Motion Detection, 2 Way Audio Night Vision, Works with Alexa, with TF Card Slot and Cloud", "id": "B07QKXM2D3", "price": 30.99, "overview": {"_Indoor/Outdoor_Usage_": "Indoor", "_Brand_": "Wansview", "_Connectivity_Technology_": "Wireless", "_Recommended_Uses_For_Product_": "Surveillance, Monitor Babies", "_Room_Type_": "Office, Kitchen, Bathroom, Living Room, Bedroom, Classroom, Study Room, Hallway"}, "discount": 5.0, "country": "US", "quantity": 32, "missOverview": false, "missDiscount": false, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "wansview Wireless Security Camera, IP Camera 1080P HD, WiFi Home Indoor Camera for Baby/Pet/Nanny, Motion Detection, 2 Way Audio Night Vision, Works with Alexa, with TF Card Slot and Cloud",
+    "id": "B07QKXM2D3",
+    "price": 30.99,
+    "overview": {
+        "_Indoor/Outdoor_Usage_": "Indoor",
+        "_Brand_": "Wansview",
+        "_Connectivity_Technology_": "Wireless",
+        "_Recommended_Uses_For_Product_": "Surveillance, Monitor Babies",
+        "_Room_Type_": "Office, Kitchen, Bathroom, Living Room, Bedroom, Classroom, Study Room, Hallway"
+    },
+    "discount": 5.0,
+    "country": "US",
+    "quantity": 32,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

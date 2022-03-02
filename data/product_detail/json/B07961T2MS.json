@@ -1,1 +1,20 @@
-{"title": "Pampers Splashers Swim Diapers Size S 20 Count", "id": "B07961T2MS", "price": 8.97, "overview": {"_Size_": "Size S", "_Recommended_Uses_For_Product_": "Swimming", "_Age_Range_(Description)_": "Infant", "_Brand_": "Pampers", "_Color_": "Splashers"}, "discount": -1.0, "country": "US", "quantity": 4, "missOverview": false, "missDiscount": true, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "Pampers Splashers Swim Diapers Size S 20 Count",
+    "id": "B07961T2MS",
+    "price": 8.97,
+    "overview": {
+        "_Size_": "Size S",
+        "_Recommended_Uses_For_Product_": "Swimming",
+        "_Age_Range_(Description)_": "Infant",
+        "_Brand_": "Pampers",
+        "_Color_": "Splashers"
+    },
+    "discount": -1.0,
+    "country": "US",
+    "quantity": 4,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

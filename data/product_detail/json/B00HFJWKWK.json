@@ -1,1 +1,20 @@
-{"title": "Amazon Basics 6-Sheet Cross-Cut Paper Shredder - Shred Paper, Credit Cards, Documents - 3.8 Gallon Bin", "id": "B00HFJWKWK", "price": 33.19, "overview": {"_Brand_": "Amazon Basics", "_Item_Dimensions_LxWxH_": "12.1 x 7.7 x 15 inches", "_Color_": "Black", "_Item_Weight_": "8 Pounds", "_Capacity_": "3.8 Gallons"}, "discount": 1.77, "country": "US", "quantity": 4, "missOverview": false, "missDiscount": false, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "Amazon Basics 6-Sheet Cross-Cut Paper Shredder - Shred Paper, Credit Cards, Documents - 3.8 Gallon Bin",
+    "id": "B00HFJWKWK",
+    "price": 33.19,
+    "overview": {
+        "_Brand_": "Amazon Basics",
+        "_Item_Dimensions_LxWxH_": "12.1 x 7.7 x 15 inches",
+        "_Color_": "Black",
+        "_Item_Weight_": "8 Pounds",
+        "_Capacity_": "3.8 Gallons"
+    },
+    "discount": 1.77,
+    "country": "US",
+    "quantity": 4,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

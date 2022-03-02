@@ -1,1 +1,20 @@
-{"title": "NUK Comfy Orthodontic Pacifiers, 0-6 Months, 3 Pack", "id": "B0876Z32W5", "price": 5.49, "overview": {"_Brand_": "NUK", "_Color_": "Blue/Green", "_Material_": "Silicone", "_Pattern_": "0-6 Month (3 Pack)", "_Number_of_Pieces_": "3"}, "discount": -1.0, "country": "US", "quantity": 45, "missOverview": false, "missDiscount": true, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "NUK Comfy Orthodontic Pacifiers, 0-6 Months, 3 Pack",
+    "id": "B0876Z32W5",
+    "price": 5.49,
+    "overview": {
+        "_Brand_": "NUK",
+        "_Color_": "Blue/Green",
+        "_Material_": "Silicone",
+        "_Pattern_": "0-6 Month (3 Pack)",
+        "_Number_of_Pieces_": "3"
+    },
+    "discount": -1.0,
+    "country": "US",
+    "quantity": 45,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

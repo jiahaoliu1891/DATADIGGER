@@ -1,1 +1,20 @@
-{"title": "eufy Security, Battery Video Doorbell wireless Kit, Camera Doorbell, Free Wireless Chime, White, Wi-Fi Connectivity, 1080p-Grade Resolution, No Monthly Fees, 120-day Battery, AI Detection, 2-Way Audio", "id": "B08DXD8LSR", "price": 99.99, "overview": {"_Indoor/Outdoor_Usage_": "Outdoor", "_Brand_": "Eufy security", "_Connectivity_Technology_": "Wireless", "_Recommended_Uses_For_Product_": "Surveillance", "_Form_Factor_": "Dome"}, "discount": -1.0, "country": "US", "quantity": 5, "missOverview": false, "missDiscount": true, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "eufy Security, Battery Video Doorbell wireless Kit, Camera Doorbell, Free Wireless Chime, White, Wi-Fi Connectivity, 1080p-Grade Resolution, No Monthly Fees, 120-day Battery, AI Detection, 2-Way Audio",
+    "id": "B08DXD8LSR",
+    "price": 99.99,
+    "overview": {
+        "_Indoor/Outdoor_Usage_": "Outdoor",
+        "_Brand_": "Eufy security",
+        "_Connectivity_Technology_": "Wireless",
+        "_Recommended_Uses_For_Product_": "Surveillance",
+        "_Form_Factor_": "Dome"
+    },
+    "discount": -1.0,
+    "country": "US",
+    "quantity": 5,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

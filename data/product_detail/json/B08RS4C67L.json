@@ -1,1 +1,20 @@
-{"title": "Reolink E1 Pro 4MP HD Plug-in Home Security Indoor Camera with 2.4/5 GHz Wi-Fi, Two Way Talk, Motion Alert, Multiple Storage Options, Ideal for Baby Monitor/ Pet Camera", "id": "B08RS4C67L", "price": 49.99, "overview": {"_Indoor/Outdoor_Usage_": "Indoor", "_Brand_": "REOLINK", "_Connectivity_Technology_": "Wireless", "_Recommended_Uses_For_Product_": "Surveillance, Monitor Babies", "_Room_Type_": "Nursery"}, "discount": -1.0, "country": "US", "quantity": 50, "missOverview": false, "missDiscount": true, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "Reolink E1 Pro 4MP HD Plug-in Home Security Indoor Camera with 2.4/5 GHz Wi-Fi, Two Way Talk, Motion Alert, Multiple Storage Options, Ideal for Baby Monitor/ Pet Camera",
+    "id": "B08RS4C67L",
+    "price": 49.99,
+    "overview": {
+        "_Indoor/Outdoor_Usage_": "Indoor",
+        "_Brand_": "REOLINK",
+        "_Connectivity_Technology_": "Wireless",
+        "_Recommended_Uses_For_Product_": "Surveillance, Monitor Babies",
+        "_Room_Type_": "Nursery"
+    },
+    "discount": -1.0,
+    "country": "US",
+    "quantity": 50,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

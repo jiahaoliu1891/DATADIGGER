@@ -1,1 +1,21 @@
-{"title": "Canon PG-245XL High-Yield Black Ink Cartridge", "id": "B00E58RQ8M", "price": 25.0, "overview": {"_Brand_": "Canon", "_Color_": "Black", "_Compatibility_Options_": "OEM", "_Page_Yield_": "300", "_Special_Feature_": "Smudge Resistant", "_Compatible_Devices_": "Printer"}, "discount": -1.0, "country": "US", "quantity": 20, "missOverview": false, "missDiscount": true, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "Canon PG-245XL High-Yield Black Ink Cartridge",
+    "id": "B00E58RQ8M",
+    "price": 25.0,
+    "overview": {
+        "_Brand_": "Canon",
+        "_Color_": "Black",
+        "_Compatibility_Options_": "OEM",
+        "_Page_Yield_": "300",
+        "_Special_Feature_": "Smudge Resistant",
+        "_Compatible_Devices_": "Printer"
+    },
+    "discount": -1.0,
+    "country": "US",
+    "quantity": 20,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

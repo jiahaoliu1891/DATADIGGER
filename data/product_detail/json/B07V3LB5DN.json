@@ -1,1 +1,20 @@
-{"title": "Vortex Optics Crossfire HD Binoculars", "id": "B07V3LB5DN", "price": 149.0, "overview": {"_Model_Name_": "CF-4312", "_Brand_": "Vortex", "_Color_": "Green", "_Material_": "Aluminum", "_Water_Resistance_Level_": "Waterproof"}, "discount": -1.0, "country": "US", "quantity": 8, "missOverview": false, "missDiscount": true, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "Vortex Optics Crossfire HD Binoculars",
+    "id": "B07V3LB5DN",
+    "price": 149.0,
+    "overview": {
+        "_Model_Name_": "CF-4312",
+        "_Brand_": "Vortex",
+        "_Color_": "Green",
+        "_Material_": "Aluminum",
+        "_Water_Resistance_Level_": "Waterproof"
+    },
+    "discount": -1.0,
+    "country": "US",
+    "quantity": 8,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

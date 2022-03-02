@@ -1,1 +1,20 @@
-{"title": "Wireless WiFi Security Camera for Outdoor/Home Battery Powered, 2K Video/Color Night Vision/AI Motion Detection, Siren Alarm and Spotlight, 2-Way Audio, Waterproof, SD/Cloud", "id": "B09NNDTZL3", "price": 78.99, "overview": {"_Brand_": "DCT", "_Connectivity_Technology_": "Wireless, Wired", "_Connectivity_Protocol_": "Wi-Fi", "_Power_Source_": "Battery Powered", "_Controller_Type_": "App"}, "discount": -1.0, "country": "US", "quantity": 6, "missOverview": false, "missDiscount": true, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "Wireless WiFi Security Camera for Outdoor/Home Battery Powered, 2K Video/Color Night Vision/AI Motion Detection, Siren Alarm and Spotlight, 2-Way Audio, Waterproof, SD/Cloud",
+    "id": "B09NNDTZL3",
+    "price": 78.99,
+    "overview": {
+        "_Brand_": "DCT",
+        "_Connectivity_Technology_": "Wireless, Wired",
+        "_Connectivity_Protocol_": "Wi-Fi",
+        "_Power_Source_": "Battery Powered",
+        "_Controller_Type_": "App"
+    },
+    "discount": -1.0,
+    "country": "US",
+    "quantity": 6,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

@@ -1,1 +1,20 @@
-{"title": "3M Multi-Use Colored Duct Tape, Black, 1.88 Inches by 20 yards, 3920-BK, 1 Roll", "id": "B0013AX67A", "price": 4.78, "overview": {"_Material_": "Polyethylene film over cloth scrim", "_Size_": "20 Yards", "_Color_": "Black", "_Brand_": "Scotch Painter's Tape", "_Thickness_": "1.88 Inches"}, "discount": 2.21, "country": "US", "quantity": 54, "missOverview": false, "missDiscount": false, "missCountry": false, "missQuantity": false, "missPrice": false}
+{
+    "title": "3M Multi-Use Colored Duct Tape, Black, 1.88 Inches by 20 yards, 3920-BK, 1 Roll",
+    "id": "B0013AX67A",
+    "price": 4.78,
+    "overview": {
+        "_Material_": "Polyethylene film over cloth scrim",
+        "_Size_": "20 Yards",
+        "_Color_": "Black",
+        "_Brand_": "Scotch Painter's Tape",
+        "_Thickness_": "1.88 Inches"
+    },
+    "discount": 2.21,
+    "country": "US",
+    "quantity": 54,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}
