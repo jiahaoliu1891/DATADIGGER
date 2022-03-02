@@ -1,0 +1,667 @@
+{
+    "category": "Magazine Subscriptions",
+    "child_categories": [
+        {
+            "category": "Arts & Crafts",
+            "url": "https://www.amazon.com/Best-Sellers-Magazine-Subscriptions-Arts-Music-Photography-Magazines/zgbs/magazines/602314/ref=zg_bs_nav_magazines_1"
+        },
+        {
+            "category": "Automotive",
+            "url": "https://www.amazon.com/Best-Sellers-Magazine-Subscriptions-Automotive-Motorcycle-Magazines/zgbs/magazines/602316/ref=zg_bs_nav_magazines_1"
+        },
+        {
+            "category": "Bridal & Weddings",
+            "url": "https://www.amazon.com/Best-Sellers-Magazine-Subscriptions-Bridal-Wedding-Magazines/zgbs/magazines/602318/ref=zg_bs_nav_magazines_1"
+        },
+        {
+            "category": "Business & Finance",
+            "url": "https://www.amazon.com/Best-Sellers-Magazine-Subscriptions-Business-Investing-Magazines/zgbs/magazines/602320/ref=zg_bs_nav_magazines_1"
+        },
+        {
+            "category": "Children's",
+            "url": "https://www.amazon.com/Best-Sellers-Magazine-Subscriptions-Childrens-Magazines/zgbs/magazines/602322/ref=zg_bs_nav_magazines_1"
+        },
+        {
+            "category": "Computer & Internet",
+            "url": "https://www.amazon.com/Best-Sellers-Magazine-Subscriptions-Computers-Internet-Magazines/zgbs/magazines/602324/ref=zg_bs_nav_magazines_1"
+        },
+        {
+            "category": "Electronics & Audio",
+            "url": "https://www.amazon.com/Best-Sellers-Magazine-Subscriptions-Electronics-Magazines/zgbs/magazines/602326/ref=zg_bs_nav_magazines_1"
+        },
+        {
+            "category": "Entertainment",
+            "url": "https://www.amazon.com/Best-Sellers-Magazine-Subscriptions-Entertainment-Pop-Culture-Magazines/zgbs/magazines/602328/ref=zg_bs_nav_magazines_1"
+        },
+        {
+            "category": "Family & Parenting",
+            "url": "https://www.amazon.com/Best-Sellers-Magazine-Subscriptions-Parenting-Family-Magazines/zgbs/magazines/602330/ref=zg_bs_nav_magazines_1"
+        },
+        {
+            "category": "Fashion & Style",
+            "url": "https://www.amazon.com/Best-Sellers-Magazine-Subscriptions-Fashion-Style-Magazines/zgbs/magazines/602332/ref=zg_bs_nav_magazines_1"
+        },
+        {
+            "category": "Food & Gourmet",
+            "url": "https://www.amazon.com/Best-Sellers-Magazine-Subscriptions-Cooking-Food-Wine-Magazines/zgbs/magazines/602334/ref=zg_bs_nav_magazines_1"
+        },
+        {
+            "category": "Gay & Lesbian",
+            "url": "https://www.amazon.com/Best-Sellers-Magazine-Subscriptions-LGBTQ/zgbs/magazines/602338/ref=zg_bs_nav_magazines_1"
+        },
+        {
+            "category": "Health & Fitness",
+            "url": "https://www.amazon.com/Best-Sellers-Magazine-Subscriptions-Health-Fitness-Wellness-Magazines/zgbs/magazines/602340/ref=zg_bs_nav_magazines_1"
+        },
+        {
+            "category": "History",
+            "url": "https://www.amazon.com/Best-Sellers-Magazine-Subscriptions-History-Trade-Journals/zgbs/magazines/602342/ref=zg_bs_nav_magazines_1"
+        },
+        {
+            "category": "Home & Garden",
+            "url": "https://www.amazon.com/Best-Sellers-Magazine-Subscriptions-Home-Garden-Magazines/zgbs/magazines/602344/ref=zg_bs_nav_magazines_1"
+        },
+        {
+            "category": "Literary",
+            "url": "https://www.amazon.com/Best-Sellers-Magazine-Subscriptions-Literary-Magazines-Journals/zgbs/magazines/602350/ref=zg_bs_nav_magazines_1"
+        },
+        {
+            "category": "Men's Interest",
+            "url": "https://www.amazon.com/Best-Sellers-Magazine-Subscriptions-Mens-Lifestyle/zgbs/magazines/602352/ref=zg_bs_nav_magazines_1"
+        },
+        {
+            "category": "Music",
+            "url": "https://www.amazon.com/Best-Sellers-Magazine-Subscriptions-Music-Magazines/zgbs/magazines/602354/ref=zg_bs_nav_magazines_1"
+        },
+        {
+            "category": "News & Politics",
+            "url": "https://www.amazon.com/Best-Sellers-Magazine-Subscriptions-News-Political-Commentary-Magazines/zgbs/magazines/602358/ref=zg_bs_nav_magazines_1"
+        },
+        {
+            "category": "Pets",
+            "url": "https://www.amazon.com/Best-Sellers-Magazine-Subscriptions-Pets-Animals-Magazines/zgbs/magazines/602360/ref=zg_bs_nav_magazines_1"
+        },
+        {
+            "category": "Puzzles & Games",
+            "url": "https://www.amazon.com/Best-Sellers-Magazine-Subscriptions-Puzzles-Games-Magazines/zgbs/magazines/602336/ref=zg_bs_nav_magazines_1"
+        },
+        {
+            "category": "Religion & Spirituality",
+            "url": "https://www.amazon.com/Best-Sellers-Magazine-Subscriptions-Religion-Spirituality-Magazines/zgbs/magazines/602362/ref=zg_bs_nav_magazines_1"
+        },
+        {
+            "category": "Science & Nature",
+            "url": "https://www.amazon.com/Best-Sellers-Magazine-Subscriptions-Science-History-Nature-Magazines/zgbs/magazines/602364/ref=zg_bs_nav_magazines_1"
+        },
+        {
+            "category": "Sports & Leisure",
+            "url": "https://www.amazon.com/Best-Sellers-Magazine-Subscriptions-Sports-Recreation-Magazines/zgbs/magazines/602366/ref=zg_bs_nav_magazines_1"
+        },
+        {
+            "category": "Teens",
+            "url": "https://www.amazon.com/Best-Sellers-Magazine-Subscriptions-Teen-Magazines/zgbs/magazines/602368/ref=zg_bs_nav_magazines_1"
+        },
+        {
+            "category": "Travel & Regional",
+            "url": "https://www.amazon.com/Best-Sellers-Magazine-Subscriptions-Travel-City-Regional-Magazines/zgbs/magazines/602370/ref=zg_bs_nav_magazines_1"
+        },
+        {
+            "category": "Women's Interest",
+            "url": "https://www.amazon.com/Best-Sellers-Magazine-Subscriptions-Womens-Lifestyle/zgbs/magazines/602372/ref=zg_bs_nav_magazines_1"
+        }
+    ],
+    "next": "https://get.scrapehero.com/amz/best-sellers/?url=https%3A//www.amazon.com/Best-Sellers-Magazine-Subscriptions/zgbs/magazines/ref%3Dzg_bs_pg_2%3F_encoding%3DUTF8%26pg%3D2",
+    "url": "https://www.amazon.com/Best-Sellers-Magazine-Subscriptions/zgbs/magazines/ref=zg_bs_nav_0?pg=1",
+    "product_listings": [
+        {
+            "rank": 1,
+            "asin": "B0029XHGRQ",
+            "name": "Better Homes & Gardens",
+            "ratings_count": 12567,
+            "rating": "4.5",
+            "sale_price": "$6.50",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61sLQ8hCWEL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Meredith-corporation-Better-Homes-Gardens/dp/B0029XHGRQ/ref=zg_bs_magazines_1/132-1948324-5608123?pd_rd_i=B0029XHGRQ&psc=1"
+        },
+        {
+            "rank": 2,
+            "asin": "B002PXW1IE",
+            "name": "Real Simple",
+            "ratings_count": 15857,
+            "rating": "4.6",
+            "sale_price": "$10.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51tyF7xLNUL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Meredith-Corporation-Real-Simple/dp/B002PXW1IE/ref=zg_bs_magazines_2/132-1948324-5608123?pd_rd_i=B002PXW1IE&psc=1"
+        },
+        {
+            "rank": 3,
+            "asin": "B001THPA58",
+            "name": "Food Network Magazine",
+            "ratings_count": 11953,
+            "rating": "4.6",
+            "sale_price": "$6.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51giQChXJtL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Hearst-Magazines-Food-Network-Magazine/dp/B001THPA58/ref=zg_bs_magazines_3/132-1948324-5608123?pd_rd_i=B001THPA58&psc=1"
+        },
+        {
+            "rank": 4,
+            "asin": "B002PXVYEQ",
+            "name": "Family Handyman",
+            "ratings_count": 22563,
+            "rating": "4.5",
+            "sale_price": "$8.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61CILQcOtLL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Trusted-Media-Brands-Inc-Handyman/dp/B002PXVYEQ/ref=zg_bs_magazines_4/132-1948324-5608123?pd_rd_i=B002PXVYEQ&psc=1"
+        },
+        {
+            "rank": 5,
+            "asin": "B0089FUF6W",
+            "name": "HGTV Magazine",
+            "ratings_count": 23782,
+            "rating": "4.4",
+            "sale_price": "$6.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51bjrVP9KLL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Hearst-Magazines-HGTV-Magazine/dp/B0089FUF6W/ref=zg_bs_magazines_5/132-1948324-5608123?pd_rd_i=B0089FUF6W&psc=1"
+        },
+        {
+            "rank": 6,
+            "asin": "B002PXW1R0",
+            "name": "National Geographic Kids",
+            "ratings_count": 15955,
+            "rating": "4.7",
+            "sale_price": "$23.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61Ar0afDxXL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/National-Geographic-Kids-1-year-auto-renewal/dp/B002PXW1R0/ref=zg_bs_magazines_6/132-1948324-5608123?pd_rd_i=B002PXW1R0&psc=1"
+        },
+        {
+            "rank": 7,
+            "asin": "B004GVZUUY",
+            "name": "Reader's Digest",
+            "ratings_count": 17985,
+            "rating": "4.6",
+            "sale_price": "$6.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61JjFKy+49L._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Trusted-Media-Brands-Inc-Readers/dp/B004GVZUUY/ref=zg_bs_magazines_7/132-1948324-5608123?pd_rd_i=B004GVZUUY&psc=1"
+        },
+        {
+            "rank": 8,
+            "asin": "B002PXVYQY",
+            "name": "Southern Living",
+            "ratings_count": 8314,
+            "rating": "4.6",
+            "sale_price": "$5.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61C+UGZkPQL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Meredith-Corporation-Southern-Living/dp/B002PXVYQY/ref=zg_bs_magazines_8/132-1948324-5608123?pd_rd_i=B002PXVYQY&psc=1"
+        },
+        {
+            "rank": 9,
+            "asin": "B002VB3X96",
+            "name": "Do it Yourself",
+            "ratings_count": 9730,
+            "rating": "4.4",
+            "sale_price": "$5.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51kQ-JfZkFL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Meredith-Corporation-Do-it-Yourself/dp/B002VB3X96/ref=zg_bs_magazines_9/132-1948324-5608123?pd_rd_i=B002VB3X96&psc=1"
+        },
+        {
+            "rank": 10,
+            "asin": "B002PXW0EO",
+            "name": "Martha Stewart Living",
+            "ratings_count": 9972,
+            "rating": "4.5",
+            "sale_price": "$6.50",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61-ySQ+JuZL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Meredith-Martha-Stewart-Living/dp/B002PXW0EO/ref=zg_bs_magazines_10/132-1948324-5608123?pd_rd_i=B002PXW0EO&psc=1"
+        },
+        {
+            "rank": 11,
+            "asin": "B01N702LLM",
+            "name": "AllRecipes",
+            "ratings_count": 8895,
+            "rating": "4.5",
+            "sale_price": "$5.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61Mt2bAI+6L._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Meredith-corporation-AllRecipes/dp/B01N702LLM/ref=zg_bs_magazines_11/132-1948324-5608123?pd_rd_i=B01N702LLM&psc=1"
+        },
+        {
+            "rank": 12,
+            "asin": "B001THPA1C",
+            "name": "Good Housekeeping",
+            "ratings_count": 6296,
+            "rating": "4.6",
+            "sale_price": "$6.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61jO783TUdL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Hearst-Magazines-Good-Housekeeping/dp/B001THPA1C/ref=zg_bs_magazines_12/132-1948324-5608123?pd_rd_i=B001THPA1C&psc=1"
+        },
+        {
+            "rank": 13,
+            "asin": "B001THPA3U",
+            "name": "Country Living",
+            "ratings_count": 4334,
+            "rating": "4.5",
+            "sale_price": "$8.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/618DsBsSJkL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Hearst-Magazines-Country-Living/dp/B001THPA3U/ref=zg_bs_magazines_13/132-1948324-5608123?pd_rd_i=B001THPA3U&psc=1"
+        },
+        {
+            "rank": 14,
+            "asin": "B0061SHL16",
+            "name": "Birds & Blooms",
+            "ratings_count": 7342,
+            "rating": "4.6",
+            "sale_price": "$8.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51HT4XLgw1L._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Trusted-Media-Brands-Inc-Blooms/dp/B0061SHL16/ref=zg_bs_magazines_14/132-1948324-5608123?pd_rd_i=B0061SHL16&psc=1"
+        },
+        {
+            "rank": 15,
+            "asin": "B001TP73UU",
+            "name": "Men's Health",
+            "ratings_count": 6904,
+            "rating": "4.4",
+            "sale_price": "$7.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61JWpz0J7IL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Hearst-Magazines-Mens-Health/dp/B001TP73UU/ref=zg_bs_magazines_15/132-1948324-5608123?pd_rd_i=B001TP73UU&psc=1"
+        },
+        {
+            "rank": 16,
+            "asin": "B07Q9XYJ6B",
+            "name": "National Geographic Magazine",
+            "ratings_count": 8671,
+            "rating": "4.7",
+            "sale_price": "$27.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51pYi50TB6L._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/National-Geographic-Partners-LLC-Magazine/dp/B07Q9XYJ6B/ref=zg_bs_magazines_16/132-1948324-5608123?pd_rd_i=B07Q9XYJ6B&psc=1"
+        },
+        {
+            "rank": 17,
+            "asin": "B004GVZUU4",
+            "name": "Taste of Home",
+            "ratings_count": 8065,
+            "rating": "4.6",
+            "sale_price": "$10.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51V+dQH4zoL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Trusted-Media-Brands-Inc-Taste/dp/B004GVZUU4/ref=zg_bs_magazines_17/132-1948324-5608123?pd_rd_i=B004GVZUU4&psc=1"
+        },
+        {
+            "rank": 18,
+            "asin": "B07DRWHT3P",
+            "name": "Highlights for Children",
+            "ratings_count": 4586,
+            "rating": "4.6",
+            "sale_price": "$34.99",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51yg1ExNJUL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Highlights-for-Children/dp/B07DRWHT3P/ref=zg_bs_magazines_18/132-1948324-5608123?pd_rd_i=B07DRWHT3P&psc=1"
+        },
+        {
+            "rank": 19,
+            "asin": "B002PXVZO0",
+            "name": "Food & Wine",
+            "ratings_count": 3108,
+            "rating": "4.5",
+            "sale_price": "$5.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/614J68HAz5L._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Meredith-Corporation-Food-Wine/dp/B002PXVZO0/ref=zg_bs_magazines_19/132-1948324-5608123?pd_rd_i=B002PXVZO0&psc=1"
+        },
+        {
+            "rank": 20,
+            "asin": "B001THPA26",
+            "name": "Popular Mechanics",
+            "ratings_count": 5806,
+            "rating": "4.4",
+            "sale_price": "$9.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61+NxZ+TbfL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Hearst-Magazines-Popular-Mechanics/dp/B001THPA26/ref=zg_bs_magazines_20/132-1948324-5608123?pd_rd_i=B001THPA26&psc=1"
+        },
+        {
+            "rank": 21,
+            "asin": "B003N3QRF8",
+            "name": "TV Guide Magazine",
+            "ratings_count": 4626,
+            "rating": "4.2",
+            "sale_price": "$15.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61Uclg+BgUL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/TV-Guide/dp/B003N3QRF8/ref=zg_bs_magazines_21/132-1948324-5608123?pd_rd_i=B003N3QRF8&psc=1"
+        },
+        {
+            "rank": 22,
+            "asin": "B001TP73UA",
+            "name": "Women's Health",
+            "ratings_count": 3474,
+            "rating": "4.3",
+            "sale_price": "$6.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/618Ka9+l0uL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Hearst-Magazines-Womens-Health/dp/B001TP73UA/ref=zg_bs_magazines_22/132-1948324-5608123?pd_rd_i=B001TP73UA&psc=1"
+        },
+        {
+            "rank": 23,
+            "asin": "B001THPA1W",
+            "name": "House Beautiful",
+            "ratings_count": 2441,
+            "rating": "4.4",
+            "sale_price": "$10.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61QbjoWlA3L._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Hearst-Magazines-House-Beautiful/dp/B001THPA1W/ref=zg_bs_magazines_23/132-1948324-5608123?pd_rd_i=B001THPA1W&psc=1"
+        },
+        {
+            "rank": 24,
+            "asin": "B01N35UMQV",
+            "name": "The Magnolia Journal",
+            "ratings_count": 3906,
+            "rating": "4.6",
+            "sale_price": "$20.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51ItOQuIO4L._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Meredith-The-Magnolia-Journal/dp/B01N35UMQV/ref=zg_bs_magazines_24/132-1948324-5608123?pd_rd_i=B01N35UMQV&psc=1"
+        },
+        {
+            "rank": 25,
+            "asin": "B000N8V3FK",
+            "name": "Time",
+            "ratings_count": 267,
+            "rating": "4.2",
+            "sale_price": "$29.99",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61Cfll9HNML._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Time/dp/B000N8V3FK/ref=zg_bs_magazines_25/132-1948324-5608123?pd_rd_i=B000N8V3FK&psc=1"
+        },
+        {
+            "rank": 26,
+            "asin": "B001U5SPJW",
+            "name": "The New Yorker",
+            "ratings_count": 3867,
+            "rating": "4.5",
+            "sale_price": "$119.99",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61RU8xXysuL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Conde-Nast-Publications-The-Yorker/dp/B001U5SPJW/ref=zg_bs_magazines_26/132-1948324-5608123?pd_rd_i=B001U5SPJW&psc=1"
+        },
+        {
+            "rank": 27,
+            "asin": "B079P9BVGQ",
+            "name": "Highlights High Five",
+            "ratings_count": 3147,
+            "rating": "4.6",
+            "sale_price": "$34.99",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51zNdg7KlUL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Highlights-for-Children-High-Five/dp/B079P9BVGQ/ref=zg_bs_magazines_27/132-1948324-5608123?pd_rd_i=B079P9BVGQ&psc=1"
+        },
+        {
+            "rank": 28,
+            "asin": "B002V0CJL0",
+            "name": "Woman's Day",
+            "ratings_count": 3606,
+            "rating": "4.5",
+            "sale_price": "$6.50",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/615IPuhl9sL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Hearst-Magazines-Womans-Day/dp/B002V0CJL0/ref=zg_bs_magazines_28/132-1948324-5608123?pd_rd_i=B002V0CJL0&psc=1"
+        },
+        {
+            "rank": 29,
+            "asin": "B002PXVYVE",
+            "name": "Travel + Leisure",
+            "ratings_count": 2178,
+            "rating": "4.4",
+            "sale_price": "$10.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/5103laAbj7L._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Meredith-Corporation-Travel-Leisure/dp/B002PXVYVE/ref=zg_bs_magazines_29/132-1948324-5608123?pd_rd_i=B002PXVYVE&psc=1"
+        },
+        {
+            "rank": 30,
+            "asin": "B001U5SPHY",
+            "name": "Bon Appetit",
+            "ratings_count": 4111,
+            "rating": "4.4",
+            "sale_price": "$10.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71cD81AWKXL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Conde-Nast-Publications-Bon-Appetit/dp/B001U5SPHY/ref=zg_bs_magazines_30/132-1948324-5608123?pd_rd_i=B001U5SPHY&psc=1"
+        },
+        {
+            "rank": 31,
+            "asin": "B0039L2QLS",
+            "name": "Elle Decor",
+            "ratings_count": 1922,
+            "rating": "4.3",
+            "sale_price": "$9.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61zzk-zOeqL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Hearst-Elle-D%C3%A9cor/dp/B0039L2QLS/ref=zg_bs_magazines_31/138-9350846-9962855?pd_rd_i=B0039L2QLS&psc=1"
+        },
+        {
+            "rank": 32,
+            "asin": "B001THPA44",
+            "name": "Veranda",
+            "ratings_count": 1684,
+            "rating": "4.5",
+            "sale_price": "$8.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71QkbJuvOyL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Hearst-Magazines-Veranda/dp/B001THPA44/ref=zg_bs_magazines_32/138-9350846-9962855?pd_rd_i=B001THPA44&psc=1"
+        },
+        {
+            "rank": 33,
+            "asin": "B002PXVZ0E",
+            "name": "People",
+            "ratings_count": 3868,
+            "rating": "4.6",
+            "sale_price": "$85.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61HfnTAI+AL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Meredith-Corporation-People/dp/B002PXVZ0E/ref=zg_bs_magazines_33/138-9350846-9962855?pd_rd_i=B002PXVZ0E&psc=1"
+        },
+        {
+            "rank": 34,
+            "asin": "B002PXVYBE",
+            "name": "Car and Driver",
+            "ratings_count": 23782,
+            "rating": "4.4",
+            "sale_price": "$9.50",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61d6GvQG1kL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Hearst-Car-and-Driver/dp/B002PXVYBE/ref=zg_bs_magazines_34/138-9350846-9962855?pd_rd_i=B002PXVYBE&psc=1"
+        },
+        {
+            "rank": 35,
+            "asin": "B079PDGJQH",
+            "name": "The Pioneer Woman Magazine",
+            "ratings_count": 2782,
+            "rating": "4.6",
+            "sale_price": "$12.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51QCIGOYdIL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Hearst-Magazines-Pioneer-Woman-Magazine/dp/B079PDGJQH/ref=zg_bs_magazines_35/138-9350846-9962855?pd_rd_i=B079PDGJQH&psc=1"
+        },
+        {
+            "rank": 36,
+            "asin": "B001THPA12",
+            "name": "Cosmopolitan",
+            "ratings_count": 23782,
+            "rating": "4.4",
+            "sale_price": "$8.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71qlcfOzU8L._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Hearst-Magazines-Cosmopolitan/dp/B001THPA12/ref=zg_bs_magazines_36/138-9350846-9962855?pd_rd_i=B001THPA12&psc=1"
+        },
+        {
+            "rank": 37,
+            "asin": "B002PXW25G",
+            "name": "National Geographic Little Kids",
+            "ratings_count": 4460,
+            "rating": "4.5",
+            "sale_price": "$20.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51wsLFcJhYL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/National-Geographic-Little-1-year-auto-renewal/dp/B002PXW25G/ref=zg_bs_magazines_37/138-9350846-9962855?pd_rd_i=B002PXW25G&psc=1"
+        },
+        {
+            "rank": 38,
+            "asin": "B003I7HS4I",
+            "name": "Ranger Rick",
+            "ratings_count": 1932,
+            "rating": "4.7",
+            "sale_price": "$18.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71+OZA8KxTL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/National-Wildlife-Federation-Ranger-Rick/dp/B003I7HS4I/ref=zg_bs_magazines_38/138-9350846-9962855?pd_rd_i=B003I7HS4I&psc=1"
+        },
+        {
+            "rank": 39,
+            "asin": "B001U5SPLK",
+            "name": "Cond\u00e9 Nast Traveler",
+            "ratings_count": 1637,
+            "rating": "4.3",
+            "sale_price": "$19.99",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51wMOCnU0BL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Conde-Nast-Cond%C3%A9-Traveler/dp/B001U5SPLK/ref=zg_bs_magazines_39/138-9350846-9962855?pd_rd_i=B001U5SPLK&psc=1"
+        },
+        {
+            "rank": 40,
+            "asin": "B003I7HS5M",
+            "name": "Ranger Rick Jr.",
+            "ratings_count": 1595,
+            "rating": "4.7",
+            "sale_price": "$12.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/A1JxWY2-8aL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/National-Wildlife-Federation-Ranger-Rick/dp/B003I7HS5M/ref=zg_bs_magazines_40/138-9350846-9962855?pd_rd_i=B003I7HS5M&psc=1"
+        },
+        {
+            "rank": 41,
+            "asin": "B001U5SPK6",
+            "name": "Vogue",
+            "ratings_count": 2478,
+            "rating": "4.4",
+            "sale_price": "$10.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/516a590URUL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Conde-Nast-Publications-Vogue/dp/B001U5SPK6/ref=zg_bs_magazines_41/138-9350846-9962855?pd_rd_i=B001U5SPK6&psc=1"
+        },
+        {
+            "rank": 42,
+            "asin": "B001U5SPL0",
+            "name": "Vanity Fair",
+            "ratings_count": 2302,
+            "rating": "4.4",
+            "sale_price": "$12.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51Btwy89TVL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Conde-Nast-Vanity-Fair/dp/B001U5SPL0/ref=zg_bs_magazines_42/138-9350846-9962855?pd_rd_i=B001U5SPL0&psc=1"
+        },
+        {
+            "rank": 43,
+            "asin": "B001TP73TG",
+            "name": "Prevention",
+            "ratings_count": 2773,
+            "rating": "4.5",
+            "sale_price": "$13.50",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61GOG2YOG7L._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Hearst-Magazines-Prevention/dp/B001TP73TG/ref=zg_bs_magazines_43/138-9350846-9962855?pd_rd_i=B001TP73TG&psc=1"
+        },
+        {
+            "rank": 44,
+            "asin": "B06VWTFWWH",
+            "name": "Reader's Digest Large Print",
+            "ratings_count": 2055,
+            "rating": "4.7",
+            "sale_price": "$17.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/518jom4L2WL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Trusted-Media-Brands-Inc-Readers/dp/B06VWTFWWH/ref=zg_bs_magazines_44/138-9350846-9962855?pd_rd_i=B06VWTFWWH&psc=1"
+        },
+        {
+            "rank": 45,
+            "asin": "B001U5SPHO",
+            "name": "Architectural Digest",
+            "ratings_count": 1779,
+            "rating": "4.4",
+            "sale_price": "$29.99",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/619SXoGcxTL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Conde-Nast-Publications-Architectural-Digest/dp/B001U5SPHO/ref=zg_bs_magazines_45/138-9350846-9962855?pd_rd_i=B001U5SPHO&psc=1"
+        },
+        {
+            "rank": 46,
+            "asin": "B001THPA1M",
+            "name": "Harper's Bazaar",
+            "ratings_count": 23782,
+            "rating": "4.4",
+            "sale_price": "$6.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51cufznWvBL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Hearst-Magazines-Harpers-Bazaar/dp/B001THPA1M/ref=zg_bs_magazines_46/138-9350846-9962855?pd_rd_i=B001THPA1M&psc=1"
+        },
+        {
+            "rank": 47,
+            "asin": "B001U5SPME",
+            "name": "Wired",
+            "ratings_count": 3051,
+            "rating": "4.2",
+            "sale_price": "$5.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41HvVkVnqYL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Conde-Nast-Wired/dp/B001U5SPME/ref=zg_bs_magazines_47/138-9350846-9962855?pd_rd_i=B001U5SPME&psc=1"
+        },
+        {
+            "rank": 48,
+            "asin": "B002PXVZWW",
+            "name": "Elle",
+            "ratings_count": 1329,
+            "rating": "4.2",
+            "sale_price": "$7.50",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61jkQOKTAOL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Hearst-Elle/dp/B002PXVZWW/ref=zg_bs_magazines_48/138-9350846-9962855?pd_rd_i=B002PXVZWW&psc=1"
+        },
+        {
+            "rank": 49,
+            "asin": "B07Q9XZLWS",
+            "name": "National Geographic History",
+            "ratings_count": 3458,
+            "rating": "4.7",
+            "sale_price": "$24.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51jP9B-YhUL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/National-Geographic-Partners-LLC-History/dp/B07Q9XZLWS/ref=zg_bs_magazines_49/138-9350846-9962855?pd_rd_i=B07Q9XZLWS&psc=1"
+        },
+        {
+            "rank": 50,
+            "asin": "B002PXVYU0",
+            "name": "TIME",
+            "ratings_count": 3533,
+            "rating": "4.4",
+            "sale_price": "$30.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/615PoidJiDL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Time-USA-LLC-TIME/dp/B002PXVYU0/ref=zg_bs_magazines_50/138-9350846-9962855?pd_rd_i=B002PXVYU0&psc=1"
+        }
+    ]
+}

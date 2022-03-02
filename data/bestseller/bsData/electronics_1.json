@@ -1,0 +1,627 @@
+{
+    "category": "Electronics",
+    "child_categories": [
+        {
+            "category": "Accessories & Supplies",
+            "url": "https://www.amazon.com/Best-Sellers-Electronics-Electronics-Accessories-Supplies/zgbs/electronics/281407/ref=zg_bs_nav_electronics_1"
+        },
+        {
+            "category": "Camera & Photo",
+            "url": "https://www.amazon.com/Best-Sellers-Electronics-Camera-Photo-Products/zgbs/electronics/502394/ref=zg_bs_nav_electronics_1"
+        },
+        {
+            "category": "Car Electronics",
+            "url": "https://www.amazon.com/Best-Sellers-Electronics-Car-Electronics/zgbs/electronics/1077068/ref=zg_bs_nav_electronics_1"
+        },
+        {
+            "category": "Cell Phones & Accessories",
+            "url": "https://www.amazon.com/Best-Sellers-Electronics-Cell-Phones-Accessories/zgbs/electronics/2811119011/ref=zg_bs_nav_electronics_1"
+        },
+        {
+            "category": "Computers & Accessories",
+            "url": "https://www.amazon.com/Best-Sellers-Electronics-Computers-Accessories/zgbs/electronics/541966/ref=zg_bs_nav_electronics_1"
+        },
+        {
+            "category": "GPS & Navigation",
+            "url": "https://www.amazon.com/Best-Sellers-Electronics-GPS-Finders-Accessories/zgbs/electronics/172526/ref=zg_bs_nav_electronics_1"
+        },
+        {
+            "category": "Headphones",
+            "url": "https://www.amazon.com/Best-Sellers-Electronics-Audio-Headphones/zgbs/electronics/172541/ref=zg_bs_nav_electronics_1"
+        },
+        {
+            "category": "Home Audio & Theater",
+            "url": "https://www.amazon.com/Best-Sellers-Electronics-Home-Audio-Theater-Products/zgbs/electronics/667846011/ref=zg_bs_nav_electronics_1"
+        },
+        {
+            "category": "Marine Electronics",
+            "url": "https://www.amazon.com/Best-Sellers-Electronics-Marine-Electronics/zgbs/electronics/319574011/ref=zg_bs_nav_electronics_1"
+        },
+        {
+            "category": "Office Electronics",
+            "url": "https://www.amazon.com/Best-Sellers-Electronics-Office-Electronics-Products/zgbs/electronics/172574/ref=zg_bs_nav_electronics_1"
+        },
+        {
+            "category": "Portable Audio & Video",
+            "url": "https://www.amazon.com/Best-Sellers-Electronics-Portable-Audio-Video/zgbs/electronics/172623/ref=zg_bs_nav_electronics_1"
+        },
+        {
+            "category": "Security & Surveillance",
+            "url": "https://www.amazon.com/Best-Sellers-Electronics-Security-Surveillance-Equipment/zgbs/electronics/524136/ref=zg_bs_nav_electronics_1"
+        },
+        {
+            "category": "Service & Replacement Plans",
+            "url": "https://www.amazon.com/Best-Sellers-Electronics-Computers-Electronics-Service-Plans/zgbs/electronics/16285901/ref=zg_bs_nav_electronics_1"
+        },
+        {
+            "category": "Televisions & Video",
+            "url": "https://www.amazon.com/Best-Sellers-Electronics-Televisions-Video-Products/zgbs/electronics/1266092011/ref=zg_bs_nav_electronics_1"
+        },
+        {
+            "category": "Video Game Consoles & Accessories",
+            "url": "https://www.amazon.com/Best-Sellers-Electronics-Video-Game-Consoles-Accessories/zgbs/electronics/7926841011/ref=zg_bs_nav_electronics_1"
+        },
+        {
+            "category": "Wearable Technology",
+            "url": "https://www.amazon.com/Best-Sellers-Electronics-Wearable-Technology/zgbs/electronics/10048700011/ref=zg_bs_nav_electronics_1"
+        },
+        {
+            "category": "eBook Readers & Accessories",
+            "url": "https://www.amazon.com/Best-Sellers-Electronics-eBook-Readers-Accessories/zgbs/electronics/2642125011/ref=zg_bs_nav_electronics_1"
+        }
+    ],
+    "next": "https://get.scrapehero.com/amz/best-sellers/?url=https%3A//www.amazon.com/Best-Sellers-Electronics/zgbs/electronics/ref%3Dzg_bs_pg_2%3F_encoding%3DUTF8%26pg%3D2",
+    "url": "https://www.amazon.com/Best-Sellers-Electronics/zgbs/electronics/ref=zg_bs_nav_0?pg=1",
+    "product_listings": [
+        {
+            "rank": 1,
+            "asin": "B0949KL83T",
+            "name": "HP 27-inch QHD Gaming with Tilt/Height Adjustment with AMD FreeSync Premium Technology (X27q, 2021 model)",
+            "ratings_count": 39,
+            "rating": "4.4",
+            "sale_price": "$299.99",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81yFlHx2QOL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/HP-27-inch-Adjustment-FreeSync-Technology/dp/B0949KL83T/ref=zg_bs_electronics_1/143-5324921-5383101?pd_rd_i=B0949KL83T&psc=1"
+        },
+        {
+            "rank": 2,
+            "asin": "B08XVYZ1Y5",
+            "name": "Fire TV Stick 4K streaming device with latest Alexa Voice Remote (includes TV controls), Dolby Vision",
+            "ratings_count": 61415,
+            "rating": "4.8",
+            "sale_price": "$39.99",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/411y5UdVmvL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/all-new-fire-tv-stick-4k-with-alexa-voice-remote/dp/B08XVYZ1Y5/ref=zg_bs_electronics_2/143-5324921-5383101?pd_rd_i=B08XVYZ1Y5&psc=1"
+        },
+        {
+            "rank": 3,
+            "asin": "B08C1W5N87",
+            "name": "Fire TV Stick with Alexa Voice Remote (includes TV controls), HD streaming device",
+            "ratings_count": 168299,
+            "rating": "4.7",
+            "sale_price": "$39.99",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51KKR5uGn6L._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/fire-tv-stick-with-3rd-gen-alexa-voice-remote/dp/B08C1W5N87/ref=zg_bs_electronics_3/143-5324921-5383101?pd_rd_i=B08C1W5N87&psc=1"
+        },
+        {
+            "rank": 4,
+            "asin": "B07XJ8C8F5",
+            "name": "Echo Dot (4th Gen, 2020 release) | Smart speaker with Alexa | Charcoal",
+            "ratings_count": 413023,
+            "rating": "4.7",
+            "sale_price": "$49.99",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51cGlUCK5WL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/all-new-Echo-Dot/dp/B07XJ8C8F5/ref=zg_bs_electronics_4/143-5324921-5383101?pd_rd_i=B07XJ8C8F5&psc=1"
+        },
+        {
+            "rank": 5,
+            "asin": "B0933BVK6T",
+            "name": "Apple AirTag",
+            "ratings_count": 42339,
+            "rating": "4.7",
+            "sale_price": "$29.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/713xuNx00oS._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Apple-MX532AM-A-AirTag/dp/B0933BVK6T/ref=zg_bs_electronics_5/143-5324921-5383101?pd_rd_i=B0933BVK6T&psc=1"
+        },
+        {
+            "rank": 6,
+            "asin": "B095NWYQBC",
+            "name": "Wyze Cam Spotlight, Wyze Cam v3 Security Camera with Spotlight Kit, 1080p HD Security Camera with Two-Way Audio and Siren, IP65 Weatherproof, Compatible with Alexa and Google Assistant",
+            "ratings_count": 834,
+            "rating": "4.6",
+            "sale_price": "$9.98 - $132.96",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61E8RWSXtoS._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Spotlight-Security-Weatherproof-Compatible-Assistant/dp/B095NWYQBC/ref=zg_bs_electronics_6/143-5324921-5383101?pd_rd_i=B09PGZQLY9&psc=1"
+        },
+        {
+            "rank": 7,
+            "asin": "B07FZ8S74R",
+            "name": "Echo Dot (3rd Gen, 2018 release) - Smart speaker with Alexa - Charcoal",
+            "ratings_count": 875058,
+            "rating": "4.7",
+            "sale_price": "$39.99",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/6182S7MYC2L._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Echo-Dot/dp/B07FZ8S74R/ref=zg_bs_electronics_7/143-5324921-5383101?pd_rd_i=B07FZ8S74R&psc=1"
+        },
+        {
+            "rank": 8,
+            "asin": "B08MQZXN1X",
+            "name": "Fire TV Stick 4K Max streaming device, Wi-Fi 6, Alexa Voice Remote (includes TV controls)",
+            "ratings_count": 33551,
+            "rating": "4.7",
+            "sale_price": "$54.99",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41XTOfFgUqL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/fire-tv-stick-4k-max-with-alexa-voice-remote/dp/B08MQZXN1X/ref=zg_bs_electronics_8/143-5324921-5383101?pd_rd_i=B08MQZXN1X&psc=1"
+        },
+        {
+            "rank": 9,
+            "asin": "B0932QJ2JZ",
+            "name": "Apple AirTag 4 Pack",
+            "ratings_count": 42339,
+            "rating": "4.7",
+            "sale_price": "$99.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71gY9E+cTaS._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Apple-MX542AM-A-AirTag-Pack/dp/B0932QJ2JZ/ref=zg_bs_electronics_9/143-5324921-5383101?pd_rd_i=B0932QJ2JZ&psc=1"
+        },
+        {
+            "rank": 10,
+            "asin": "B08SGC46M9",
+            "name": "Introducing Blink Video Doorbell + Sync Module 2 | Two-way audio, HD video, motion and chime app alerts and Alexa enabled \u2014 wired or wire-free (Black)",
+            "ratings_count": 22781,
+            "rating": "4.3",
+            "sale_price": "$49.99 - $279.98",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41mAlRlMUxL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Introducing-Blink-Doorbell-Two-way-enabled/dp/B08SGC46M9/ref=zg_bs_electronics_10/143-5324921-5383101?pd_rd_i=B09DFGMQWJ&psc=1"
+        },
+        {
+            "rank": 11,
+            "asin": "B0916TKFF2",
+            "name": "Roku Express 4K+ 2021 | Streaming Media Player HD/4K/HDR with Smooth Wireless Streaming and Roku Voice Remote with TV Controls, Includes Premium HDMI\u00ae Cable",
+            "ratings_count": 19771,
+            "rating": "4.7",
+            "sale_price": "$38.32",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71E4InwfcPL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Roku-Express-Streaming-Wireless-Controls/dp/B0916TKFF2/ref=zg_bs_electronics_11/143-5324921-5383101?pd_rd_i=B0916TKFF2&psc=1"
+        },
+        {
+            "rank": 12,
+            "asin": "B00EB4ADQW",
+            "name": "Fujifilm Instax Mini Instant Film Twin Pack (White)",
+            "ratings_count": 85323,
+            "rating": "4.8",
+            "sale_price": "$12.99",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/813oF-FY01L._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Fujifilm-INSTAX-Instant-Twin-Pack/dp/B00EB4ADQW/ref=zg_bs_electronics_12/143-5324921-5383101?pd_rd_i=B00EB4ADQW&psc=1"
+        },
+        {
+            "rank": 13,
+            "asin": "B09BKCDXZC",
+            "name": "Roku Streaming Stick 4K 2021 | Streaming Device 4K/HDR/Dolby Vision with Roku Voice Remote and TV Controls",
+            "ratings_count": 9668,
+            "rating": "4.7",
+            "sale_price": "$39.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71wrIZujPIL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Roku-Streaming-Device-Vision-Controls/dp/B09BKCDXZC/ref=zg_bs_electronics_13/143-5324921-5383101?pd_rd_i=B09BKCDXZC&psc=1"
+        },
+        {
+            "rank": 14,
+            "asin": "B07WVFCVJN",
+            "name": "Roku Express | HD Streaming Media Player with High Speed HDMI Cable and Simple Remote",
+            "ratings_count": 145129,
+            "rating": "4.8",
+            "sale_price": "$29.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71hx9HgKA2L._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Roku-Express-Streaming-Media-Player/dp/B07WVFCVJN/ref=zg_bs_electronics_14/143-5324921-5383101?pd_rd_i=B07WVFCVJN&psc=1"
+        },
+        {
+            "rank": 15,
+            "asin": "B07W781XWF",
+            "name": "livho 2 Pack Blue Light Blocking Glasses, Computer Reading/Gaming/TV/Phones Glasses for Women Men,Anti Eyestrain & UV Glare (Light Black+Clear)",
+            "ratings_count": 98077,
+            "rating": "4.3",
+            "sale_price": "$15.98 - $16.98",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51KBg2tf-lS._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Blocking-Glasses-Computer-Reading-Eyestrain/dp/B07W781XWF/ref=zg_bs_electronics_15/143-5324921-5383101?pd_rd_i=B09N7LVXLH&psc=1"
+        },
+        {
+            "rank": 16,
+            "asin": "B09G9FPHY6",
+            "name": "2021 Apple 10.2-inch iPad (Wi-Fi, 64GB) - Space Gray",
+            "ratings_count": 8355,
+            "rating": "4.8",
+            "sale_price": "$329.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61NGnpjoRDL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/2021-Apple-10-2-inch-iPad-Wi-Fi/dp/B09G9FPHY6/ref=zg_bs_electronics_16/143-5324921-5383101?pd_rd_i=B09G9FPHY6&psc=1"
+        },
+        {
+            "rank": 17,
+            "asin": "B091G4YP57",
+            "name": "Fire TV Stick Lite with latest Alexa Voice Remote Lite (no TV controls), HD streaming device",
+            "ratings_count": 2102,
+            "rating": "4.6",
+            "sale_price": "$29.99",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41pGFbSrrRL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/fire-tv-stick-lite-latest-alexa-voice-remote-lite/dp/B091G4YP57/ref=zg_bs_electronics_17/143-5324921-5383101?pd_rd_i=B091G4YP57&psc=1"
+        },
+        {
+            "rank": 18,
+            "asin": "B075XLWML4",
+            "name": "Roku Streaming Stick+ | HD/4K/HDR Streaming Device with Long-range Wireless and Roku Voice Remote with TV Controls",
+            "ratings_count": 112181,
+            "rating": "4.7",
+            "sale_price": "$34.99",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71gBY-gGBwL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Roku-Streaming-Stick-HDR-Streaming-Long-range/dp/B075XLWML4/ref=zg_bs_electronics_18/143-5324921-5383101?pd_rd_i=B075XLWML4&psc=1"
+        },
+        {
+            "rank": 19,
+            "asin": "B09PQ95GY4",
+            "name": "Motorola MA1 Wireless Android Auto Car Adapter - Instant Connection from Smartphone to Car Screen with Easy Setup - Direct Plug-in USB Adapter - Secure Gel Pad Included",
+            "ratings_count": 631,
+            "rating": "4.4",
+            "sale_price": "$175.00",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51HziAW+DXL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Motorola-MA1-Wireless-Android-Adapter/dp/B09PQ95GY4/ref=zg_bs_electronics_19/143-5324921-5383101?pd_rd_i=B09PQ95GY4&psc=1"
+        },
+        {
+            "rank": 20,
+            "asin": "B089DR29T6",
+            "name": "Amazon Smart Plug, for home automation, Works with Alexa- A Certified for Humans Device",
+            "ratings_count": 484942,
+            "rating": "4.7",
+            "sale_price": "$24.99",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41couS+UODL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Amazon-smart-plug-works-with-Alexa/dp/B089DR29T6/ref=zg_bs_electronics_20/143-5324921-5383101?pd_rd_i=B07KTYJ769&psc=1"
+        },
+        {
+            "rank": 21,
+            "asin": "B0773ZY26F",
+            "name": "Sceptre 24\" Professional Thin 75Hz 1080p LED Monitor 2x HDMI VGA Build-in Speakers, Machine Black (E248W-19203R Series)",
+            "ratings_count": 16997,
+            "rating": "4.6",
+            "sale_price": "$139.97",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71rXSVqET9L._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Sceptre-E248W-19203R-Monitor-Speakers-Metallic/dp/B0773ZY26F/ref=zg_bs_electronics_21/143-5324921-5383101?pd_rd_i=B0773ZY26F&psc=1"
+        },
+        {
+            "rank": 22,
+            "asin": "B08R6S1M1K",
+            "name": "USB Wall Charger, Surge Protector, QINLIANF 5 Outlet Extender with 4 USB Charging Ports ( 4.8A Total) 3-Sided 1680J Power Strip Multi Plug Outlets Wall Adapter Spaced for Home Travel Office (3U1C)",
+            "ratings_count": 12985,
+            "rating": "4.7",
+            "sale_price": "$16.98",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61Hh-YlfJOL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Charger-Protector-QINLIANF-Extender-Charging/dp/B08R6S1M1K/ref=zg_bs_electronics_22/143-5324921-5383101?pd_rd_i=B08R6S1M1K&psc=1"
+        },
+        {
+            "rank": 23,
+            "asin": "B09BNBMT8Y",
+            "name": "Ferilinso Designed for iPhone 13 Pro Max Camera Lens Protector, Designed for iPhone 13 Pro Camera Lens Protector, 3 Pack 9H Tempered Glass, Night Shooting Mode, Case Friendly, High Definition",
+            "ratings_count": 4088,
+            "rating": "4.4",
+            "sale_price": "$7.89",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71TadfhjQ6L._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Ferilinso-Designed-Protector-Tempered-Definition/dp/B09BNBMT8Y/ref=zg_bs_electronics_23/143-5324921-5383101?pd_rd_i=B09BNBMT8Y&psc=1"
+        },
+        {
+            "rank": 24,
+            "asin": "B08KTZ8249",
+            "name": "All-new Kindle Paperwhite (8 GB) \u2013 Now with a 6.8\" display and adjustable warm light \u2013 Ad-Supported",
+            "ratings_count": 5380,
+            "rating": "4.7",
+            "sale_price": "$139.99",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51QCk82iGcL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/All-new-Kindle-Paperwhite-adjustable-Ad-Supported/dp/B08KTZ8249/ref=zg_bs_electronics_24/143-5324921-5383101?pd_rd_i=B08KTZ8249&psc=1"
+        },
+        {
+            "rank": 25,
+            "asin": "B07FKYHTWP",
+            "name": "FosPower 2000mAh NOAA Emergency Weather Radio (Model A1) Portable Power Bank with Solar Charging, Hand Crank & Battery Operated, SOS Alarm, AM/FM & LED Flashlight for Outdoor Emergency",
+            "ratings_count": 23249,
+            "rating": "4.6",
+            "sale_price": "$29.99",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71lprXHznaL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/FosPower-Emergency-Portable-Household-Flashlight/dp/B07FKYHTWP/ref=zg_bs_electronics_25/143-5324921-5383101?pd_rd_i=B07FKYHTWP&psc=1"
+        },
+        {
+            "rank": 26,
+            "asin": "B084J4MZK8",
+            "name": "Echo Dot (4th Gen) | Smart speaker with Alexa | Twilight Blue",
+            "ratings_count": 413023,
+            "rating": "4.7",
+            "sale_price": "$49.99",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51maMLyRs4L._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/All-new-Echo-Dot-Blue/dp/B084J4MZK8/ref=zg_bs_electronics_26/143-5324921-5383101?pd_rd_i=B084J4MZK8&psc=1"
+        },
+        {
+            "rank": 27,
+            "asin": "B07YNLBS7R",
+            "name": "Fire TV Stick Lite with Alexa Voice Remote Lite (no TV controls), HD streaming device",
+            "ratings_count": 220950,
+            "rating": "4.7",
+            "sale_price": "$29.99",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51Da2Z+FTFL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/fire-tv-stick-lite/dp/B07YNLBS7R/ref=zg_bs_electronics_27/143-5324921-5383101?pd_rd_i=B07YNLBS7R&psc=1"
+        },
+        {
+            "rank": 28,
+            "asin": "B08BJB2K7L",
+            "name": "Majority Bowfell Small Sound Bar for TV with Bluetooth, RCA, USB, Opt, AUX Connection, Mini Sound/Audio System for TV Speakers/Home Theater, Gaming, Projectors, 50 watt, 15 inch",
+            "ratings_count": 17739,
+            "rating": "4.0",
+            "sale_price": "$39.95",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71sHVeLKq9L._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Majority-Bluetooth-Connection-Speakers-Projectors/dp/B08BJB2K7L/ref=zg_bs_electronics_28/143-5324921-5383101?pd_rd_i=B08BJB2K7L&psc=1"
+        },
+        {
+            "rank": 29,
+            "asin": "B09F2XPJ47",
+            "name": "Surge Protector Power Strip , Nuetsa Extension Cord with 8 Outlets and 4 USB Ports, 6 Feet Power Cord (1625W/13A) , 2700 Joules, ETL Listed, Black",
+            "ratings_count": 872,
+            "rating": "4.8",
+            "sale_price": "$17.97",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61JYu06+E3L._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Protector-Nuetsa-Extension-Outlets-Joules/dp/B09F2XPJ47/ref=zg_bs_electronics_29/143-5324921-5383101?pd_rd_i=B09F2XPJ47&psc=1"
+        },
+        {
+            "rank": 30,
+            "asin": "B087RKKXM5",
+            "name": "USB Wall Charger Surge Protector 5 Outlet Extender with 4 USB Charging Ports ( 1 USB C Outlet) 3 Sided 1800J Power Strip Multi Plug Outlets Wall Adapter Spaced for Home Travel Office ETL Listed",
+            "ratings_count": 23343,
+            "rating": "4.8",
+            "sale_price": "$15.99",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51q27AdELqL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Charger-Protector-Extender-Charging-3-Sided/dp/B087RKKXM5/ref=zg_bs_electronics_30/143-5324921-5383101?pd_rd_i=B087RKKXM5&psc=1"
+        },
+        {
+            "rank": 31,
+            "asin": "B071FXZBMV",
+            "name": "OHill Cable Clips,16 Pack Black Adhesive Cord Holders, Ideal Cable Cords Management for Organizing Cable Wires-Home, Office, Car, Desk Nightstand",
+            "ratings_count": 45032,
+            "rating": "4.5",
+            "sale_price": "$8.99",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71SrHDrrHML._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/OHill-Organizer-Management-Organizing-Adhesive/dp/B071FXZBMV/ref=zg_bs_electronics_31/135-6928634-5948412?pd_rd_i=B071FXZBMV&psc=1"
+        },
+        {
+            "rank": 32,
+            "asin": "B00BWF5U0M",
+            "name": "Sabrent 4-Port USB 2.0 Data Hub with Individual LED lit Power Switches [Charging NOT Supported] for Mac & PC (HB-UMLS)",
+            "ratings_count": 93316,
+            "rating": "4.6",
+            "sale_price": "$8.99",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71igbmDJwDL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Sabrent-4-Port-Individual-Switches-HB-UMLS/dp/B00BWF5U0M/ref=zg_bs_electronics_32/135-6928634-5948412?pd_rd_i=B00BWF5U0M&psc=1"
+        },
+        {
+            "rank": 33,
+            "asin": "B08TZY61DP",
+            "name": "Fujifilm Instax Mini Instant Film, 10 Sheets\u00d75 Pack(Total 50 Shoots) [Bulk Packaging]",
+            "ratings_count": 3849,
+            "rating": "4.8",
+            "sale_price": "$36.50",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61jupUPuTdL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Fujifilm-Instax-Instant-Sheets%C3%975-Packaging/dp/B08TZY61DP/ref=zg_bs_electronics_33/135-6928634-5948412?pd_rd_i=B08TZY61DP&psc=1"
+        },
+        {
+            "rank": 34,
+            "asin": "B001E1Y5O6",
+            "name": "VELCRO Brand ONE-WRAP Cable Ties | 100Pk | 8 x 1/2\" Black Cord Organization Straps | Thin Pre-Cut Design | Wire Management for Organizing Home, Office and Data Centers",
+            "ratings_count": 24535,
+            "rating": "4.7",
+            "sale_price": "$11.92",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81cK1XA+ufL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/VELCRO-Brand-Reusable-Fastening-Organizing/dp/B001E1Y5O6/ref=zg_bs_electronics_34/135-6928634-5948412?pd_rd_i=B001E1Y5O6&psc=1"
+        },
+        {
+            "rank": 35,
+            "asin": "B097PTBB5V",
+            "name": "Mac Book Pro Charger - 100W USB C Charger Power Adapter Compatible with MacBook Pro 16, 15, 14, 13 Inch, MacBook Air 13 Inch, iPad Pro 2021/2020/2019/2018, Included 7.2ft USB C to C Cable",
+            "ratings_count": 1833,
+            "rating": "4.4",
+            "sale_price": "$36.89",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51nl1ANJw8L._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Mac-Book-Pro-Charger-Compatible/dp/B097PTBB5V/ref=zg_bs_electronics_35/135-6928634-5948412?pd_rd_i=B097PTBB5V&psc=1"
+        },
+        {
+            "rank": 36,
+            "asin": "B07T58DGSZ",
+            "name": "Power Strip, AHRISE Extension Cord with 6 AC Outlets and 4 USB Charging Ports(5V/3.4A,17W) for Smartphone Tablets Home, Office, Hotel, Cruise Ship, 5 Feet Long Cord, ETL Listed -Black",
+            "ratings_count": 6816,
+            "rating": "4.7",
+            "sale_price": "$13.54",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61An3SXBEkL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/AHRISE-Extension-Outlets-Charging-Smartphone/dp/B07T58DGSZ/ref=zg_bs_electronics_36/135-6928634-5948412?pd_rd_i=B07T58DGSZ&psc=1"
+        },
+        {
+            "rank": 37,
+            "asin": "B092J8LPWR",
+            "name": "Surge Protector Power Strip - 8 Widely Outlets with 4 USB Charging Ports, 3 Side Outlet Extender with 5Ft Braided Extension Cord, Flat Plug, Wall Mount, Desk USB Charging Station for Home Office ETL",
+            "ratings_count": 3964,
+            "rating": "4.8",
+            "sale_price": "$19.99",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71B6GYQW+HS._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Surge-Protector-Power-Strip-Extension/dp/B092J8LPWR/ref=zg_bs_electronics_37/135-6928634-5948412?pd_rd_i=B092J8LPWR&psc=1"
+        },
+        {
+            "rank": 38,
+            "asin": "B09BNZ4Q11",
+            "name": "Outlet Extender with Night Light, USB Wall Charger, POWLIGHT 5-Outlet Surge Protector Power Strip with 4 USB Ports, 1680 Joules Multi Plug Outlet with Spaced Outlets for Home, Office, White",
+            "ratings_count": 1386,
+            "rating": "4.7",
+            "sale_price": "$14.39",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51MDAAPdKCL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Extender-Charger-POWLIGHT-5-Outlet-Protector/dp/B09BNZ4Q11/ref=zg_bs_electronics_38/135-6928634-5948412?pd_rd_i=B09BNZ4Q11&psc=1"
+        },
+        {
+            "rank": 39,
+            "asin": "B07CCGBB7M",
+            "name": "USB Wall Charger, Surge Protector, POWRUI 6-Outlet Extender with 2 USB Charging Ports (2.4A Total) and Night Light, 3-Sided Power Strip with Adapter Spaced Outlets - White\uff0cETL Listed",
+            "ratings_count": 48321,
+            "rating": "4.7",
+            "sale_price": "$19.97",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61RSZvtyMyL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Protector-POWRUI-6-Outlet-Extender-Charging/dp/B07CCGBB7M/ref=zg_bs_electronics_39/135-6928634-5948412?pd_rd_i=B07CCGBB7M&psc=1"
+        },
+        {
+            "rank": 40,
+            "asin": "B08KY684PB",
+            "name": "COMSOON Upgraded Bluetooth 5.0 Receiver for Car, Noise Cancelling Bluetooth AUX Adapter, Bluetooth Music Receiver for Home Stereo/Wired Headphones/Hands-Free Call,16H Battery Life-Black+Silver",
+            "ratings_count": 18012,
+            "rating": "4.4",
+            "sale_price": "$16.99",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71jedtuRDHS._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Upgraded-Bluetooth-Cancelling-Headphones-Hands-Free/dp/B08KY684PB/ref=zg_bs_electronics_40/135-6928634-5948412?pd_rd_i=B08KY684PB&psc=1"
+        },
+        {
+            "rank": 41,
+            "asin": "B086Q92563",
+            "name": "NEW Microsoft Surface Dock 2",
+            "ratings_count": 2227,
+            "rating": "4.5",
+            "sale_price": "$175.98",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61325VnwoTL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/NEW-Microsoft-Surface-Dock-2/dp/B086Q92563/ref=zg_bs_electronics_41/135-6928634-5948412?pd_rd_i=B086Q92563&psc=1"
+        },
+        {
+            "rank": 42,
+            "asin": "B09HF6XBPF",
+            "name": "Apple Watch Series 7 GPS, 45mm Midnight Aluminum Case with Midnight Sport Band - Regular",
+            "ratings_count": 10554,
+            "rating": "4.8",
+            "sale_price": "$419.99",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71fxj9HPLPL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Apple-Watch-Midnight-Aluminum-Sport/dp/B09HF6XBPF/ref=zg_bs_electronics_42/135-6928634-5948412?pd_rd_i=B09HF6XBPF&psc=1"
+        },
+        {
+            "rank": 43,
+            "asin": "B07FKR6KXF",
+            "name": "Fire 7 tablet, 7\" display, 16 GB, latest model (2019 release), Black",
+            "ratings_count": 227676,
+            "rating": "4.4",
+            "sale_price": "$49.99",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71POuqajw1L._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Fire-Tablet-7/dp/B07FKR6KXF/ref=zg_bs_electronics_43/135-6928634-5948412?pd_rd_i=B07FKR6KXF&psc=1"
+        },
+        {
+            "rank": 44,
+            "asin": "B018I4BPNU",
+            "name": "Hand Crank Radio with Flashlight for Emergency, Esky Portable Solar Radios, Self Powered AM/FM NOAA Weather Radio with 1000mAh Power Bank Cell Phone Charger, USB Rechargeable, Great Emergency Supplies",
+            "ratings_count": 7910,
+            "rating": "4.6",
+            "sale_price": "$27.59",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/717YpXmPzhL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Upgraded-Esky-Portable-Emergency-Flashlight/dp/B018I4BPNU/ref=zg_bs_electronics_44/135-6928634-5948412?pd_rd_i=B018I4BPNU&psc=1"
+        },
+        {
+            "rank": 45,
+            "asin": "B0080Z7974",
+            "name": "GE 6-Outlet Power Strip, 2 Pack, 2 Ft Extension Cord, Heavy Duty Plug, Grounded, Integrated Circuit Breaker, 3-Prong, Wall Mount, UL Listed, White, 14833",
+            "ratings_count": 27587,
+            "rating": "4.7",
+            "sale_price": "$10.99",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71EWj6kalgS._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/GE-Integrated-Protection-Mountable-14833/dp/B0080Z7974/ref=zg_bs_electronics_45/135-6928634-5948412?pd_rd_i=B0080Z7974&psc=1"
+        },
+        {
+            "rank": 46,
+            "asin": "B084J4KNDS",
+            "name": "Echo Dot (4th Gen) | Smart speaker with Alexa | Glacier White",
+            "ratings_count": 413023,
+            "rating": "4.7",
+            "sale_price": "$49.99",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51F+N9Z3h0L._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/all-new-echo-dot/dp/B084J4KNDS/ref=zg_bs_electronics_46/135-6928634-5948412?pd_rd_i=B084J4KNDS&psc=1"
+        },
+        {
+            "rank": 47,
+            "asin": "B072M34RQC",
+            "name": "HP VH240a 23.8-Inch Full HD 1080p IPS LED Monitor with Built-In Speakers and VESA Mounting, Rotating Portrait & Landscape, Tilt, and HDMI & VGA Ports (1KL30AA) - Black",
+            "ratings_count": 24987,
+            "rating": "4.7",
+            "sale_price": "$243.49",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71trhuzbhML._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/HP-23-8-inch-Adjustment-Speakers-VH240a/dp/B072M34RQC/ref=zg_bs_electronics_47/135-6928634-5948412?pd_rd_i=B072M34RQC&psc=1"
+        },
+        {
+            "rank": 48,
+            "asin": "B074JT3698",
+            "name": "Rove R2-4K Dash Cam Built in WiFi GPS Car Dashboard Camera Recorder with UHD 2160P, 2.4\" LCD, 150\u00b0 Wide Angle, WDR, Night Vision",
+            "ratings_count": 19022,
+            "rating": "4.5",
+            "sale_price": "$101.99",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81Qi6a1mzuL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/R2-4K-Dashboard-Camera-Recorder-Vision/dp/B074JT3698/ref=zg_bs_electronics_48/135-6928634-5948412?pd_rd_i=B074JT3698&psc=1"
+        },
+        {
+            "rank": 49,
+            "asin": "B084DCJKSL",
+            "name": "Echo Show 8 (2nd Gen, 2021 release) | HD smart display with Alexa and 13 MP camera | Charcoal",
+            "ratings_count": 25237,
+            "rating": "4.7",
+            "sale_price": "$99.99",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/51yQll2L7xL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/Echo-Show-8-2nd-Gen-2021-release/dp/B084DCJKSL/ref=zg_bs_electronics_49/135-6928634-5948412?pd_rd_i=B084DCJKSL&psc=1"
+        },
+        {
+            "rank": 50,
+            "asin": "B07JPWYXVT",
+            "name": "PowerBear Portable Radio | AM/FM, 2AA Battery Operated with Long Range Reception for Indoor, Outdoor & Emergency Use | Radio with Speaker & Headphone Jack (Black)",
+            "ratings_count": 15154,
+            "rating": "4.3",
+            "sale_price": "$10.99",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/817Cjqt+MJL._AC_UL302_SR302,200_.jpg",
+            "is_prime": false,
+            "product_url": "https://www.amazon.com/PowerBear-Portable-Handheld-Battery-Operated/dp/B07JPWYXVT/ref=zg_bs_electronics_50/135-6928634-5948412?pd_rd_i=B07JPWYXVT&psc=1"
+        }
+    ]
+}
