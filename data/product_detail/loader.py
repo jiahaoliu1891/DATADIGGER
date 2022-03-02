@@ -15,7 +15,6 @@ def load_products_pkl(filename):
 
 class Product():
     def __init__(self, product_info):
-        # ten attributes
         self.title = product_info['product_title'] # 1
         self.id = product_info['product_id'] # 2
         self.price = None # 3
@@ -116,12 +115,7 @@ if __name__ == '__main__':
                     product = Product(product_info)
                     print(product)
                     to_json(product)
-                
-            
-        # to_json()
-
-    # get list of product data, each one is a dict obj
-
+    
     if args.demo:
         product_list = load_products_pkl(args.filename)
         for i in range(50):
