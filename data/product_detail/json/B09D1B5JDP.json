@@ -1,0 +1,14 @@
+{
+    "title": "B09D1B5JDP",
+    "id": "B09D1B5JDP",
+    "price": 21.4,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

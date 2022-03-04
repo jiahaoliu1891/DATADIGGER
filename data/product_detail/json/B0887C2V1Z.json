@@ -1,0 +1,20 @@
+{
+    "title": "B0887C2V1Z",
+    "id": "B0887C2V1Z",
+    "price": 17.99,
+    "overview": {
+        "_Material_": "100% Stainless Steel",
+        "_Color_": "-Dora Rainforest Paradise",
+        "_Capacity_": "9.92 Ounces",
+        "_Brand_": "Simple Modern",
+        "_Product_Care_Instructions_": "Machine Wash"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

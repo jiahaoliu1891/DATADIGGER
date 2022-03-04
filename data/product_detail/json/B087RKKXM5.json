@@ -1,0 +1,20 @@
+{
+    "title": "B087RKKXM5",
+    "id": "B087RKKXM5",
+    "price": 15.99,
+    "overview": {
+        "_Power_Plug_Type_": "Type B - 3 pin (North American)",
+        "_Brand_": "Addtam",
+        "_Color_": "White",
+        "_Material_": "Plastic",
+        "_Voltage_": "125 Volts"
+    },
+    "discount": 6.0,
+    "country": "US",
+    "quantity": 10,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

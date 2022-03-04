@@ -1,0 +1,20 @@
+{
+    "title": "B001C2F5NW",
+    "id": "B001C2F5NW",
+    "price": 24.95,
+    "overview": {
+        "_Color_": "Black",
+        "_Material_": "Plastic",
+        "_Brand_": "Cuisinart",
+        "_Size_": "Black",
+        "_Blade_Material_": "Stainless Steel"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 32,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

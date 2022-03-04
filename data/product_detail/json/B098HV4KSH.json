@@ -1,0 +1,14 @@
+{
+    "title": "B098HV4KSH",
+    "id": "B098HV4KSH",
+    "price": 21.95,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 77,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

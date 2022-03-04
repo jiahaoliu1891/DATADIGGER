@@ -1,0 +1,14 @@
+{
+    "title": "B07M8JMRK4",
+    "id": "B07M8JMRK4",
+    "price": 10.98,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 3,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

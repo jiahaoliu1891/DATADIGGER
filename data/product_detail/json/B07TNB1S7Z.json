@@ -1,0 +1,20 @@
+{
+    "title": "B07TNB1S7Z",
+    "id": "B07TNB1S7Z",
+    "price": 8.99,
+    "overview": {
+        "_Color_": "Black",
+        "_Material_": "Plastic",
+        "_Shape_": "Cylindrical",
+        "_Brand_": "Blender Bottle",
+        "_Item_Weight_": "1 Ounces"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

@@ -1,0 +1,22 @@
+{
+    "title": "B073KYTWGB",
+    "id": "B073KYTWGB",
+    "price": 16.99,
+    "overview": {
+        "_Brand_": "KIZEN",
+        "_Color_": "Black/White",
+        "_Power_Source_": "Battery Powered",
+        "_Specification_Met_": "CE, RoHS",
+        "_Unit_Count_": "1 Count",
+        "_Response_Time_": "3 seconds",
+        "_Water_Resistance_Level_": "Waterproof"
+    },
+    "discount": 13.0,
+    "country": "US",
+    "quantity": 10,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

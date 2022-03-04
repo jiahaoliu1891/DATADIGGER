@@ -1,0 +1,20 @@
+{
+    "title": "B08PC872RL",
+    "id": "B08PC872RL",
+    "price": 21.95,
+    "overview": {
+        "_Power_Plug_Type_": "Type B - 3 pin (North American)",
+        "_Brand_": "Tcstei",
+        "_Color_": "Black",
+        "_Voltage_": "125 Volts",
+        "_Maximum_Surge_Rating_": "2100 Joules"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

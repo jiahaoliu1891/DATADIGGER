@@ -1,0 +1,25 @@
+{
+    "title": "B07FKYHTWP",
+    "id": "B07FKYHTWP",
+    "price": 29.99,
+    "overview": {
+        "_Power_Source_": "Solar, Battery, Hand Crank",
+        "_Brand_": "FosPower",
+        "_Radio_Bands_Supported_": "7-Band",
+        "_Color_": "Orange",
+        "_Hardware_Interface_": "USB",
+        "_Connectivity_Technology_": "USB",
+        "_Item_Weight_": "310 Grams",
+        "_Frequency_": "108 MHz",
+        "_Item_Dimensions_LxWxH_": "6.2 x 2.9 x 2.1 inches",
+        "_Voltage_": "3.7 Volts"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

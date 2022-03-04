@@ -1,0 +1,14 @@
+{
+    "title": "B084J4MZK8",
+    "id": "B084J4MZK8",
+    "price": 49.99,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 21,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

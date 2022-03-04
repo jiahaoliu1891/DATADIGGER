@@ -1,0 +1,14 @@
+{
+    "title": "B08H7RL4GN",
+    "id": "B08H7RL4GN",
+    "price": 10.49,
+    "overview": "MISS",
+    "discount": 0.96,
+    "country": "US",
+    "quantity": 18,
+    "missOverview": true,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

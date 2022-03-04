@@ -1,0 +1,25 @@
+{
+    "title": "B01M9I779L",
+    "id": "B01M9I779L",
+    "price": 12.99,
+    "overview": {
+        "_Color_": "Aqua",
+        "_Material_": "Metal",
+        "_Brand_": "DASH",
+        "_Style_": "Waffle Maker",
+        "_Item_Dimensions_LxWxH_": "6.4 x 5 x 2.8 inches",
+        "_Item_Weight_": "1.3 Pounds",
+        "_Wattage_": "350 watts",
+        "_Voltage_": "110120",
+        "_Material_Type_Free_": "PFOA Free",
+        "_Number_of_settings_": "1"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 27,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

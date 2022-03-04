@@ -1,0 +1,19 @@
+{
+    "title": "B06Y2FS8FK",
+    "id": "B06Y2FS8FK",
+    "price": 19.49,
+    "overview": {
+        "_Color_": "Frost",
+        "_Material_": "Plastic",
+        "_Brand_": "Madesmart",
+        "_Item_Dimensions_LxWxH_": "14.38 x 9 x 6.5 inches"
+    },
+    "discount": 5.5,
+    "country": "US",
+    "quantity": 3,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

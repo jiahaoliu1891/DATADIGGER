@@ -1,0 +1,20 @@
+{
+    "title": "B01JTDG084",
+    "id": "B01JTDG084",
+    "price": 11.79,
+    "overview": {
+        "_Brand_": "Greater Goods",
+        "_Material_": "Plastic",
+        "_Item_Weight_": "7.5 Ounces",
+        "_Weight_Limit_": "11 Pounds",
+        "_Item_Dimensions_LxWxH_": "8.1 x 6.13 x 0.55 inches"
+    },
+    "discount": 8.16,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

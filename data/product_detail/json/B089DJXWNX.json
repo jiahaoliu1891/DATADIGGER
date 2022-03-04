@@ -1,0 +1,14 @@
+{
+    "title": "B089DJXWNX",
+    "id": "B089DJXWNX",
+    "price": 19.9,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 8,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

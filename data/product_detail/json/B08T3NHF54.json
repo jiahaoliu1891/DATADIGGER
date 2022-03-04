@@ -1,0 +1,14 @@
+{
+    "title": "B08T3NHF54",
+    "id": "B08T3NHF54",
+    "price": 20.3,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 5,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

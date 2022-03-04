@@ -1,0 +1,20 @@
+{
+    "title": "B0080Z7974",
+    "id": "B0080Z7974",
+    "price": 10.99,
+    "overview": {
+        "_Brand_": "GE",
+        "_Color_": "White",
+        "_Material_": "Polyvinyl Chloride",
+        "_Item_Weight_": "1.05 Pounds",
+        "_Item_Dimensions_LxWxH_": "3.55 x 3.29 x 11.04 inches"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 6,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

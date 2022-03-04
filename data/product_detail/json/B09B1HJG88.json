@@ -1,0 +1,14 @@
+{
+    "title": "B09B1HJG88",
+    "id": "B09B1HJG88",
+    "price": 29.49,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 3,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

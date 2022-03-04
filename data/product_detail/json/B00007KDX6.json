@@ -1,0 +1,23 @@
+{
+    "title": "B00007KDX6",
+    "id": "B00007KDX6",
+    "price": 25.99,
+    "overview": {
+        "_Power_Source_": "AC & Battery",
+        "_Brand_": "Panasonic",
+        "_Radio_Bands_Supported_": "AM/FM",
+        "_Color_": "Silver",
+        "_Item_Weight_": "1 Pounds",
+        "_Frequency_": "108 MHz",
+        "_Item_Dimensions_LxWxH_": "3.23 x 9.21 x 4.8 inches",
+        "_Voltage_": "110 Volts"
+    },
+    "discount": 4.0,
+    "country": "US",
+    "quantity": 27,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

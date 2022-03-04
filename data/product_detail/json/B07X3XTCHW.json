@@ -1,0 +1,20 @@
+{
+    "title": "B07X3XTCHW",
+    "id": "B07X3XTCHW",
+    "price": 24.99,
+    "overview": {
+        "_Color_": "Clear",
+        "_Material_": "Plastic",
+        "_Brand_": "Rubbermaid",
+        "_Product_Care_Instructions_": "Microwave Safe, Dishwasher Safe",
+        "_Capacity_": "300 Milliliters"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

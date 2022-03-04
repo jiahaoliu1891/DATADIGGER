@@ -1,0 +1,22 @@
+{
+    "title": "B08KY684PB",
+    "id": "B08KY684PB",
+    "price": 16.99,
+    "overview": {
+        "_Brand_": "COMSOON",
+        "_Hardware_Interface_": "3.5mm Audio",
+        "_Color_": "Black+Silver",
+        "_Compatible_Devices_": "Laptop, Smartphone",
+        "_Item_Dimensions_LxWxH_": "2.36 x 1.54 x 0.39 inches",
+        "_Data_Link_Protocol_": "Bluetooth",
+        "_Item_Weight_": "65 Grams"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 100,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

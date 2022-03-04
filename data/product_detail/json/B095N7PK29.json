@@ -1,0 +1,14 @@
+{
+    "title": "B095N7PK29",
+    "id": "B095N7PK29",
+    "price": 20.09,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

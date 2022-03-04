@@ -1,0 +1,14 @@
+{
+    "title": "B07P7XVLW2",
+    "id": "B07P7XVLW2",
+    "price": 119.99,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 5,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

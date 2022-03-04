@@ -1,0 +1,19 @@
+{
+    "title": "B071FXZBMV",
+    "id": "B071FXZBMV",
+    "price": 8.99,
+    "overview": {
+        "_Color_": "Black",
+        "_Brand_": "OHill",
+        "_Item_Weight_": "0.15 Pounds",
+        "_Binding_": "Unknown Binding"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

@@ -1,0 +1,14 @@
+{
+    "title": "B089DR29T6",
+    "id": "B089DR29T6",
+    "price": 24.99,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 31,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

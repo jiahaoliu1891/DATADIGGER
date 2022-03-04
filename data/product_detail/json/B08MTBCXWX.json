@@ -1,0 +1,20 @@
+{
+    "title": "B08MTBCXWX",
+    "id": "B08MTBCXWX",
+    "price": 12.72,
+    "overview": {
+        "_Brand_": "Yintar",
+        "_Color_": "Black",
+        "_Voltage_": "125 Volts",
+        "_Maximum_Surge_Rating_": "1680 Joules",
+        "_Total_Power_Outlets_": "6"
+    },
+    "discount": 5.25,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

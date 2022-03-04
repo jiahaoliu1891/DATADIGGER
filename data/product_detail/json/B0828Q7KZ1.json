@@ -1,0 +1,25 @@
+{
+    "title": "B0828Q7KZ1",
+    "id": "B0828Q7KZ1",
+    "price": 13.99,
+    "overview": {
+        "_Style_": "Digital",
+        "_Brand_": "Peakeep",
+        "_Material_": "Plastic",
+        "_Color_": "Black",
+        "_Shape_": "Rectangular",
+        "_Power_Source_": "Battery Powered",
+        "_Special_Feature_": "Indoor Temperature Display",
+        "_Frame_Material_": "Plastic",
+        "_Display_Type_": "Digital",
+        "_Mounting_Type_": "Tabletop"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

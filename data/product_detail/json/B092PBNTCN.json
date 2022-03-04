@@ -1,0 +1,19 @@
+{
+    "title": "B092PBNTCN",
+    "id": "B092PBNTCN",
+    "price": 34.99,
+    "overview": {
+        "_Color_": "Black",
+        "_Material_": "Foam",
+        "_Brand_": "Sky Solutions",
+        "_Special_Feature_": "Anti-fatigue"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

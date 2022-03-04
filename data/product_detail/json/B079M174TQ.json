@@ -1,0 +1,14 @@
+{
+    "title": "B079M174TQ",
+    "id": "B079M174TQ",
+    "price": 26.99,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 100,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

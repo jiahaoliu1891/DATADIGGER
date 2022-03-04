@@ -1,0 +1,14 @@
+{
+    "title": "B08CL5SYK3",
+    "id": "B08CL5SYK3",
+    "price": 11.14,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

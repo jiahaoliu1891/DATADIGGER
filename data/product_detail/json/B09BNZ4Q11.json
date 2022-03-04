@@ -1,0 +1,20 @@
+{
+    "title": "B09BNZ4Q11",
+    "id": "B09BNZ4Q11",
+    "price": 14.39,
+    "overview": {
+        "_Power_Plug_Type_": "Type B - 3 pin (North American)",
+        "_Brand_": "POWLIGHT",
+        "_Color_": "White",
+        "_Voltage_": "125 Volts",
+        "_Maximum_Surge_Rating_": "1680 Joules"
+    },
+    "discount": 5.6,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

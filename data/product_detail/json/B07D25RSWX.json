@@ -1,0 +1,20 @@
+{
+    "title": "B07D25RSWX",
+    "id": "B07D25RSWX",
+    "price": 19.99,
+    "overview": {
+        "_Brand_": "Anker",
+        "_Color_": "White",
+        "_Material_": "Rubber",
+        "_Voltage_": "125 Volts",
+        "_Item_Weight_": "9.1 Ounces"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 10,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

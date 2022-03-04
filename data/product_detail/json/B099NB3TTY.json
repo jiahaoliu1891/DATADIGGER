@@ -1,0 +1,20 @@
+{
+    "title": "B099NB3TTY",
+    "id": "B099NB3TTY",
+    "price": 21.22,
+    "overview": {
+        "_Brand_": "POWSAV",
+        "_Color_": "Black",
+        "_Material_": "Metal",
+        "_Voltage_": "125 Volts",
+        "_Maximum_Surge_Rating_": "2100 Joules"
+    },
+    "discount": 8.77,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

@@ -1,0 +1,20 @@
+{
+    "title": "B08TZY61DP",
+    "id": "B08TZY61DP",
+    "price": 36.5,
+    "overview": {
+        "_Brand_": "Fujifilm",
+        "_Film_Color_": "Color",
+        "_Film_Format_Type_": "6x8",
+        "_Exposures_per_Roll_": "10",
+        "_Compatible_Devices_": "Fujifilm instax mini"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 100,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

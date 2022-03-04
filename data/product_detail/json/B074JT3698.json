@@ -1,0 +1,25 @@
+{
+    "title": "B074JT3698",
+    "id": "B074JT3698",
+    "price": 119.99,
+    "overview": {
+        "_Color_": "Black",
+        "_Are_Batteries_Included_": "Yes",
+        "_Brand_": "ROVE",
+        "_Screen_Size_": "2.4 Inches",
+        "_Item_Dimensions_LxWxH_": "2.99 x 2.01 x 0.98 inches",
+        "_Video_Capture_Resolution_": "4K",
+        "_Display_Type_": "LCD",
+        "_Media_Playback_Supported_": "MP4",
+        "_Mounting_Type_": "Suction Mount",
+        "_Control_Method_": "App"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 50,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

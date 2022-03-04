@@ -1,0 +1,23 @@
+{
+    "title": "B075XLWML4",
+    "id": "B075XLWML4",
+    "price": 34.99,
+    "overview": {
+        "_Connectivity_Technology_": "Built-in Wi-Fi",
+        "_Brand_": "Roku",
+        "_Supported_Internet_Services_": "Netflix, Prime Video, HBO, Hulu with Live TV, Apple TV, The Roku Channel, Showtime and Google Play",
+        "_Compatible_Devices_": "Television",
+        "_Memory_Storage_Capacity_": "15 A/W",
+        "_Item_Dimensions_LxWxH_": "3.7 x 0.8 x 0.47 inches",
+        "_Control_Method_": "Voice",
+        "_Controller_Type_": "Remote Control, Voice Control"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 3,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

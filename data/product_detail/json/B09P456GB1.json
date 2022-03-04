@@ -1,0 +1,14 @@
+{
+    "title": "B09P456GB1",
+    "id": "B09P456GB1",
+    "price": 51.85,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 3,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

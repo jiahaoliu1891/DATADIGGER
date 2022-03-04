@@ -1,0 +1,23 @@
+{
+    "title": "B06XVZ6Y4T",
+    "id": "B06XVZ6Y4T",
+    "price": 28.43,
+    "overview": {
+        "_Brand_": "LandAirSea",
+        "_Color_": "Black",
+        "_Are_Batteries_Included_": "No",
+        "_Item_Dimensions_LxWxH_": "2.25 x 2.25 x 0.8 inches",
+        "_Connectivity_Technology_": "4G LTE",
+        "_Map_Type_": "Worldwide",
+        "_Battery_Life_": "10 days",
+        "_Vehicle_Service_Type_": "Motorcycle"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

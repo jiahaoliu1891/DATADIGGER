@@ -1,0 +1,19 @@
+{
+    "title": "B016OL1AB6",
+    "id": "B016OL1AB6",
+    "price": 19.25,
+    "overview": {
+        "_Brand_": "FOODSAVER",
+        "_Material_": "Plastic",
+        "_Color_": "White",
+        "_Item_Dimensions_LxWxH_": "9 x 6 x 4.9 inches"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 33,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

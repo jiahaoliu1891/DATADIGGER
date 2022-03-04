@@ -1,0 +1,20 @@
+{
+    "title": "B07PKKTQQ9",
+    "id": "B07PKKTQQ9",
+    "price": 16.99,
+    "overview": {
+        "_Material_": "Stainless Steel",
+        "_Color_": "- Midnight Black",
+        "_Capacity_": "415 Milliliters",
+        "_Brand_": "Simple Modern",
+        "_Item_Weight_": "7.5 Ounces"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

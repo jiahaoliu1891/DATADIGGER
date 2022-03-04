@@ -1,0 +1,14 @@
+{
+    "title": "B07H8WS1FT",
+    "id": "B07H8WS1FT",
+    "price": 99.99,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 5,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

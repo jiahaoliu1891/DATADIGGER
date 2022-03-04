@@ -1,0 +1,14 @@
+{
+    "title": "B09MYLVZ73",
+    "id": "B09MYLVZ73",
+    "price": 50.99,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 4,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

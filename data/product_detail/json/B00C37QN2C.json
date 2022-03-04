@@ -1,0 +1,14 @@
+{
+    "title": "B00C37QN2C",
+    "id": "B00C37QN2C",
+    "price": 5.99,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 27,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

@@ -1,0 +1,20 @@
+{
+    "title": "B08KGR6FCR",
+    "id": "B08KGR6FCR",
+    "price": 20.29,
+    "overview": {
+        "_Color_": "Clear",
+        "_Material_": "Plastic",
+        "_Brand_": "Rubbermaid",
+        "_Item_Dimensions_LxWxH_": "1 x 1 x 1 inches",
+        "_Product_Care_Instructions_": "Dishwasher Safe, Hand Wash"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

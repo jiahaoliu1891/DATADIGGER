@@ -1,0 +1,21 @@
+{
+    "title": "B00U8CUV54",
+    "id": "B00U8CUV54",
+    "price": 32.49,
+    "overview": {
+        "_Brand_": "Hefty",
+        "_Size_": "15 Count (Pack of 9)",
+        "_Material_": "Plastic",
+        "_Item_Weight_": "0.43 Pounds",
+        "_Number_Of_Pieces_": "15",
+        "_Closure_Type_": "Zipper"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

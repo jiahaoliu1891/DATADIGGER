@@ -1,0 +1,14 @@
+{
+    "title": "B01JO9P3HW",
+    "id": "B01JO9P3HW",
+    "price": 41.95,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

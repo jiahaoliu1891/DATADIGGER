@@ -1,0 +1,20 @@
+{
+    "title": "B015IY34FA",
+    "id": "B015IY34FA",
+    "price": 39.89,
+    "overview": {
+        "_Brand_": "Fujifilm",
+        "_Model_Name_": "FBA_MAIN-567889",
+        "_Film_Format_Type_": "6x8",
+        "_Exposures_per_Roll_": "10",
+        "_Compatible_Devices_": "Fujifilm instax mini"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

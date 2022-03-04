@@ -1,0 +1,14 @@
+{
+    "title": "B079JCLNZ4",
+    "id": "B079JCLNZ4",
+    "price": 0,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 0,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": true
+}

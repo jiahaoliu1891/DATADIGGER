@@ -1,0 +1,24 @@
+{
+    "title": "B00O0M46KO",
+    "id": "B00O0M46KO",
+    "price": 142.99,
+    "overview": {
+        "_Brand_": "Dell",
+        "_Color_": "Black",
+        "_Hardware_Interface_": "USB 3.0",
+        "_Total_USB_Ports_": "5",
+        "_Item_Dimensions_LxWxH_": "20.7 x 15 x 11.2 inches",
+        "_Number_of_Ports_": "5",
+        "_Item_Weight_": "0.63 Pounds",
+        "_Total_HDMI_Ports_": "1",
+        "_Wattage_": "4.5"
+    },
+    "discount": 27.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

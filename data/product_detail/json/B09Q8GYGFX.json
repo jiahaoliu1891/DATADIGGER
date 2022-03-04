@@ -1,0 +1,14 @@
+{
+    "title": "B09Q8GYGFX",
+    "id": "B09Q8GYGFX",
+    "price": 69.95,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 18,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

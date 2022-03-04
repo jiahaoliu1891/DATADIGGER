@@ -1,0 +1,14 @@
+{
+    "title": "B08R2ZZJ6P",
+    "id": "B08R2ZZJ6P",
+    "price": 20.55,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 5,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

@@ -1,0 +1,20 @@
+{
+    "title": "B07CCGBB7M",
+    "id": "B07CCGBB7M",
+    "price": 19.97,
+    "overview": {
+        "_Brand_": "POWRUI",
+        "_Color_": "White",
+        "_Voltage_": "125 Volts",
+        "_Maximum_Surge_Rating_": "1680 Joules",
+        "_Total_Power_Outlets_": "6"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 12,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

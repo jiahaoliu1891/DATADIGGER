@@ -1,0 +1,20 @@
+{
+    "title": "B07XL1K2R7",
+    "id": "B07XL1K2R7",
+    "price": 15.99,
+    "overview": {
+        "_Color_": "Beige",
+        "_Size_": "54x54 inch",
+        "_Shape_": "Square",
+        "_Material_": "Polyester",
+        "_Fabric_Type_": "Polyester"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

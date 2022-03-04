@@ -1,0 +1,14 @@
+{
+    "title": "B00FZ3Y8BE",
+    "id": "B00FZ3Y8BE",
+    "price": 11.75,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 14,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

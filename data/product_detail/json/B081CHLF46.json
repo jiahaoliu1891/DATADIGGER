@@ -1,0 +1,25 @@
+{
+    "title": "B081CHLF46",
+    "id": "B081CHLF46",
+    "price": 39.98,
+    "overview": {
+        "_Style_": "Digital",
+        "_Brand_": "JALL",
+        "_Color_": "White",
+        "_Shape_": "Round",
+        "_Power_Source_": "Corded Electric",
+        "_Special_Feature_": "Sunrise simulation & Sunset simulation",
+        "_Display_Type_": "LED",
+        "_Mounting_Type_": "Tabletop",
+        "_Operation_Mode_": "Electrical",
+        "_Item_Dimensions_LxWxH_": "3.5 x 7.2 x 7.2 inches"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 15,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

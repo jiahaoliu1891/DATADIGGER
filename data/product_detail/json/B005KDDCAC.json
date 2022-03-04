@@ -1,0 +1,21 @@
+{
+    "title": "B005KDDCAC",
+    "id": "B005KDDCAC",
+    "price": 4.6,
+    "overview": {
+        "_Brand_": "Rubbermaid Commercial Products",
+        "_Color_": "Red",
+        "_Power_Source_": "Mechanical Thermometer",
+        "_Specification_Met_": "NSF",
+        "_Unit_Count_": "1.0 Count",
+        "_Style_": "Food"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 90,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

@@ -1,0 +1,14 @@
+{
+    "title": "B09BDG9LGL",
+    "id": "B09BDG9LGL",
+    "price": 99.99,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 5,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

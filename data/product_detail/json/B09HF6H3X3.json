@@ -1,0 +1,25 @@
+{
+    "title": "B09HF6H3X3",
+    "id": "B09HF6H3X3",
+    "price": 389.99,
+    "overview": {
+        "_Brand_": "Apple",
+        "_Color_": "Starlight Aluminum Case with Starlight Sport Band",
+        "_Special_Feature_": "Activity Tracker, Heart Rate Monitor, Sleep Monitor, Blood Oxygen",
+        "_Compatible_Devices_": "Smartphone",
+        "_Screen_Size_": "41 Millimeters",
+        "_Operating_System_": "WatchOS",
+        "_Age_Range_(Description)_": "Adult",
+        "_Style_": "GPS",
+        "_Connectivity_Technology_": "Gps",
+        "_Shape_": "Square"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 3,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

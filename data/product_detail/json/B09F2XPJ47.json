@@ -1,0 +1,19 @@
+{
+    "title": "B09F2XPJ47",
+    "id": "B09F2XPJ47",
+    "price": 17.97,
+    "overview": {
+        "_Brand_": "Nuetsa",
+        "_Voltage_": "220 Volts",
+        "_Total_Power_Outlets_": "8",
+        "_Amperage_": "13 Amps"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

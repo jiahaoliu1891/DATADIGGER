@@ -1,0 +1,14 @@
+{
+    "title": "B07X27VK3D",
+    "id": "B07X27VK3D",
+    "price": 64.99,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 11,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

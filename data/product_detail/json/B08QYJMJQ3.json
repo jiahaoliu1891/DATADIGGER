@@ -1,0 +1,20 @@
+{
+    "title": "B08QYJMJQ3",
+    "id": "B08QYJMJQ3",
+    "price": 29.99,
+    "overview": {
+        "_Power_Plug_Type_": "Type B - 3 pin (North American)",
+        "_Brand_": "Addtam",
+        "_Color_": "Black",
+        "_Material_": "Copper",
+        "_Voltage_": "125 Volts"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 50,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

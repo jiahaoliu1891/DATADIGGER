@@ -1,0 +1,19 @@
+{
+    "title": "B09F33RDFT",
+    "id": "B09F33RDFT",
+    "price": 15.95,
+    "overview": {
+        "_Brand_": "ImSaferell",
+        "_Color_": "Black - Black",
+        "_Power_Source_": "Battery Powered",
+        "_Upper_Temperature_Rating_": "300 Degrees Celsius"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 100,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

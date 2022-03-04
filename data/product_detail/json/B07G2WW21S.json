@@ -1,0 +1,20 @@
+{
+    "title": "B07G2WW21S",
+    "id": "B07G2WW21S",
+    "price": 11.99,
+    "overview": {
+        "_Material_": "Silicone",
+        "_Color_": "Apple Red",
+        "_Brand_": "MEYUEWAL",
+        "_Item_Weight_": "0.44 Pounds",
+        "_Item_Dimensions_LxWxH_": "9.02 x 3.5 x 0.98 inches"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 50,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

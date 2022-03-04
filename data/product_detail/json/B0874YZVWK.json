@@ -1,0 +1,25 @@
+{
+    "title": "B0874YZVWK",
+    "id": "B0874YZVWK",
+    "price": 119.99,
+    "overview": {
+        "_Screen_Size_": "24 Inches",
+        "_Connectivity_Technology_": "Wi-Fi",
+        "_Brand_": "INSIGNIA",
+        "_Resolution_": "720p",
+        "_Refresh_Rate_": "60 Hz",
+        "_Year_": "2020",
+        "_Color_": "Black",
+        "_Item_Weight_": "6.4 Pounds",
+        "_Image_Contrast_Ratio_": "3000:1",
+        "_Wireless_Communication_Technology_": "Wi-Fi"
+    },
+    "discount": 50.0,
+    "country": "US",
+    "quantity": 5,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

@@ -1,0 +1,20 @@
+{
+    "title": "B07S9PDSFQ",
+    "id": "B07S9PDSFQ",
+    "price": 35.65,
+    "overview": {
+        "_Color_": "Beige",
+        "_Material_": "Memory Foam",
+        "_Brand_": "ComfiLife",
+        "_Shape_": "Rectengular",
+        "_Pattern_": "Solid"
+    },
+    "discount": 6.3,
+    "country": "US",
+    "quantity": 20,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

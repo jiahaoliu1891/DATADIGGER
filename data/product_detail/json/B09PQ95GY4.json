@@ -1,0 +1,18 @@
+{
+    "title": "B09PQ95GY4",
+    "id": "B09PQ95GY4",
+    "price": 0,
+    "overview": {
+        "_Brand_": "Motorola Sound",
+        "_Connectivity_Technology_": "USB",
+        "_Vehicle_Service_Type_": "Car, Truck"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 0,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": true
+}

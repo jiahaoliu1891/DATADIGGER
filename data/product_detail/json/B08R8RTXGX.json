@@ -1,0 +1,14 @@
+{
+    "title": "B08R8RTXGX",
+    "id": "B08R8RTXGX",
+    "price": 8.99,
+    "overview": "MISS",
+    "discount": 1.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": true,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

@@ -1,0 +1,20 @@
+{
+    "title": "B07R8VW2CT",
+    "id": "B07R8VW2CT",
+    "price": 11.99,
+    "overview": {
+        "_Brand_": "Joseph Joseph",
+        "_Color_": "Gray",
+        "_Material_": "Plastic",
+        "_Style_": "Pan Lid Organizer",
+        "_Item_Weight_": "0.1 Kilograms"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

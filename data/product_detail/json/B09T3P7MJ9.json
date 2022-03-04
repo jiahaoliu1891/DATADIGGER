@@ -1,0 +1,18 @@
+{
+    "title": "B09T3P7MJ9",
+    "id": "B09T3P7MJ9",
+    "price": 16.25,
+    "overview": {
+        "_Brand_": "Reynolds",
+        "_Color_": "Clear",
+        "_Material_": "Plastic"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 13,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

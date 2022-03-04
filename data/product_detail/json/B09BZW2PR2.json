@@ -1,0 +1,14 @@
+{
+    "title": "B09BZW2PR2",
+    "id": "B09BZW2PR2",
+    "price": 15.27,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

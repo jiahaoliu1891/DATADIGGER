@@ -1,0 +1,20 @@
+{
+    "title": "B00PUNB1UA",
+    "id": "B00PUNB1UA",
+    "price": 41.49,
+    "overview": {
+        "_Brand_": "Fujifilm",
+        "_Film_Format_Type_": "35mm",
+        "_Model_Name_": "FBA_7033661",
+        "_Item_Dimensions_LxWxH_": "4.7 x 3.3 x 2.3 inches",
+        "_Item_Weight_": "1 Pounds"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 2,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

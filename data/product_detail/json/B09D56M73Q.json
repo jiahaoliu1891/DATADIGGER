@@ -1,0 +1,14 @@
+{
+    "title": "B09D56M73Q",
+    "id": "B09D56M73Q",
+    "price": 33.99,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

@@ -1,0 +1,14 @@
+{
+    "title": "B096CC1PCY",
+    "id": "B096CC1PCY",
+    "price": 66.5,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 1,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

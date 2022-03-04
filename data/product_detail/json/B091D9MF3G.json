@@ -1,0 +1,14 @@
+{
+    "title": "B091D9MF3G",
+    "id": "B091D9MF3G",
+    "price": 26.25,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

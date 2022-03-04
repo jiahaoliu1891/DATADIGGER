@@ -1,0 +1,21 @@
+{
+    "title": "B099LRN41K",
+    "id": "B099LRN41K",
+    "price": 11.99,
+    "overview": {
+        "_Brand_": "MayNest",
+        "_Color_": "A-mixed(blue+green+red)",
+        "_Material_": "Ethylene Vinyl Acetate",
+        "_Size_": "8 Pack (17.7\"\u00d711.6\")",
+        "_Number_of_Pieces_": "8",
+        "_Is_Stain_Resistant_": "Yes"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

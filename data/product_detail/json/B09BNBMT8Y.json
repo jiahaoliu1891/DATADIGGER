@@ -1,0 +1,25 @@
+{
+    "title": "B09BNBMT8Y",
+    "id": "B09BNBMT8Y",
+    "price": 7.89,
+    "overview": {
+        "_Compatible_Devices_": "Cellphone",
+        "_Compatible_Phone_Models_": "IPhone 13 Pro Max, IPhone 13 Pro",
+        "_Material_": "Tempered Glass",
+        "_Brand_": "Ferilinso",
+        "_Special_Feature_": "Bubble Proof",
+        "_Screen_Surface_Description_": "Glossy",
+        "_Screen_Size_": "6.7 Inches",
+        "_Clarity_": "0.999",
+        "_Item_Hardness_": "9H",
+        "_Water_Resistance_Level_": "Not Water Resistant"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

@@ -1,0 +1,25 @@
+{
+    "title": "B07CTXRKH8",
+    "id": "B07CTXRKH8",
+    "price": 9.98,
+    "overview": {
+        "_Material_": "Plastic",
+        "_Color_": "Clear Blue",
+        "_Style_": "XL Blue 4pk",
+        "_Brand_": "Fit & Fresh",
+        "_Item_Dimensions_LxWxH_": "7 x 0.5 x 4.75 inches",
+        "_Shape_": "Rectangular",
+        "_Pattern_": "Ice Pack",
+        "_Age_Range_(Description)_": "Adult",
+        "_Material_Type_Free_": "BPA Free",
+        "_Number_of_Items_": "4"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

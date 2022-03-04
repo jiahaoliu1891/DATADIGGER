@@ -1,0 +1,22 @@
+{
+    "title": "B08518LVFD",
+    "id": "B08518LVFD",
+    "price": 13.89,
+    "overview": {
+        "_Age_Range_(Description)_": "Youth,Kid",
+        "_Brand_": "OtRainbow",
+        "_Room_Type_": "Bedroom",
+        "_Material_": "Vinyl",
+        "_Pattern_": "Solid",
+        "_Shape_": "Irregular",
+        "_Unit_Count_": "300 Count"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

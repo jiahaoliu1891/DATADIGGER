@@ -1,0 +1,23 @@
+{
+    "title": "B07JPWYXVT",
+    "id": "B07JPWYXVT",
+    "price": 14.99,
+    "overview": {
+        "_Power_Source_": "Battery Powered",
+        "_Brand_": "PowerBear",
+        "_Radio_Bands_Supported_": "2-Band",
+        "_Color_": "Black",
+        "_Hardware_Interface_": "3.5mm Audio",
+        "_Connectivity_Technology_": "AUX",
+        "_Item_Weight_": "3.4 Ounces",
+        "_Item_Dimensions_LxWxH_": "4.6 x 2.7 x 1.1 inches"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

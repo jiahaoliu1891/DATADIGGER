@@ -1,0 +1,24 @@
+{
+    "title": "B086Q92563",
+    "id": "B086Q92563",
+    "price": 240.97,
+    "overview": {
+        "_Brand_": "Microsoft",
+        "_Color_": "Platinum",
+        "_Hardware_Interface_": "USB, Ethernet, 3.5mm Audio",
+        "_Compatible_Devices_": "Surface Laptop 4 13.5\" and 15\", Surface Laptop 3 13.5\" and 15\", Surface Book 3 13.5\" and 15\", Surface Pro 7, Surface Pro X , Surface Go 2   See more",
+        "_Total_USB_Ports_": "6",
+        "_Item_Dimensions_LxWxH_": "5.12 x 2.75 x 1.18 inches",
+        "_Number_of_Ports_": "9",
+        "_Item_Weight_": "3.36 Pounds",
+        "_Wattage_": "199 watts"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 2,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

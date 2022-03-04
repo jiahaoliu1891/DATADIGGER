@@ -1,0 +1,14 @@
+{
+    "title": "B07K5FCDK1",
+    "id": "B07K5FCDK1",
+    "price": 34.95,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

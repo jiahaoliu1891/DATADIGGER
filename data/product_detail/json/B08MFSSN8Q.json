@@ -1,0 +1,19 @@
+{
+    "title": "B08MFSSN8Q",
+    "id": "B08MFSSN8Q",
+    "price": 19.99,
+    "overview": {
+        "_Material_": "Stainless Steel",
+        "_Color_": "Army Green",
+        "_Capacity_": "750 Milliliters",
+        "_Brand_": "FineDine"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

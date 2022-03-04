@@ -1,0 +1,20 @@
+{
+    "title": "B07PD71NK3",
+    "id": "B07PD71NK3",
+    "price": 15.0,
+    "overview": {
+        "_Material_": "Stainless Steel",
+        "_Color_": "Matte Black",
+        "_Capacity_": "9.92 Ounces",
+        "_Brand_": "Contigo",
+        "_Item_Weight_": "0.6 Pounds"
+    },
+    "discount": 1.99,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

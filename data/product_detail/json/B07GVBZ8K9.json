@@ -1,0 +1,25 @@
+{
+    "title": "B07GVBZ8K9",
+    "id": "B07GVBZ8K9",
+    "price": 16.99,
+    "overview": {
+        "_Material_": "Oxford",
+        "_Color_": "Black",
+        "_Style_": "Casual",
+        "_Brand_": "Lifewit",
+        "_Item_Dimensions_LxWxH_": "11.81 x 9.06 x 9.06 inches",
+        "_Shape_": "Rectangular",
+        "_Pattern_": "Solid",
+        "_Unit_Count_": "1 Count",
+        "_Age_Range_(Description)_": "Adult",
+        "_Capacity_": "15 Liters"
+    },
+    "discount": 23.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

@@ -1,0 +1,21 @@
+{
+    "title": "B09BKCQYRN",
+    "id": "B09BKCQYRN",
+    "price": 49.0,
+    "overview": {
+        "_Connectivity_Technology_": "Wi-Fi",
+        "_Brand_": "Roku",
+        "_Item_Weight_": "0.9 Ounces",
+        "_Item_Dimensions_LxWxH_": "3.7 x 0.8 x 0.45 inches",
+        "_Control_Method_": "Remote, Voice",
+        "_Controller_Type_": "Remote Control, Voice Control"
+    },
+    "discount": 20.99,
+    "country": "US",
+    "quantity": 3,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

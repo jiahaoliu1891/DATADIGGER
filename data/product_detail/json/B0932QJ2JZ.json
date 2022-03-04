@@ -1,0 +1,20 @@
+{
+    "title": "B0932QJ2JZ",
+    "id": "B0932QJ2JZ",
+    "price": 99.0,
+    "overview": {
+        "_Brand_": "Apple",
+        "_Are_Batteries_Included_": "Yes",
+        "_Color_": "White",
+        "_Number_of_Batteries_": "4 CR2032 batteries required. (included)",
+        "_Item_Dimensions_LxWxH_": "1.26 x 1.26 x 0.31 inches"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 3,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

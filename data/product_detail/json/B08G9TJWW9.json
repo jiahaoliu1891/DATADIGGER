@@ -1,0 +1,22 @@
+{
+    "title": "B08G9TJWW9",
+    "id": "B08G9TJWW9",
+    "price": 95.85,
+    "overview": {
+        "_Connectivity_Technology_": "Bluetooth, USB",
+        "_Brand_": "Roku",
+        "_Supported_Internet_Services_": "Netflix, Hulu",
+        "_Item_Weight_": "7.9 Ounces",
+        "_Item_Dimensions_LxWxH_": "4.9 x 4.9 x 0.8 inches",
+        "_Control_Method_": "Voice",
+        "_Controller_Type_": "Remote Control, Voice Control"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 5,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

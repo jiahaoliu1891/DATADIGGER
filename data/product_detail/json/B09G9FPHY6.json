@@ -1,0 +1,20 @@
+{
+    "title": "B09G9FPHY6",
+    "id": "B09G9FPHY6",
+    "price": 0,
+    "overview": {
+        "_Series_": "IPad",
+        "_Brand_": "Apple",
+        "_Screen_Size_": "10.2 Inches",
+        "_Operating_System_": "IPadOS",
+        "_Memory_Storage_Capacity_": "64 GB"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 0,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": true
+}

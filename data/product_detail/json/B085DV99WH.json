@@ -1,0 +1,20 @@
+{
+    "title": "B085DV99WH",
+    "id": "B085DV99WH",
+    "price": 21.0,
+    "overview": {
+        "_Material_": "Stainless Steel",
+        "_Color_": "Hint of Grape",
+        "_Capacity_": "710 Milliliters",
+        "_Brand_": "Owala",
+        "_Item_Weight_": "396 Grams"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 14,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

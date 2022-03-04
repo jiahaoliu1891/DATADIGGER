@@ -1,0 +1,20 @@
+{
+    "title": "B01FHOWYA2",
+    "id": "B01FHOWYA2",
+    "price": 34.0,
+    "overview": {
+        "_Color_": "Black",
+        "_Material_": "Plastic",
+        "_Brand_": "Ninja",
+        "_Voltage_": "110 Volts",
+        "_Item_Dimensions_LxWxH_": "4 x 4 x 13 inches"
+    },
+    "discount": 25.99,
+    "country": "US",
+    "quantity": 3,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

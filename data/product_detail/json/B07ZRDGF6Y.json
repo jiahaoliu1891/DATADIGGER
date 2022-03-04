@@ -1,0 +1,20 @@
+{
+    "title": "B07ZRDGF6Y",
+    "id": "B07ZRDGF6Y",
+    "price": 14.44,
+    "overview": {
+        "_Power_Plug_Type_": "Type B - 3 pin (North American & Japanese)",
+        "_Brand_": "TESSAN",
+        "_Color_": "Grey",
+        "_Item_Dimensions_LxWxH_": "3.9 x 3.9 x 1.1 inches",
+        "_Number_of_Ports_": "1"
+    },
+    "discount": 5.55,
+    "country": "US",
+    "quantity": 200,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

@@ -1,0 +1,20 @@
+{
+    "title": "B07H8P9QX2",
+    "id": "B07H8P9QX2",
+    "price": 139.98,
+    "overview": {
+        "_Refresh_Rate_": "75 Hz",
+        "_Brand_": "Sceptre",
+        "_Screen_Size_": "24 Inches",
+        "_Total_HDMI_Ports_": "2",
+        "_Hardware_Interface_": "VGA, HDMI"
+    },
+    "discount": 90.01,
+    "country": "US",
+    "quantity": 6,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

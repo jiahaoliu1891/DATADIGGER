@@ -1,0 +1,20 @@
+{
+    "title": "B07R2CNSTK",
+    "id": "B07R2CNSTK",
+    "price": 25.99,
+    "overview": {
+        "_Color_": "Camouflage",
+        "_Material_": "Food-Grade Safe PP, ABS, and TPE",
+        "_Brand_": "Bentgo",
+        "_Item_Dimensions_LxWxH_": "8.5 x 6.5 x 2 inches",
+        "_Product_Care_Instructions_": "Microwave Safe, Dishwasher Safe"
+    },
+    "discount": 14.0,
+    "country": "US",
+    "quantity": 34,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

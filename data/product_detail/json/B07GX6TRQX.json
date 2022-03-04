@@ -1,0 +1,14 @@
+{
+    "title": "B07GX6TRQX",
+    "id": "B07GX6TRQX",
+    "price": 16.95,
+    "overview": "MISS",
+    "discount": 8.04,
+    "country": "US",
+    "quantity": 10,
+    "missOverview": true,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

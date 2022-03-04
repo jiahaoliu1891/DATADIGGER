@@ -1,0 +1,14 @@
+{
+    "title": "B095L8J41F",
+    "id": "B095L8J41F",
+    "price": 65.9,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 4,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

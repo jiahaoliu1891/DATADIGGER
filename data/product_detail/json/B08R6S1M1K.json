@@ -1,0 +1,20 @@
+{
+    "title": "B08R6S1M1K",
+    "id": "B08R6S1M1K",
+    "price": 16.98,
+    "overview": {
+        "_Power_Plug_Type_": "Type B - 3 pin (North American)",
+        "_Brand_": "QINLIANF",
+        "_Voltage_": "125 Volts",
+        "_Maximum_Surge_Rating_": "1680 Joules",
+        "_Total_Power_Outlets_": "5"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

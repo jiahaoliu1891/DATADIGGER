@@ -1,0 +1,20 @@
+{
+    "title": "B072N4Y9XY",
+    "id": "B072N4Y9XY",
+    "price": 28.99,
+    "overview": {
+        "_Color_": "Clear",
+        "_Item_Dimensions_LxWxH_": "9.5 x 7.4 x 3.4 inches",
+        "_Brand_": "AOZITA",
+        "_Is_Dishwasher_Safe_": "Yes",
+        "_Capacity_": "4 Ounces, 1.92 Ounces"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 20,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

@@ -15,7 +15,11 @@ def load_products_pkl(filename):
 
 class Product():
     def __init__(self, product_info):
-        self.title = product_info['product_title'] # 1
+        if 'product_title' not in product_info.keys(): # only one data sample do not have product title 
+            self.title = 'UNK' # 1
+        else:
+            self.title = product_info['product_id']
+
         self.id = product_info['product_id'] # 2
         self.price = None # 3
         self.overview = None # 4
@@ -41,12 +45,12 @@ class Product():
         load_keys = load_keys & product_keys
         if 'price_information' not in load_keys:
             self.missPrice = True
-            self.price = -1
+            self.price = 0
         else:
             if 'app_sale_price' not in product_info['price_information']\
                     or product_info['price_information']['app_sale_price'] == None:
                 self.missPrice = True
-                self.price = -1
+                self.price = 0
             else:
                 self.price = float(product_info['price_information']['app_sale_price'])
 
@@ -58,12 +62,12 @@ class Product():
             
         if 'discount' not in load_keys:
             self.missDiscount = True
-            self.discount = -1.0
+            self.discount = 0.0
         else:
             self.discount = float(product_info['discount'])
             if self.discount < 0:
                 # print('Error! price:{} discount:{}'.format(self.price, self.discount))
-                self.discount = -1.0
+                self.discount = 0.0
                 self.missDiscount = True
     
         if 'country' not in load_keys:
@@ -74,7 +78,7 @@ class Product():
 
         if 'available_quantity' not in load_keys:
             self.missQuantity = True
-            self.quantity = -1
+            self.quantity = 0
         else:
             self.quantity = product_info['available_quantity']
 
@@ -98,6 +102,37 @@ def to_json(product):
     with open(f'./json/{product.id}.json', 'w') as f:
         f.write(json_str)
 
+def statistics():
+    import numpy as np
+    import matplotlib.pyplot as plt
+
+    misses = {'missPrice': 0, 'missOverview': 0, 'missCountry': 0, 'missQuantity': 0, 'missDiscount': 0}
+    prices, quantities, discount = [], [], []
+
+    for filename in os.listdir('./json'):
+        with open(f'./json/{filename}', 'r') as f:
+            product = json.load(f)
+            # miss data stat
+            for key in misses.keys():
+                if product[key]:
+                    misses[key] += 1
+            # range of price
+            if not product['missPrice']:
+                prices.append(product['price'])
+            
+            if not product['missQuantity']:
+                quantities.append(product['quantity'])
+
+            if not product['missDiscount']:
+                discount.append(product['discount'])
+            
+    print(f'Miss Data Stat:\n{misses}')
+    print(f'Price Range: {np.min(prices)} ~ {np.max(prices)}, mean:{np.mean(prices)}, std: {np.std(prices)}, median:{np.median(prices)}')
+    print(f'Quantity Range: {np.min(quantities)} ~ {np.max(quantities)}, mean:{np.mean(quantities)}, std: {np.std(quantities)}, median:{np.median(quantities)}')
+    print(f'Discount Range: {np.min(discount)} ~ {np.max(discount)}, mean:{np.mean(discount)}, std: {np.std(discount)}, median:{np.median(discount)}')
+
+
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--filename', type=str, default='./office_1_detail.pkl')
@@ -106,15 +141,28 @@ if __name__ == '__main__':
     parser.add_argument('--json', action='store_true')
     args = parser.parse_args()
 
+    if args.stat:
+        statistics()
+
     if args.json:
+        pid_set = set() # record product id
         # iterate through all the .pkl file and load into Product(), then put them into json file
         for filename in os.listdir('./pickle'):
             if filename[-3:] == 'pkl':
                 product_list = load_products_pkl(filename)
+                N = len(product_list) # number of products in the file
+                print(f'--- Dealing with {filename}, num:{N}')
                 for product_info in product_list:
                     product = Product(product_info)
-                    print(product)
-                    to_json(product)
+                    if product.id in pid_set:
+                        print('Duplicated!')
+                        print(product)
+                    else:
+                        pid_set.add(product.id)
+                        # print(product)
+                        to_json(product)
+
+        print(f'number :{len(pid_set)}')
     
     if args.demo:
         product_list = load_products_pkl(args.filename)

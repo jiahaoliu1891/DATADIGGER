@@ -1,0 +1,14 @@
+{
+    "title": "B091N98HW5",
+    "id": "B091N98HW5",
+    "price": 106.48,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 4,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

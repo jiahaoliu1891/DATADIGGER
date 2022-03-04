@@ -1,0 +1,19 @@
+{
+    "title": "B08Y753659",
+    "id": "B08Y753659",
+    "price": 14.99,
+    "overview": {
+        "_Material_": "Stainless Steel",
+        "_Color_": "Black",
+        "_Brand_": "Dr Catch",
+        "_Mounting_Type_": "Under Cabinet Mount,Hung,Under Cabinet,Wall,Surface"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 8,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

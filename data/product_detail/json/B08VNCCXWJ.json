@@ -1,0 +1,14 @@
+{
+    "title": "B08VNCCXWJ",
+    "id": "B08VNCCXWJ",
+    "price": 24.99,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 20,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

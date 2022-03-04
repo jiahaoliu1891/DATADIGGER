@@ -1,0 +1,14 @@
+{
+    "title": "B08MQZXN1X",
+    "id": "B08MQZXN1X",
+    "price": 54.99,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 6,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

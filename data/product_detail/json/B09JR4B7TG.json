@@ -1,0 +1,14 @@
+{
+    "title": "B09JR4B7TG",
+    "id": "B09JR4B7TG",
+    "price": 19.0,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 33,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

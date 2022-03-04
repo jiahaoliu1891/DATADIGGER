@@ -1,0 +1,20 @@
+{
+    "title": "B07FDJMC9Q",
+    "id": "B07FDJMC9Q",
+    "price": 99.99,
+    "overview": {
+        "_Model_Name_": "AF101",
+        "_Brand_": "Ninja",
+        "_Capacity_": "4 Quarts",
+        "_Color_": "Black/gray",
+        "_Item_Weight_": "10.58 Pounds"
+    },
+    "discount": 30.0,
+    "country": "US",
+    "quantity": 5,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

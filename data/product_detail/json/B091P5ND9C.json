@@ -1,0 +1,19 @@
+{
+    "title": "B091P5ND9C",
+    "id": "B091P5ND9C",
+    "price": 19.99,
+    "overview": {
+        "_Brand_": "Seropy",
+        "_Material_": "Stainless Steel",
+        "_Item_Weight_": "10.8 Ounces",
+        "_Mounting_Type_": "Over Sink,Foldable,Over The Sink"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 10,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

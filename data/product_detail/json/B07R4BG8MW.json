@@ -1,0 +1,20 @@
+{
+    "title": "B07R4BG8MW",
+    "id": "B07R4BG8MW",
+    "price": 59.99,
+    "overview": {
+        "_Color_": "Gray",
+        "_Material_": "Glass",
+        "_Brand_": "Hamilton Beach",
+        "_Wattage_": "800 watts",
+        "_Item_Weight_": "2.5 Pounds"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

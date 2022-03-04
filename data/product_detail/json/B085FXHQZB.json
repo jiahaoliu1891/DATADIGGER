@@ -1,0 +1,20 @@
+{
+    "title": "B085FXHQZB",
+    "id": "B085FXHQZB",
+    "price": 45.95,
+    "overview": {
+        "_Color_": "2 Jars - White",
+        "_Material_": "Stainless Steel",
+        "_Brand_": "Hamilton Beach",
+        "_Item_Dimensions_LxWxH_": "3.94 x 3.94 x 11.8 inches",
+        "_Item_Weight_": "14 Ounces"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 2,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

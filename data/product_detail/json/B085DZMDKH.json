@@ -1,0 +1,20 @@
+{
+    "title": "B085DZMDKH",
+    "id": "B085DZMDKH",
+    "price": 6.99,
+    "overview": {
+        "_Material_": "Nylon 6/6",
+        "_Color_": "Black",
+        "_Brand_": "HMROPE",
+        "_Item_Dimensions_LxWxH_": "12.5 x 4.7 x 0.66 inches",
+        "_Style_": "Heavy Duty"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 20,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

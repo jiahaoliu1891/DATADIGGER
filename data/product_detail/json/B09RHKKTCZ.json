@@ -1,0 +1,14 @@
+{
+    "title": "B09RHKKTCZ",
+    "id": "B09RHKKTCZ",
+    "price": 103.5,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 13,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

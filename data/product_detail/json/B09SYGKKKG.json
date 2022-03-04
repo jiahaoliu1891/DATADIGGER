@@ -1,0 +1,14 @@
+{
+    "title": "B09SYGKKKG",
+    "id": "B09SYGKKKG",
+    "price": 42.77,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 6,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

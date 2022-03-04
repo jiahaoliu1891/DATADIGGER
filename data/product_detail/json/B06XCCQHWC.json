@@ -1,0 +1,19 @@
+{
+    "title": "B06XCCQHWC",
+    "id": "B06XCCQHWC",
+    "price": 11.99,
+    "overview": {
+        "_Brand_": "ThreadNanny",
+        "_Material_": "Non Stick Teflon Sheet",
+        "_Sheet_Count_": "2",
+        "_Sheet_Size_": "25 x 17 Inches"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 10,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

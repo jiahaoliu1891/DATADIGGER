@@ -1,0 +1,14 @@
+{
+    "title": "B08C1W5N87",
+    "id": "B08C1W5N87",
+    "price": 39.99,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 6,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

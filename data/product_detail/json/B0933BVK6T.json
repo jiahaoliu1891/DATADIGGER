@@ -1,0 +1,20 @@
+{
+    "title": "B0933BVK6T",
+    "id": "B0933BVK6T",
+    "price": 29.0,
+    "overview": {
+        "_Brand_": "Apple",
+        "_Are_Batteries_Included_": "Yes",
+        "_Color_": "White",
+        "_Number_of_Batteries_": "1 Lithium Metal batteries required. (included)",
+        "_Item_Dimensions_LxWxH_": "3.27 x 0.47 x 4.09 inches"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 3,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

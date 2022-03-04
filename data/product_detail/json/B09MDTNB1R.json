@@ -1,0 +1,14 @@
+{
+    "title": "B09MDTNB1R",
+    "id": "B09MDTNB1R",
+    "price": 17.99,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 32,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

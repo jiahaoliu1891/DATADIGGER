@@ -1,0 +1,22 @@
+{
+    "title": "B07WVXW74X",
+    "id": "B07WVXW74X",
+    "price": 25.99,
+    "overview": {
+        "_Material_": "Pvc",
+        "_Color_": "Autumn",
+        "_Style_": "Modern",
+        "_Brand_": "Tiblue",
+        "_Shape_": "Rectangular",
+        "_Pattern_": "Floral",
+        "_Age_Range_(Description)_": "Adult"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 5,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

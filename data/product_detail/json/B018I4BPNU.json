@@ -1,0 +1,25 @@
+{
+    "title": "B018I4BPNU",
+    "id": "B018I4BPNU",
+    "price": 27.59,
+    "overview": {
+        "_Power_Source_": "Corded-Electric, Li-ion Battery, Solar, Hand Crank",
+        "_Brand_": "Esky",
+        "_Radio_Bands_Supported_": "7-Band",
+        "_Color_": "Red",
+        "_Hardware_Interface_": "USB",
+        "_Connectivity_Technology_": "USB",
+        "_Item_Weight_": "0.47 Pounds",
+        "_Frequency_": "108 MHz",
+        "_Item_Dimensions_LxWxH_": "5 x 2.4 x 1.8 inches",
+        "_Voltage_": "5 Volts"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 14,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

@@ -1,0 +1,14 @@
+{
+    "title": "B08ZXT75YZ",
+    "id": "B08ZXT75YZ",
+    "price": 13.99,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 10,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

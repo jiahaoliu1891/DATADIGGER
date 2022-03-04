@@ -1,0 +1,20 @@
+{
+    "title": "B07TLNSW1S",
+    "id": "B07TLNSW1S",
+    "price": 10.99,
+    "overview": {
+        "_Color_": "Aqua",
+        "_Material_": "Stainless Steel",
+        "_Brand_": "KitchenAid",
+        "_Blade_Material_": "Stainless Steel",
+        "_Item_Dimensions_LxWxH_": "8.72 x 3.62 x 0.63 inches"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

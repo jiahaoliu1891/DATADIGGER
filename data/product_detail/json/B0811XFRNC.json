@@ -1,0 +1,22 @@
+{
+    "title": "B0811XFRNC",
+    "id": "B0811XFRNC",
+    "price": 11.99,
+    "overview": {
+        "_Material_": "Plastic",
+        "_Color_": "Blue",
+        "_Brand_": "Freshmage",
+        "_Item_Dimensions_LxWxH_": "7.6 x 7.2 x 3.7 inches",
+        "_Item_Weight_": "0.7 Pounds",
+        "_Age_Range_(Description)_": "Adult",
+        "_Capacity_": "3.3 Pounds"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 0,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

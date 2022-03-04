@@ -1,0 +1,20 @@
+{
+    "title": "B0168CNYD8",
+    "id": "B0168CNYD8",
+    "price": 19.99,
+    "overview": {
+        "_Color_": "Aqua",
+        "_Material_": "Plastic",
+        "_Brand_": "DASH",
+        "_Item_Dimensions_LxWxH_": "8 x 6 x 6 inches",
+        "_Item_Weight_": "1 Pounds"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

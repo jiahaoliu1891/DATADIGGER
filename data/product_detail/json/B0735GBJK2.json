@@ -1,0 +1,20 @@
+{
+    "title": "B0735GBJK2",
+    "id": "B0735GBJK2",
+    "price": 39.97,
+    "overview": {
+        "_Brand_": "ELIXIR GLASSWARE",
+        "_Color_": "Clear",
+        "_Material_": "Crystal",
+        "_Occasion_": "Mother's Day, Wedding, Christmas, Housewarming, Anniversary, Father's Day, Birthday",
+        "_Capacity_": "400 Milliliters"
+    },
+    "discount": 15.03,
+    "country": "US",
+    "quantity": 15,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

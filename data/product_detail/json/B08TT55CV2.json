@@ -1,0 +1,20 @@
+{
+    "title": "B08TT55CV2",
+    "id": "B08TT55CV2",
+    "price": 14.91,
+    "overview": {
+        "_Color_": "Almond Cream",
+        "_Material_": "Stainless Steel, Plastic",
+        "_Brand_": "KitchenAid",
+        "_Size_": "8.34-Inch",
+        "_Blade_Material_": "Stainless Steel"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

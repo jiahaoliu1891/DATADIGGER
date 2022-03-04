@@ -1,0 +1,22 @@
+{
+    "title": "B0764HS4SL",
+    "id": "B0764HS4SL",
+    "price": 29.98,
+    "overview": {
+        "_Material_": "Plastic",
+        "_Color_": "Black",
+        "_Blade_Material_": "Stainless Steel",
+        "_Brand_": "Fullstar",
+        "_Item_Dimensions_LxWxH_": "10.6 x 4.5 x 4.7 inches",
+        "_Item_Weight_": "2.3 Pounds",
+        "_Operation_Mode_": "Manual"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 5,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

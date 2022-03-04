@@ -1,0 +1,20 @@
+{
+    "title": "B07V32PJ59",
+    "id": "B07V32PJ59",
+    "price": 15.29,
+    "overview": {
+        "_Power_Plug_Type_": "Type B - 3 pin (North American)",
+        "_Brand_": "One Beat",
+        "_Color_": "White",
+        "_Material_": "Rubber",
+        "_Voltage_": "125 Volts"
+    },
+    "discount": 4.7,
+    "country": "US",
+    "quantity": 10,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

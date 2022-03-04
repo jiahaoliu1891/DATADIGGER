@@ -1,0 +1,14 @@
+{
+    "title": "B09G83P9SY",
+    "id": "B09G83P9SY",
+    "price": 169.99,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 2,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

@@ -1,0 +1,20 @@
+{
+    "title": "B0000DDVG6",
+    "id": "B0000DDVG6",
+    "price": 26.71,
+    "overview": {
+        "_Brand_": "Duralex",
+        "_Special_Feature_": "Dishwasher Safe",
+        "_Color_": "Clear",
+        "_Material_": "Glass",
+        "_Capacity_": "0.31 Liters"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

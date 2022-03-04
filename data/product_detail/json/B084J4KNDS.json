@@ -1,0 +1,14 @@
+{
+    "title": "B084J4KNDS",
+    "id": "B084J4KNDS",
+    "price": 49.99,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 21,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

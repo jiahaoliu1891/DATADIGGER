@@ -1,0 +1,14 @@
+{
+    "title": "B09PC4R6VP",
+    "id": "B09PC4R6VP",
+    "price": 26.99,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 10,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

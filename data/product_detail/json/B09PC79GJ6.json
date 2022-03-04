@@ -1,0 +1,14 @@
+{
+    "title": "B09PC79GJ6",
+    "id": "B09PC79GJ6",
+    "price": 44.99,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 10,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

@@ -1,0 +1,20 @@
+{
+    "title": "B01JK4XPVW",
+    "id": "B01JK4XPVW",
+    "price": 10.26,
+    "overview": {
+        "_Brand_": "Ozeri",
+        "_Material_": "Polycarbonate",
+        "_Item_Weight_": "0.75 Pounds",
+        "_Weight_Limit_": "11.24 Pounds",
+        "_Item_Dimensions_LxWxH_": "8.25 x 6 x 1.75 inches"
+    },
+    "discount": 4.69,
+    "country": "US",
+    "quantity": 3,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

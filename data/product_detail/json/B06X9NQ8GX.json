@@ -1,0 +1,20 @@
+{
+    "title": "B06X9NQ8GX",
+    "id": "B06X9NQ8GX",
+    "price": 9.59,
+    "overview": {
+        "_Brand_": "Amazon Basics",
+        "_Material_": "Stainless Steel",
+        "_Item_Weight_": "0.84 Pounds",
+        "_Weight_Limit_": "11 Pounds",
+        "_Item_Dimensions_LxWxH_": "8.7 x 7 x 1.2 inches"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 27,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

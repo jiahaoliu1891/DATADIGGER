@@ -1,0 +1,25 @@
+{
+    "title": "B007TUQF9O",
+    "id": "B007TUQF9O",
+    "price": 12.99,
+    "overview": {
+        "Material": "Stainless Steel",
+        "Color": "Silver",
+        "Brand": "Cuisinart",
+        "Style": "Art Deco",
+        "Item_Dimensions_LxWxH": "15.25 x 5.13 x 8 inches",
+        "_Material_": "Stainless Steel",
+        "_Color_": "Silver",
+        "_Brand_": "Cuisinart",
+        "_Style_": "Art Deco",
+        "_Item_Dimensions_LxWxH_": "15.25 x 5.13 x 8 inches"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 27,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

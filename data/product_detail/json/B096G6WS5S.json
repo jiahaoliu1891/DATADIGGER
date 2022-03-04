@@ -1,0 +1,14 @@
+{
+    "title": "B096G6WS5S",
+    "id": "B096G6WS5S",
+    "price": 32.9,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 17,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

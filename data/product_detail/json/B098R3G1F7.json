@@ -1,0 +1,14 @@
+{
+    "title": "B098R3G1F7",
+    "id": "B098R3G1F7",
+    "price": 29.5,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 8,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

@@ -1,0 +1,20 @@
+{
+    "title": "B07L25WYS2",
+    "id": "B07L25WYS2",
+    "price": 3.49,
+    "overview": {
+        "_Brand_": "Reynolds",
+        "_Material_": "Paper",
+        "_Item_Form_": "Paper Sheets",
+        "_Sheet_Count_": "30",
+        "_Sheet_Size_": "10.7 x 13.6 Inches"
+    },
+    "discount": 2.5,
+    "country": "US",
+    "quantity": 27,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

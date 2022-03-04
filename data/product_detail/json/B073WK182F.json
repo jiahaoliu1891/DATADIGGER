@@ -1,0 +1,20 @@
+{
+    "title": "B073WK182F",
+    "id": "B073WK182F",
+    "price": 35.0,
+    "overview": {
+        "_Material_": "Stainless Steel",
+        "_Color_": "All Stainless Steel",
+        "_Capacity_": "20 Fluid Ounces",
+        "_Brand_": "YETI",
+        "_Item_Weight_": "0.4 Pounds"
+    },
+    "discount": 4.99,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

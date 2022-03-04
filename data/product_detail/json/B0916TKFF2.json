@@ -1,0 +1,22 @@
+{
+    "title": "B0916TKFF2",
+    "id": "B0916TKFF2",
+    "price": 38.32,
+    "overview": {
+        "_Connectivity_Technology_": "Wi-Fi",
+        "_Brand_": "Roku",
+        "_Item_Weight_": "1.6 Ounces",
+        "_Item_Dimensions_LxWxH_": "3 x 1.6 x 0.83 inches",
+        "_Control_Method_": "Voice",
+        "_Controller_Type_": "Remote Control, Voice Control",
+        "_Video_Output_Resolution_": "3840 x 2160 Pixels"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 3,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

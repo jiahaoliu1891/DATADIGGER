@@ -1,0 +1,20 @@
+{
+    "title": "B00B78T8U2",
+    "id": "B00B78T8U2",
+    "price": 14.99,
+    "overview": {
+        "_Color_": "Blue",
+        "_Material_": "Food-Grade Safe PP, ABS, LDPE, and Silicone",
+        "_Brand_": "Bentgo",
+        "_Item_Dimensions_LxWxH_": "7.12 x 4.68 x 2.7 inches",
+        "_Item_Weight_": "12 Ounces"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 2,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

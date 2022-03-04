@@ -1,0 +1,20 @@
+{
+    "title": "B00BWF5U0M",
+    "id": "B00BWF5U0M",
+    "price": 8.99,
+    "overview": {
+        "_Brand_": "SABRENT",
+        "_Hardware_Interface_": "USB 2.0",
+        "_Number_of_Ports_": "4",
+        "_Compatible_Devices_": "USB compatible devices",
+        "_Operating_System_": "Windows, Mac OS X and Linux systems"
+    },
+    "discount": 4.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

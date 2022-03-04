@@ -1,0 +1,14 @@
+{
+    "title": "B08Y69PZSH",
+    "id": "B08Y69PZSH",
+    "price": 26.0,
+    "overview": "MISS",
+    "discount": 3.0,
+    "country": "US",
+    "quantity": 34,
+    "missOverview": true,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

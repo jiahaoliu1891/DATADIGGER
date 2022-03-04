@@ -1,0 +1,14 @@
+{
+    "title": "B09KKJ161P",
+    "id": "B09KKJ161P",
+    "price": 10.97,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

@@ -1,0 +1,14 @@
+{
+    "title": "B09J2Z19N8",
+    "id": "B09J2Z19N8",
+    "price": 54.98,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 5,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

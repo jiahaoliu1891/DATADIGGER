@@ -1,0 +1,14 @@
+{
+    "title": "B08SGC46M9",
+    "id": "B08SGC46M9",
+    "price": 84.98,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 11,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

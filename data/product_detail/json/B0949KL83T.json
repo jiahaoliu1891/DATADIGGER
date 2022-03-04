@@ -1,0 +1,20 @@
+{
+    "title": "B0949KL83T",
+    "id": "B0949KL83T",
+    "price": 299.99,
+    "overview": {
+        "_Specific_Uses_For_Product_": "Personal, Gaming",
+        "_Refresh_Rate_": "165 Hz",
+        "_Brand_": "HP",
+        "_Screen_Size_": "27 Inches",
+        "_Screen_Surface_Description_": "Flat"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 7,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

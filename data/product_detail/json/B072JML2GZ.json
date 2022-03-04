@@ -1,0 +1,25 @@
+{
+    "title": "B072JML2GZ",
+    "id": "B072JML2GZ",
+    "price": 107.0,
+    "overview": {
+        "_Model_Name_": "EM925A5A-BS",
+        "_Brand_": "Toshiba",
+        "_Color_": "Black Stainless Steel",
+        "_Material_": "Stainless Steel",
+        "_Human_Interface_Input_": "Keypad, Buttons",
+        "__Installation_Type__": "Countertop",
+        "__Capacity__": "0.9 Cubic Feet",
+        "_Item_Dimensions_LxWxH_": "19.2 x 16.1 x 11.5 inches",
+        "_Item_Weight_": "27.3 Pounds",
+        "_Lock_Type_": "Child Lock Available"
+    },
+    "discount": 7.99,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

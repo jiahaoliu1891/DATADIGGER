@@ -1,0 +1,20 @@
+{
+    "title": "B088CR8NMD",
+    "id": "B088CR8NMD",
+    "price": 10.99,
+    "overview": {
+        "_Material_": "Silicone",
+        "_Color_": "Green",
+        "_Brand_": "DOQAUS",
+        "_Shape_": "LFGB, BPA Free, Dishwasher Safe",
+        "_Item_Weight_": "0.7 Pounds"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 10,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

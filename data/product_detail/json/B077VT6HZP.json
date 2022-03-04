@@ -1,0 +1,20 @@
+{
+    "title": "B077VT6HZP",
+    "id": "B077VT6HZP",
+    "price": 7.99,
+    "overview": {
+        "_Color_": "Transparent",
+        "_Material_": "Plastic",
+        "_Capacity_": "0.2 Liters",
+        "_Brand_": "OXO",
+        "_Item_Dimensions_LxWxH_": "0.56 x 0.56 x 0.56 inches"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

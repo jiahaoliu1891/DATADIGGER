@@ -1,0 +1,19 @@
+{
+    "title": "B08FLKHG8J",
+    "id": "B08FLKHG8J",
+    "price": 10.99,
+    "overview": {
+        "_Color_": "Black Red, Black Gray",
+        "_Material_": "Alloy Steel",
+        "_Brand_": "IBayam",
+        "_Blade_Material_": "Stainless Steel"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 100,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

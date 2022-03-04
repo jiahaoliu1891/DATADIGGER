@@ -1,0 +1,14 @@
+{
+    "title": "B08NFLMPX6",
+    "id": "B08NFLMPX6",
+    "price": 34.99,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 23,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

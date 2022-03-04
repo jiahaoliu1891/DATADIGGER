@@ -1,0 +1,20 @@
+{
+    "title": "B07CVL2D2S",
+    "id": "B07CVL2D2S",
+    "price": 124.99,
+    "overview": {
+        "_Specific_Uses_For_Product_": "Personal, gaming",
+        "_Refresh_Rate_": "75 Hz",
+        "_Brand_": "Acer",
+        "_Screen_Size_": "21.5 Inches",
+        "_Special_Feature_": "Frameless"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 5,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

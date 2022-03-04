@@ -1,0 +1,25 @@
+{
+    "title": "B017LJ70G4",
+    "id": "B017LJ70G4",
+    "price": 14.99,
+    "overview": {
+        "_Material_": "Food-Grade Safe ABS, PE, PP, Tritan, and Silicone (No BPA, Vinyl, Lead, or PVC)",
+        "_Color_": "Blue",
+        "_Brand_": "Bentgo",
+        "_Item_Dimensions_LxWxH_": "7.2 x 7 x 4.15 inches",
+        "_Shape_": "Square",
+        "_Pattern_": "Blue",
+        "_Item_Weight_": "10 Grams",
+        "_Age_Range_(Description)_": "3 and Up",
+        "_Capacity_": "3.4 Pounds",
+        "_Material_Type_Free_": "BPA Free"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

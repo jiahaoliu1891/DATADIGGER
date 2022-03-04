@@ -1,0 +1,14 @@
+{
+    "title": "B00004OCIP",
+    "id": "B00004OCIP",
+    "price": 10.98,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

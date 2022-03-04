@@ -1,0 +1,20 @@
+{
+    "title": "B00EB4ADQW",
+    "id": "B00EB4ADQW",
+    "price": 12.99,
+    "overview": {
+        "_Brand_": "Fujifilm",
+        "_Model_Name_": "MAIN-17422",
+        "_Film_Color_": "Color",
+        "_Film_Format_Type_": "Instant",
+        "_Compatible_Devices_": "Fujifilm instax mini"
+    },
+    "discount": 7.76,
+    "country": "US",
+    "quantity": 20,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

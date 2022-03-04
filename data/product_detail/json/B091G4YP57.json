@@ -1,0 +1,14 @@
+{
+    "title": "B091G4YP57",
+    "id": "B091G4YP57",
+    "price": 29.99,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 6,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

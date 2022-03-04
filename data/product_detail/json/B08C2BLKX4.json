@@ -1,0 +1,18 @@
+{
+    "title": "B08C2BLKX4",
+    "id": "B08C2BLKX4",
+    "price": 20.99,
+    "overview": {
+        "_Material_": "Silicone",
+        "_Color_": "Blue",
+        "_Brand_": "Yoove"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

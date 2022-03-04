@@ -1,0 +1,18 @@
+{
+    "title": "B07FW3GTXB",
+    "id": "B07FW3GTXB",
+    "price": 9.99,
+    "overview": {
+        "_Brand_": "Alex Tech",
+        "_Color_": "Black",
+        "_Item_Dimensions_LxWxH_": "10.43 x 10.43 x 0.63 inches"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 100,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

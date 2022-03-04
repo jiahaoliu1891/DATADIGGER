@@ -1,0 +1,19 @@
+{
+    "title": "B08N9Q24M9",
+    "id": "B08N9Q24M9",
+    "price": 29.97,
+    "overview": {
+        "_Material_": "Stainless Steel",
+        "_Color_": "Grey/Transparent",
+        "_Blade_Material_": "Stainless Steel",
+        "_Brand_": "Mueller Austria"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

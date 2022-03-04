@@ -1,0 +1,14 @@
+{
+    "title": "B078VNSG71",
+    "id": "B078VNSG71",
+    "price": 27.99,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 27,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

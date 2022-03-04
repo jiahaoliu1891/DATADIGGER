@@ -1,0 +1,19 @@
+{
+    "title": "B07GPFDL1K",
+    "id": "B07GPFDL1K",
+    "price": 18.99,
+    "overview": {
+        "_Brand_": "Delamu",
+        "_Color_": "White",
+        "_Material_": "Polyvinyl Chloride",
+        "_Item_Dimensions_LxWxH_": "157 x 0.95 x 0.55 inches"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 20,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

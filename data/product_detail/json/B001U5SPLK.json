@@ -1,0 +1,14 @@
+{
+    "title": "B001U5SPLK",
+    "id": "B001U5SPLK",
+    "price": 0,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 0,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": true
+}

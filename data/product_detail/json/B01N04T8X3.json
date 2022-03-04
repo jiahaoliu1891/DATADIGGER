@@ -1,0 +1,20 @@
+{
+    "title": "B01N04T8X3",
+    "id": "B01N04T8X3",
+    "price": 29.48,
+    "overview": {
+        "_Size_": "2-Pack",
+        "_Material_": "Plastic",
+        "_Color_": "Clear",
+        "_Brand_": "Nordic Ware",
+        "_Item_Dimensions_LxWxH_": "11 x 12.2 x 2.1 inches"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

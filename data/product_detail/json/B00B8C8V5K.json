@@ -1,0 +1,14 @@
+{
+    "title": "B00B8C8V5K",
+    "id": "B00B8C8V5K",
+    "price": 0,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 0,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": true
+}

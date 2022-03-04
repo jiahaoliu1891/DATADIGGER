@@ -1,0 +1,20 @@
+{
+    "title": "B08RLC1WY8",
+    "id": "B08RLC1WY8",
+    "price": 50.33,
+    "overview": {
+        "_Brand_": "YETI",
+        "_Color_": "Aquifer Blue",
+        "_Material_": "Stainless Steel",
+        "_Capacity_": "13.92 Ounces",
+        "_Item_Dimensions_LxWxH_": "6 x 4 x 4 inches"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 1,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

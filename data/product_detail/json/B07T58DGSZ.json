@@ -1,0 +1,25 @@
+{
+    "title": "B07T58DGSZ",
+    "id": "B07T58DGSZ",
+    "price": 13.54,
+    "overview": {
+        "_Compatible_Devices_": "Tablets, Speakers, Cellular Phones",
+        "_Connectivity_Technology_": "USB",
+        "_Connector_Type_": "USB",
+        "_Brand_": "AHRISE",
+        "_Total_USB_Ports_": "4",
+        "_Wattage_": "1250 watts",
+        "_Color_": "Black",
+        "_Current_Rating_": "2.4 Amps, 10 Amps",
+        "_Output_Voltage_": "5 Volts",
+        "_Material_": "Acrylonitrile Butadiene Styrene, Polycarbonate"
+    },
+    "discount": 4.43,
+    "country": "US",
+    "quantity": 12,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

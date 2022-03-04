@@ -1,0 +1,22 @@
+{
+    "title": "B08C2KLYXN",
+    "id": "B08C2KLYXN",
+    "price": 39.9,
+    "overview": {
+        "_Power_Source_": "Solar Powered, Battery Powered",
+        "_Brand_": "JALL",
+        "_Color_": "Green",
+        "_Hardware_Interface_": "USB",
+        "_Connectivity_Technology_": "USB",
+        "_Item_Weight_": "0.1 Kilograms",
+        "_Item_Dimensions_LxWxH_": "7.48 x 3.15 x 0.59 inches"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

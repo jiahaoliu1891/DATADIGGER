@@ -1,0 +1,20 @@
+{
+    "title": "B000LXA9YI",
+    "id": "B000LXA9YI",
+    "price": 10.35,
+    "overview": {
+        "_Model_Name_": "Miniature Skillet",
+        "_Material_": "Cast Iron",
+        "_Brand_": "Lodge",
+        "_Item_Diameter_": "3.5 Inches",
+        "_Color_": "Black"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

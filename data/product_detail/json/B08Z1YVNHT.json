@@ -1,0 +1,14 @@
+{
+    "title": "B08Z1YVNHT",
+    "id": "B08Z1YVNHT",
+    "price": 35.73,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

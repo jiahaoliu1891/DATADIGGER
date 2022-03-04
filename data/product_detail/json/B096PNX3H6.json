@@ -1,0 +1,14 @@
+{
+    "title": "B096PNX3H6",
+    "id": "B096PNX3H6",
+    "price": 42.5,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 19,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

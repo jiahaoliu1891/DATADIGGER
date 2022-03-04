@@ -1,0 +1,20 @@
+{
+    "title": "B08RLX3VMP",
+    "id": "B08RLX3VMP",
+    "price": 27.17,
+    "overview": {
+        "_Material_": "Steel",
+        "_Color_": "Alpine",
+        "_Capacity_": "1.1 Pounds",
+        "_Brand_": "Hydro Flask",
+        "_Item_Weight_": "0.05 Pounds"
+    },
+    "discount": 2.78,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

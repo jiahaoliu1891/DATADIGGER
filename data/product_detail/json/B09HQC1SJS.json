@@ -1,0 +1,19 @@
+{
+    "title": "B09HQC1SJS",
+    "id": "B09HQC1SJS",
+    "price": 35.99,
+    "overview": {
+        "_Color_": "Army Green",
+        "_Material_": "Metal",
+        "_Brand_": "Kitchen Mama",
+        "_Operation_Mode_": "Automatic"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

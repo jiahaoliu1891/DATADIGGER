@@ -1,0 +1,14 @@
+{
+    "title": "B09HPC41XL",
+    "id": "B09HPC41XL",
+    "price": 21.4,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 3,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

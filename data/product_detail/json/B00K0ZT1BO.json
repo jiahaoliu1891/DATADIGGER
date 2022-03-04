@@ -1,0 +1,20 @@
+{
+    "title": "B00K0ZT1BO",
+    "id": "B00K0ZT1BO",
+    "price": 29.95,
+    "overview": {
+        "_Brand_": "Cuisinart",
+        "_Color_": "Black",
+        "_Material_": "Plastic",
+        "_Item_Dimensions_LxWxH_": "6.5 x 11 x 7.2 inches",
+        "_Item_Weight_": "2.6 Pounds"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 5,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

@@ -1,0 +1,20 @@
+{
+    "title": "B08BP884NG",
+    "id": "B08BP884NG",
+    "price": 18.99,
+    "overview": {
+        "_Brand_": "Etekcity",
+        "_Material_": "Stainless Steel, Plastic",
+        "_Item_Weight_": "20.8 Ounces",
+        "_Readout_Accuracy_": "\uff1c1000 g , 0.1g; 1000 g - 5000 g, 1g Grams",
+        "_Weight_Limit_": "5 Kilograms"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 32,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

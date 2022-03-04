@@ -1,0 +1,22 @@
+{
+    "title": "B07WVFCVJN",
+    "id": "B07WVFCVJN",
+    "price": 29.0,
+    "overview": {
+        "_Connectivity_Technology_": "Wi-Fi",
+        "_Brand_": "Roku",
+        "_Supported_Internet_Services_": "Netflix, Prime Video, HBO, Hulu with Live TV, Apple TV, The Roku Channel, Showtime and Google Play",
+        "_Item_Weight_": "1.1 Ounces",
+        "_Item_Dimensions_LxWxH_": "1.5 x 0.8 x 2.8 inches",
+        "_Control_Method_": "Voice",
+        "_Controller_Type_": "Remote Control"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 3,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

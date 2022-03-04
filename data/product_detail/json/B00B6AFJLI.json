@@ -1,0 +1,14 @@
+{
+    "title": "B00B6AFJLI",
+    "id": "B00B6AFJLI",
+    "price": 32.95,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 3,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

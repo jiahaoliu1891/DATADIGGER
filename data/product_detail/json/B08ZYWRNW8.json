@@ -1,0 +1,23 @@
+{
+    "title": "B08ZYWRNW8",
+    "id": "B08ZYWRNW8",
+    "price": 39.99,
+    "overview": {
+        "_Material_": "Bamboo Wood",
+        "_Special_Feature_": "Expandable, Adjustable",
+        "_Color_": "Black",
+        "_Brand_": "Pipishell",
+        "_Item_Dimensions_LxWxH_": "19.68 x 16.92 x 1.92 inches",
+        "_Number_of_Compartments_": "8",
+        "_Shape_": "Rectangular",
+        "_Unit_Count_": "1.0 Count"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 100,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

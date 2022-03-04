@@ -1,0 +1,20 @@
+{
+    "title": "B08PHMN4TK",
+    "id": "B08PHMN4TK",
+    "price": 14.99,
+    "overview": {
+        "_Color_": "Black Stripes",
+        "_Brand_": "HOMESPON",
+        "_Item_Dimensions_LxWxH_": "7 x 6 x 6 inches",
+        "_Age_Range_(Description)_": "Adult",
+        "_Capacity_": "6.4 Liters"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

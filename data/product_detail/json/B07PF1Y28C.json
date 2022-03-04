@@ -1,0 +1,14 @@
+{
+    "title": "B07PF1Y28C",
+    "id": "B07PF1Y28C",
+    "price": 69.99,
+    "overview": "MISS",
+    "discount": 40.0,
+    "country": "US",
+    "quantity": 5,
+    "missOverview": true,
+    "missDiscount": false,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

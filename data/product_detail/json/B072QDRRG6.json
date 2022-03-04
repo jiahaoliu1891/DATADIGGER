@@ -1,0 +1,14 @@
+{
+    "title": "B072QDRRG6",
+    "id": "B072QDRRG6",
+    "price": 15.99,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

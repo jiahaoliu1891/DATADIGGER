@@ -1,0 +1,14 @@
+{
+    "title": "B09JL3Q2S9",
+    "id": "B09JL3Q2S9",
+    "price": 47.75,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 3,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

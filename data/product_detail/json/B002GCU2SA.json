@@ -1,0 +1,14 @@
+{
+    "title": "B002GCU2SA",
+    "id": "B002GCU2SA",
+    "price": 0,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 0,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": true
+}

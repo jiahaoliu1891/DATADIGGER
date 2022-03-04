@@ -1,0 +1,14 @@
+{
+    "title": "B09NYQ4XGM",
+    "id": "B09NYQ4XGM",
+    "price": 49.99,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

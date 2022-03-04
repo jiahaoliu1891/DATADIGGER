@@ -1,0 +1,20 @@
+{
+    "title": "B001E1Y5O6",
+    "id": "B001E1Y5O6",
+    "price": 11.92,
+    "overview": {
+        "_Color_": "Black",
+        "_Brand_": "VELCRO Brand",
+        "_Item_Dimensions_LxWxH_": "3 x 1.13 x 7.25 inches",
+        "_Style_": "Pack of 100",
+        "_Number_Of_Pieces_": "100"
+    },
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 30,
+    "missOverview": false,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

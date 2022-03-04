@@ -1,0 +1,14 @@
+{
+    "title": "B08QTNMWW1",
+    "id": "B08QTNMWW1",
+    "price": 15.25,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 6,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}

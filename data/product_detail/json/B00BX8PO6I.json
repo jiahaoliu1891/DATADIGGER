@@ -1,0 +1,14 @@
+{
+    "title": "B00BX8PO6I",
+    "id": "B00BX8PO6I",
+    "price": 13.75,
+    "overview": "MISS",
+    "discount": 0.0,
+    "country": "US",
+    "quantity": 16,
+    "missOverview": true,
+    "missDiscount": true,
+    "missCountry": false,
+    "missQuantity": false,
+    "missPrice": false
+}
