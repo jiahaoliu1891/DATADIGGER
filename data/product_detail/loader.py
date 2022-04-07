@@ -109,8 +109,11 @@ def statistics():
     misses = {'missPrice': 0, 'missOverview': 0, 'missCountry': 0, 'missQuantity': 0, 'missDiscount': 0}
     prices, quantities, discount = [], [], []
 
+    cnt = 0
+
     for filename in os.listdir('./json'):
         with open(f'./json/{filename}', 'r') as f:
+            cnt += 1
             product = json.load(f)
             # miss data stat
             for key in misses.keys():
@@ -125,11 +128,15 @@ def statistics():
 
             if not product['missDiscount']:
                 discount.append(product['discount'])
-            
+    
+    print(f'Total Product Number: {cnt}')
     print(f'Miss Data Stat:\n{misses}')
     print(f'Price Range: {np.min(prices)} ~ {np.max(prices)}, mean:{np.mean(prices)}, std: {np.std(prices)}, median:{np.median(prices)}')
     print(f'Quantity Range: {np.min(quantities)} ~ {np.max(quantities)}, mean:{np.mean(quantities)}, std: {np.std(quantities)}, median:{np.median(quantities)}')
     print(f'Discount Range: {np.min(discount)} ~ {np.max(discount)}, mean:{np.mean(discount)}, std: {np.std(discount)}, median:{np.median(discount)}')
+
+    plt.hist(quantities, bins=100, range=(0, 500))
+    plt.show()
 
 
 
