@@ -17,15 +17,17 @@ for filename in os.listdir(DATAPATH_JSON):
         # now only category and product_listings left
         _category, _product_listings = bs['category'], bs['product_listings']
         for product_listing in _product_listings:
-            _id, _name, _ratings_count, _rating = product_listing['asin'], product_listing['name'], product_listing[
+            _id, _rank, _name, _ratings_count, _rating = product_listing['asin'], product_listing['rank'], product_listing['name'], product_listing[
                 'ratings_count'], product_listing['rating']
-            temp = [_id, _name, _ratings_count, _rating, _category]
+            if _id == None:
+                continue
+            temp = [_id, _rank, _name, _ratings_count, _rating, _category]
             bs_rows.append(temp)
 # print(bs_rows)
 
 df_bs = pd.DataFrame(bs_rows)
-df_bs.columns = ['asin', 'name', 'ratings_count', 'rating', 'category']
-# print(df_bs)
+df_bs.columns = ['asin', 'rank', 'name', 'ratings_count', 'rating', 'category']
+print(df_bs)
 
 # flatten the df
 # df_bs = pd.json_normalize(
