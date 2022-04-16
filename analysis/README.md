@@ -48,7 +48,7 @@ After: $[2.6e^{-4}, 0.00, 0.80, 6.9e^{-5}]$
 In this experiment, we explore how different data features influence the experiment results.
 We disable a feature in the dataset once a time and do K-fold cross validation to find the best hyper parameters under such setting. Then we compute how will the final accuracy drop if the model is not trained with certain feature. The following image is accuracy decrease without different features:
 
-![alt text](./figure/ml_val.png)
+![alt text](./figure/ml_feat.png)
 
 We can see the most influential feature is rating number, while the other features has lower influence. 
 
@@ -80,7 +80,7 @@ We can see the most influential feature is rating number, while the other featur
     
 *  **What is your interpretation of the results?**
     * Our best test accuracy is 57%, which means we can predict the label correctly about 57 times out of 100 trials.
-    
+
 *  **Are you satisfied with your prediction accuracy?**
     * At first we got 55% accuracy, and we are not satisfied with it.
 
