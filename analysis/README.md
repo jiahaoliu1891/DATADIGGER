@@ -92,5 +92,105 @@ We can see the most influential feature is rating number, while the other featur
     * At first we got 55% accuracy, and we are not satisfied with it. Since this is a binary classification problem, 55% accuracy is just a little better than random guess. Consider a real world scenario, a amazon seller may want to use the model to predict whether a product will be popular, and 55% is not a satisfying accuracy.
 
 *  **Intuitively, how do you react to the results? Are you confident in the results?**
+<<<<<<< HEAD
     * Since we are not quite satisfied with the prediction accuracy at first,  we use grid search to find the best hyper parameters and gain 2 percents (from 55% to 57%) accuracy improvement. 
     * We review our codes and experiments carefully, therefore we are confident in the results.
+=======
+    * Since we are not quite satisfied with the prediction accuracy at first,  we use grid search to find the best hyper parameters and gain 2 percents (from 55% to 57%) accuracy improvement. We are confident in the results.
+    
+## Hypothesis Testing Component
+### Introduction
+
+In this component, we are to test the factors that might have impact on being a best seller and do testing on some interesting facts in the data. The data is defined that the top 50 sellers are the best sellers. Therefore, we mainly focus on the the comparison between the top 50 and the others/the overall.
+
+### Experiment Details
+**Hypothesis Testing 1**
+
+In this test, we tested the hypothesis:
+
+H0: The ratings of category 'Baby' shows no difference from the ratings of the others.
+
+H1: The ratings of category 'Baby' shows a significant difference from the ratings of the others.
+
+The reason why we have these hypothesis is that we found that the distribution of rating of the baby's category is significantly different from the rating of all the categories and the average rating of the baby's category is higher. Then we assume that the product tend to be of better quality for baby.  
+
+![alt text](./figure/h1_overall.png "The distribution of rating of all the category")
+
+![alt text](./figure/h1_baby.png "The distribution of rating of the baby's category")
+
+We can reject the null hypothesis since alpha = 0.05 and the test stats is 5.98191204258953, which is positive and indicates that the rejection region is on the right, so we have the corresponding value in z-table as 1.960, which is less than 5.98191204258953.
+
+Therefore, we can say the products which are in the ‘Baby’ category are of higher quality, these sellers tend to have more quality control in this area compare with the overall rating distribution of all the categories.
+
+**Hypothesis Testing 2**
+
+In this test,we tested the hypothesis:
+
+H0: The length of the product title of the electronic category is irrelavant to being best seller.
+
+H1: The length of the product title of the electronic category is relavant to being best seller.
+
+As shown in the figures below, the title length of the electronics goes up as the rank in the category goes higher. Then we think the longer description might be more attractive to the customers.
+
+![alt text](./figure/h2_top50.png "The distribution of the length of the name for the top 50")
+
+![alt text](./figure/h2_others.png "The distribution of the length of the name for the others")
+
+As the result, we cannot reject the null hypothesis since degree of freedom is 90.999513442532 and the test stats is -1.4526947546293916, which is negative and indicates that the rejection region is on the left, so we have the corresponding value in t-table as -1.987, which is less than -1.4526947546293916.
+
+Therefore, we can say that of 95% chance the length of the name is irrelavant to being the best seller. In other words, how long do the sellers descript the products won’t have impact on being best sellers.
+
+**Hypothesis Testing 3**
+
+In this test, we tested the hypothesis:
+
+H0: The number of rating count and being a best seller are independent.
+
+H1: There is an association between the number of rating count and being a best seller.
+
+Since Amazon always top the best sellers' product and stastically the rating count of the best sellers' items seems higher than the normal sellers' and the number of the ratings indicates how many people buy the product. We think probably there is a relationship between the ratings count and being the best seller.
+
+The ratings count in each category of top 50 sellers:
+
+| Category  | Ratings Count  |
+|:----------|:----------|
+Baby|1468092.0Camera & Photo Products|397632.0Electronics|4368936.0Industrial & Scientific|1173969.0Kitchen & Dining|1954847.0Magazine Subscriptions|354759.0Office Products|1897105.0Sports Collectibles|14338.0
+
+The ratings count in each category of all the sellers:
+
+| Category  | Ratings Count  |
+|:----------|:----------|
+Baby|2412915.0Camera & Photo Products|727130.0Electronics|6005474.0Industrial & Scientific|1994542.0Kitchen & Dining|3269180.0Magazine Subscriptions|504523.0Office Products|3005608.0Sports Collectibles|19801.0
+
+Ratio of each category of the tables above:
+
+| Category  | Ratio (top50_counts/all_counts)  |
+|:----------|:----------|
+|Baby|0.608431|Camera & Photo Products|0.546851|Electronics|0.727492|Industrial & Scientific|0.588591|Kitchen & Dining|0.597962|Magazine Subscriptions|0.703157|Office Products|0.631188|Sports Collectibles|0.724105
+
+We can see that the ratio varies among categories. So we can assume that in different categories, the ratings count has different association with being best sellers to some extent.
+
+As the result, We can reject the null hypothesis since according to the chi-square table, alpha = 0.05 and the number of category is 8, which means that df = 7, we have the critical value is 14.067, and this value is less than the chi_square stats.
+Actually even when a;pha = 0.05, the critical value is 20.278, which is still less than the stats, so we can say that it is of 99.5% chance that there is an association between the number of rating count and being a best seller.
+
+
+### Questions in Handout
+*  **Why did you use this statistical test or ML algorithm?**
+    * In hypothesis testing, we decide to use t-test, z-test and chi-square goodness of fit test to analysis the data.
+    * We test the facts that might influence the being of best seller. In the analysis, we test the relationship between the length of the product name and being best seller and the relationship between the number of rating count and being best seller.
+    * Given the fact that we set the top 50 sellers as the best seller, we conduct the analysis and do the comparison between the top 50 and the others or the top 50 and the whole population.
+    
+*  **Which other tests did you consider or evaluate?**
+    * We also test the relationship between the products in baby's category and all the products. The details, including the reason why we find this analysis is interesting, are in the hypothesis testing 1.
+    
+*  **How did you measure success or failure?**
+    * In general view, since ypothesis testing is a statistical inference method used to judge whether the differences between samples and samples and between samples and the population are caused by sampling error or essential differences, it is hard to say whethere it is successful or not, we just use it as a method to test our hypothesis. 
+    * However, in the testing, we follow the testing methods, for instance, we check t-table for t-test and based on the test stats, alpha, etc. and decide whether to reject the null hypothesis or not.
+    
+*  **What is your interpretation of the results?**
+    * The interpretations of the results are discussed above in hypothesis testing 1, 2 & 3.
+
+*  **Intuitively, how do you react to the results? Are you confident in the results?**
+    * The test 1 and 3 really don't surprise us and we are quite confident in the results, since the charts and figures are really obvious to make the hypothesis, and the stats in the results support our hypothesis. 
+    * The test 2 really beyond our expectation since we think the more description for the product might leads to the more attractions to potential buyers.
+>>>>>>> 2889da4dc810ba700522fe92b57f1270c85c9e83
