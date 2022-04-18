@@ -79,10 +79,18 @@ We can see the most influential feature is rating number, while the other featur
     * Also since our dataset is relatively small, the test accuracy may vary from time to time. Therefore we choose to repeat test for multiple times and then compute the average accuracy.
     
 *  **What is your interpretation of the results?**
-    * Our best test accuracy is 57%, which means we can predict the label correctly about 57 times out of 100 trials.
+    * Our best test accuracy is 57%, which means we can predict the label correctly about 57 times out of 100 trials. We also compute the confusion matrix as below:
+
+    |                     |   real negative    |     real positive    |
+    |---------------------|--------------------|----------------------|
+    |  predicted negative |        79          |       23             |
+    |  predicted positive |        55          |       37             |
+
+    And we can see, the false positive rate is high, which means the model prones to classify a non-top-seller product as a top-seller product.
 
 *  **Are you satisfied with your prediction accuracy?**
-    * At first we got 55% accuracy, and we are not satisfied with it.
+    * At first we got 55% accuracy, and we are not satisfied with it. Since this is a binary classification problem, 55% accuracy is just a little better than random guess. Consider a real world scenario, a amazon seller may want to use the model to predict whether a product will be popular, and 55% is not a satisfying accuracy.
 
 *  **Intuitively, how do you react to the results? Are you confident in the results?**
-    * Since we are not quite satisfied with the prediction accuracy at first,  we use grid search to find the best hyper parameters and gain 2 percents (from 55% to 57%) accuracy improvement. We are confident in the results.
+    * Since we are not quite satisfied with the prediction accuracy at first,  we use grid search to find the best hyper parameters and gain 2 percents (from 55% to 57%) accuracy improvement. 
+    * We review our codes and experiments carefully, therefore we are confident in the results.
