@@ -52,6 +52,7 @@ We disable a feature in the dataset once a time and do K-fold cross validation t
 
 We can see the most influential feature is rating number, while the other features has lower influence. 
 
+
 ### Questions in Handout
 *  **Did you have to clean or restructure your data?**
     * Yes. Some of our data contains N/A property. Therefore we should drop these rows.
@@ -92,12 +93,10 @@ We can see the most influential feature is rating number, while the other featur
     * At first we got 55% accuracy, and we are not satisfied with it. Since this is a binary classification problem, 55% accuracy is just a little better than random guess. Consider a real world scenario, a amazon seller may want to use the model to predict whether a product will be popular, and 55% is not a satisfying accuracy.
 
 *  **Intuitively, how do you react to the results? Are you confident in the results?**
-<<<<<<< HEAD
     * Since we are not quite satisfied with the prediction accuracy at first,  we use grid search to find the best hyper parameters and gain 2 percents (from 55% to 57%) accuracy improvement. 
     * We review our codes and experiments carefully, therefore we are confident in the results.
-=======
-    * Since we are not quite satisfied with the prediction accuracy at first,  we use grid search to find the best hyper parameters and gain 2 percents (from 55% to 57%) accuracy improvement. We are confident in the results.
-    
+
+
 ## Hypothesis Testing Component
 ### Introduction
 
@@ -154,19 +153,40 @@ The ratings count in each category of top 50 sellers:
 
 | Category  | Ratings Count  |
 |:----------|:----------|
-Baby|1468092.0Camera & Photo Products|397632.0Electronics|4368936.0Industrial & Scientific|1173969.0Kitchen & Dining|1954847.0Magazine Subscriptions|354759.0Office Products|1897105.0Sports Collectibles|14338.0
+Baby|1468092.0
+Camera & Photo Products|397632.0
+Electronics|4368936.0
+Industrial & Scientific|1173969.0
+Kitchen & Dining|1954847.0
+Magazine Subscriptions|354759.0
+Office Products|1897105.0
+Sports Collectibles|14338.0
 
 The ratings count in each category of all the sellers:
 
 | Category  | Ratings Count  |
 |:----------|:----------|
-Baby|2412915.0Camera & Photo Products|727130.0Electronics|6005474.0Industrial & Scientific|1994542.0Kitchen & Dining|3269180.0Magazine Subscriptions|504523.0Office Products|3005608.0Sports Collectibles|19801.0
+Baby|2412915.0
+Camera & Photo Products|727130.0
+Electronics|6005474.0
+Industrial & Scientific|1994542.0
+Kitchen & Dining|3269180.0
+Magazine Subscriptions|504523.0
+Office Products|3005608.0
+Sports Collectibles|19801.0
 
 Ratio of each category of the tables above:
 
 | Category  | Ratio (top50_counts/all_counts)  |
 |:----------|:----------|
-|Baby|0.608431|Camera & Photo Products|0.546851|Electronics|0.727492|Industrial & Scientific|0.588591|Kitchen & Dining|0.597962|Magazine Subscriptions|0.703157|Office Products|0.631188|Sports Collectibles|0.724105
+|Baby|0.608431
+|Camera & Photo Products|0.546851
+|Electronics|0.727492
+|Industrial & Scientific|0.588591
+|Kitchen & Dining|0.597962
+|Magazine Subscriptions|0.703157
+|Office Products|0.631188
+|Sports Collectibles|0.724105
 
 We can see that the ratio varies among categories. So we can assume that in different categories, the ratings count has different association with being best sellers to some extent.
 
