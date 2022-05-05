@@ -107,9 +107,9 @@ In this component, we are to test the factors that might have impact on being a 
 
 In this test, we tested the hypothesis:
 
-H0: The ratings of category 'Baby' shows no difference from the ratings of the others.
+H0: There’s not a significant difference between the distribution of ratings for the ‘baby' category compared to the distribution of other categories
 
-H1: The ratings of category 'Baby' shows a significant difference from the ratings of the others.
+H1: There’s a significant difference between the distribution of ratings for the ‘baby' category compared to the distribution of other categories
 
 The reason why we have these hypothesis is that we found that the distribution of rating of the baby's category is significantly different from the rating of all the categories and the average rating of the baby's category is higher. Then we assume that the product tend to be of better quality for baby.  
 
