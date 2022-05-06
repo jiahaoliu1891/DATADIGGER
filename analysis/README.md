@@ -117,6 +117,8 @@ The reason why we have these hypothesis is that we found that the distribution o
 
 ![alt text](./figure/h1_baby.png "The distribution of rating of the baby's category")
 
+In this testing, we choose to use the z-test, since we are testing on a reletively larger data, comparing what we are going to test in hypothesis testing 2 and z-test handles larger data better that t-test, they both could do the test though. 
+
 We can reject the null hypothesis since alpha = 0.05 and the test stats is 5.98191204258953, which is positive and indicates that the rejection region is on the right, so we have the corresponding value in z-table as 1.960, which is less than 5.98191204258953.
 
 Therefore, we can say the products which are in the ‘Baby’ category are of higher quality, these sellers tend to have more quality control in this area compare with the overall rating distribution of all the categories.
@@ -134,6 +136,8 @@ As shown in the figures below, the title length of the electronics goes up as th
 ![alt text](./figure/h2_top50.png "The distribution of the length of the name for the top 50")
 
 ![alt text](./figure/h2_others.png "The distribution of the length of the name for the others")
+
+In this test, we choose to use the t-test since this kind of test handles better on the normal distribution that we don't know the standard deviation, and also, the 'electronics' data is small, comparing with the whole dataset.
 
 As the result, we cannot reject the null hypothesis since degree of freedom is 90.999513442532 and the test stats is -1.4526947546293916, which is negative and indicates that the rejection region is on the left, so we have the corresponding value in t-table as -1.987, which is less than -1.4526947546293916.
 
